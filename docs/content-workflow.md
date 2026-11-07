@@ -44,6 +44,24 @@ docker compose create db && docker compose start db   # 5433（本机 3000/8080 
 
 ## 3. 人工核验
 
+### 3.1 工作台（推荐）
+
+```bash
+.venv/bin/python tools/review_workbench.py            # http://127.0.0.1:8790
+.venv/bin/python tools/review_workbench.py --limit 24 # 一次加载多少条
+```
+
+页面把待核验候选铺成卡片：缩略图、作者、材质年代、馆藏、`source_url` 直链、原始授权依据。
+点「通过」就把该副本写成 `verified`（下拉框选 CC0 / PDM / 忠实副本），点「拒绝」写 `rejected`，
+卡片即时消失、顶部计数与进度条同步。
+
+刻意**没有批量通过**：授权是逐张图片的事实，批量就是给自己埋雷。左上角可按中西分区筛。
+
+缩略图用的是 `web-large`（Met 的 `/original/` 动辄几十 MB，24 张就能把浏览器拖死）；
+图源加载不出来时会显示「图源未加载 · 点开核对授权」，不影响判断。
+
+### 3.2 命令行（单条、脚本化）
+
 ```bash
 .venv/bin/python tools/verify_image.py --list-pending --limit 20
 # 打开打印出来的 source_url，确认页面上的 CC0 / Public Domain 标识，然后：
@@ -89,6 +107,7 @@ cd apps/web && npm run build
 | 门禁（核验一条） | 视图 1 行，导出该条（Met 36048 张择端《清明上河图》） |
 | 人工核验抗覆盖 | 重新 seed 后该条仍为 `verified` / `by=chenxiang` |
 | 多副本去重 | 同一作品 2 条 verified → 视图 2 行，导出 1 行 |
+| 核验工作台（新增） | 页面点「通过」→ 数据库 `verified` / `license=CC0` / `by=workbench` → 视图 1 行 → 导出一致，计数 228→227、卡片 24→23 |
 
 ## 尚未做
 

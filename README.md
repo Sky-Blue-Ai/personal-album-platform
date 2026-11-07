@@ -14,7 +14,7 @@
 |---|---|
 | 内容抓取（39 位艺术家 / 228 条候选） | ✅ 已跑通 |
 | M0 仓库骨架 | 🟡 web 完成；`apps/mobile`、`services/api`、CI 未建 |
-| M1 数据模型与发布门禁 | ✅ schema + 导入 + 门禁视图 + 导出（API 层未做） |
+| M1 数据模型与发布门禁 | ✅ schema + 导入 + 门禁视图 + 核验工作台 + 导出（API 层未做） |
 | M2 图片管线 | 🟡 只有下载 + 缩放，无瓦片/IIIF |
 | M3 Web MVP | 🟡 首页 + 作品详情 + about，17 件演示图 |
 | M4/M5/M6 客户端、长卷、收藏 | ⬜ 未开工（客户端需 macOS / 大内存机器） |
@@ -30,6 +30,7 @@
 | `tools/build_design_tokens.py` | 令牌 → web `@theme` / Kotlin 常量 / 预览页 |
 | `db/migrations/` | PostgreSQL schema，含门禁视图 `v_published_artworks` |
 | `tools/db_migrate.py` / `seed_db.py` / `verify_image.py` / `export_web_content.py` | 迁移 / 导入 / 人工核验 / 导出 |
+| `tools/review_workbench.py` | 核验工作台：浏览器里逐条看候选、点通过/拒绝，直接写库 |
 | `apps/web` | Next.js 15 + Tailwind v4 静态站 |
 | `docs/architecture.md` | 三端架构、数据模型、图片管线、里程碑 |
 
@@ -47,7 +48,8 @@ python3.11+ -m venv .venv            # 需要 3.11 及以上解释器
 docker compose create db && docker compose start db   # 端口 5433（本机 3000/8080 已被占用）
 .venv/bin/python tools/db_migrate.py
 .venv/bin/python tools/seed_db.py
-.venv/bin/python tools/verify_image.py --list-pending --limit 20
+.venv/bin/python tools/review_workbench.py          # 浏览器 http://127.0.0.1:8790 逐条核验
+# 或单条命令行：
 .venv/bin/python tools/verify_image.py met 36048 --license CC0 --by <你的名字> \
     --evidence "Met Open Access: object 36048 isPublicDomain=true"
 .venv/bin/python tools/export_web_content.py          # 只导 verified；--demo 可本地预览全部
