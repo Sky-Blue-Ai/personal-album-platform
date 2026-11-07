@@ -1,0 +1,495 @@
+[
+  {
+    "id": "gu-kaizhi",
+    "artist": {
+      "name_zh": "顾恺之（传）",
+      "name_en": "Gu Kaizhi"
+    },
+    "region": "cn",
+    "phase": 1,
+    "title_zh": null,
+    "title": "The Hills of Kuaiji",
+    "date": "18th cenury or later",
+    "medium": "Handscroll; ink and color on silk",
+    "dimensions": "19 3/8 in. × 23 ft. 4 3/8 in. (49.2 × 712.2 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "unidentified_search_hit",
+    "target_match": "none",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 51292 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/51292",
+    "credit_line": "John Stewart Kennedy Fund, 1913",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/gu-kaizhi.jpg",
+      "thumb": "/art/gu-kaizhi-thumb.jpg",
+      "width": 1989,
+      "height": 1523
+    }
+  },
+  {
+    "id": "fan-kuan",
+    "artist": {
+      "name_zh": "范宽",
+      "name_en": "Fan Kuan"
+    },
+    "region": "cn",
+    "phase": 1,
+    "title_zh": "雪景寒林图",
+    "title": "Landscape",
+    "date": "late 14th century",
+    "medium": "Handscroll; ink on paper",
+    "dimensions": "Image: 9 13/16 x 30 1/2 in. (24.9 x 77.5 cm)\r\nOverall with mounting: 10 1/8 x 347 5/16 in. (25.7 x 882.2 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "target_title_match",
+    "target_match": "partial",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 45650 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/45650",
+    "credit_line": "Edward Elliott Family Collection, Purchase, The Dillon Fund Gift, 1981",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/fan-kuan.jpg",
+      "thumb": "/art/fan-kuan-thumb.jpg",
+      "width": 1881,
+      "height": 1176
+    }
+  },
+  {
+    "id": "guo-xi",
+    "artist": {
+      "name_zh": "郭熙",
+      "name_en": "Guo Xi"
+    },
+    "region": "cn",
+    "phase": 1,
+    "title_zh": "窠石平远图",
+    "title": "Old Trees, Level Distance",
+    "date": "ca. 1080",
+    "medium": "Handscroll; ink and color on silk",
+    "dimensions": "Image: 14 × 41 1/8 in. (35.6 × 104.4 cm)\r\nOverall with mounting: 14 3/4 in. × 28 ft. 1/8 in. (37.5 × 853.8 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "primary",
+    "target_match": "full",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 39668 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/39668",
+    "credit_line": "Gift of John M. Crawford Jr., in honor of Douglas Dillon, 1981",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/guo-xi.jpg",
+      "thumb": "/art/guo-xi-thumb.jpg",
+      "width": 2400,
+      "height": 1281
+    }
+  },
+  {
+    "id": "zhang-zeduan",
+    "artist": {
+      "name_zh": "张择端",
+      "name_en": "Zhang Zeduan"
+    },
+    "region": "cn",
+    "phase": 1,
+    "title_zh": "清明上河图",
+    "title": "Spring Festival on the River",
+    "date": "18th century?",
+    "medium": "Handscroll; ink and color on silk",
+    "dimensions": "11 3/4 in. x 33 ft. (29.8 x 1004.6 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "target_title_match",
+    "target_match": "partial",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 36048 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/36048",
+    "credit_line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/zhang-zeduan.jpg",
+      "thumb": "/art/zhang-zeduan-thumb.jpg",
+      "width": 884,
+      "height": 376
+    }
+  },
+  {
+    "id": "li-gonglin",
+    "artist": {
+      "name_zh": "李公麟",
+      "name_en": "Li Gonglin"
+    },
+    "region": "cn",
+    "phase": 1,
+    "title_zh": null,
+    "title": "The Classic of Filial Piety",
+    "date": "ca. 1085",
+    "medium": "Handscroll; ink and color on silk",
+    "dimensions": "Overall (a, painting): 8 5/8 x 187 1/4 in. (21.9 x 475.6 cm)\r\nOverall (b, colophons): 10 3/8 x 208 5/8 in. (26.4 x 529.9 cm)\r\nOverall (c, modern copy preserving seventeenth century silk restorations): 9 1/8 x 196 in. (23.2 x 497.8 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "primary",
+    "target_match": "none",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 39895 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/39895",
+    "credit_line": "Ex coll.: C. C. Wang Family, From the P. Y. and Kinmay W. Tang Family Collection, Gift of Oscar L. Tang Family, 1996",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/li-gonglin.jpg",
+      "thumb": "/art/li-gonglin-thumb.jpg",
+      "width": 1581,
+      "height": 1935
+    }
+  },
+  {
+    "id": "zhao-ji",
+    "artist": {
+      "name_zh": "赵佶（宋徽宗）",
+      "name_en": "Emperor Huizong"
+    },
+    "region": "cn",
+    "phase": 1,
+    "title_zh": null,
+    "title": "Finches and bamboo",
+    "date": "early 12th century",
+    "medium": "Handscroll; ink and color on silk",
+    "dimensions": "Image: 13 1/4 × 21 13/16 in. (33.7 × 55.4 cm)\r\nOverall with mounting: 13 3/4 in. × 27 ft. 6 5/16 in. (34.9 × 839 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "primary",
+    "target_match": "none",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 39936 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/39936",
+    "credit_line": "John M. Crawford Jr. Collection, Purchase, Douglas Dillon Gift, 1981",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/zhao-ji.jpg",
+      "thumb": "/art/zhao-ji-thumb.jpg",
+      "width": 2400,
+      "height": 1295
+    }
+  },
+  {
+    "id": "huang-gongwang",
+    "artist": {
+      "name_zh": "黄公望",
+      "name_en": "Huang Gongwang"
+    },
+    "region": "cn",
+    "phase": 1,
+    "title_zh": null,
+    "title": "Landscape in the style of Huang Gongwang",
+    "date": "dated 1657",
+    "medium": "Hanging scroll; ink and color on paper",
+    "dimensions": "Image: 45 5/8 x 22 1/8 in. (115.9 x 56.2 cm)\r\nOverall with mounting: 103 1/4 x 29 in. (262.3 x 73.7 cm)\r\nOverall with rollers: 103 1/4 x 32 1/2 in. (262.3 x 82.6 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "copy_or_attributed",
+    "target_match": "none",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 36100 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/36100",
+    "credit_line": "Gift of Mr. and Mrs. Earl Morse, 1972",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/huang-gongwang.jpg",
+      "thumb": "/art/huang-gongwang-thumb.jpg",
+      "width": 851,
+      "height": 1761
+    }
+  },
+  {
+    "id": "ni-zan",
+    "artist": {
+      "name_zh": "倪瓒",
+      "name_en": "Ni Zan"
+    },
+    "region": "cn",
+    "phase": 1,
+    "title_zh": "秋亭嘉树图",
+    "title": "Pavilion amongst Wintry Trees after Ni Zan",
+    "date": "dated 1661",
+    "medium": "Hanging scroll; ink on paper",
+    "dimensions": "45 5/8 x 20 in. (116 x 50.8 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "copy_or_attributed",
+    "target_match": "partial",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 59025 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/59025",
+    "credit_line": "Gift of Marie-Hélène and Guy A. Weill, 2000",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/ni-zan.jpg",
+      "thumb": "/art/ni-zan-thumb.jpg",
+      "width": 2400,
+      "height": 3738
+    }
+  },
+  {
+    "id": "botticelli",
+    "artist": {
+      "name_zh": "波提切利",
+      "name_en": "Botticelli"
+    },
+    "region": "west",
+    "phase": 1,
+    "title_zh": "春",
+    "title": "Three Graces (Primavera?) (Botticelli?); Dying Figure; Figure with a Bow (from Sketchbook)",
+    "date": "1810–20",
+    "medium": "Ink, wash, on paper",
+    "dimensions": "9 x 11 1/2 in. (22.9 x 29.2 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "copy_or_attributed",
+    "target_match": "full",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 16351 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/16351",
+    "credit_line": "Rogers Fund, 1953",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/botticelli.jpg",
+      "thumb": "/art/botticelli-thumb.jpg",
+      "width": 2200,
+      "height": 1720
+    }
+  },
+  {
+    "id": "leonardo",
+    "artist": {
+      "name_zh": "达·芬奇",
+      "name_en": "Leonardo da Vinci"
+    },
+    "region": "west",
+    "phase": 1,
+    "title_zh": "维特鲁威人",
+    "title": "The Head of a Grotesque Man in Profile Facing Right",
+    "date": "after 1500",
+    "medium": "Pen and brown ink, on off-white paper (now darkened)",
+    "dimensions": "(irregular): 3 5/8 × 2 1/8 in. (9.2 × 5.4 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "primary",
+    "target_match": "partial",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 338125 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/338125",
+    "credit_line": "Rogers Fund, 1917",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/leonardo.jpg",
+      "thumb": "/art/leonardo-thumb.jpg",
+      "width": 1003,
+      "height": 1674
+    }
+  },
+  {
+    "id": "michelangelo",
+    "artist": {
+      "name_zh": "米开朗基罗",
+      "name_en": "Michelangelo"
+    },
+    "region": "west",
+    "phase": 1,
+    "title_zh": "大卫",
+    "title": "The Young David Playing the Harp",
+    "date": "ca. 1548–50",
+    "medium": "Black chalk, brush and gray wash, on blue paper; squared in pen and brown ink",
+    "dimensions": "15-3/16 x 5-9/16 in.  (38.6 x 14.1 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "primary",
+    "target_match": "full",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 338104 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/338104",
+    "credit_line": "Rogers Fund, 1961",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/michelangelo.jpg",
+      "thumb": "/art/michelangelo-thumb.jpg",
+      "width": 1423,
+      "height": 3740
+    }
+  },
+  {
+    "id": "raphael",
+    "artist": {
+      "name_zh": "拉斐尔",
+      "name_en": "Raphael"
+    },
+    "region": "west",
+    "phase": 1,
+    "title_zh": "西斯廷圣母",
+    "title": "Madonna of the chair (Madonna della Seggiola)",
+    "date": "1793",
+    "medium": "Engraving; twelfth state of fourteen",
+    "dimensions": "Plate: 16 9/16 × 14 1/2 in. (42.1 × 36.8 cm)\r\nSheet: 18 1/2 × 15 15/16 in. (47 × 40.5 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "primary",
+    "target_match": "partial",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 817290 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/817290",
+    "credit_line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/raphael.jpg",
+      "thumb": "/art/raphael-thumb.jpg",
+      "width": 2400,
+      "height": 2810
+    }
+  },
+  {
+    "id": "rembrandt",
+    "artist": {
+      "name_zh": "伦勃朗",
+      "name_en": "Rembrandt"
+    },
+    "region": "west",
+    "phase": 1,
+    "title_zh": "自画像",
+    "title": "Self-Portrait Drawing at a Window",
+    "date": "1648",
+    "medium": "etching, drypoint, and engraving",
+    "dimensions": "Sheet: 17.3 x 14.5 cm (6 13/16 x 5 11/16 in.); Platemark: 15.6 x 12.9 cm (6 1/8 x 5 1/16 in.)",
+    "holding": "Cleveland Museum of Art",
+    "attribution": null,
+    "target_match": "full",
+    "license": "CC0",
+    "license_evidence": "CMA open access: share_license_status=CC0 (artwork 114751)",
+    "source_url": "https://clevelandart.org/art/1934.350",
+    "credit_line": "Gift of Leonard C. Hanna Jr.",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/rembrandt.jpg",
+      "thumb": "/art/rembrandt-thumb.jpg",
+      "width": 2400,
+      "height": 2821
+    }
+  },
+  {
+    "id": "vermeer",
+    "artist": {
+      "name_zh": "维米尔",
+      "name_en": "Vermeer"
+    },
+    "region": "west",
+    "phase": 1,
+    "title_zh": null,
+    "title": "A Maid Asleep",
+    "date": "ca. 1656–57",
+    "medium": "Oil on canvas",
+    "dimensions": "34 1/2 x 30 1/8 in. (87.6 x 76.5 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "primary",
+    "target_match": "none",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 437878 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/437878",
+    "credit_line": "Bequest of Benjamin Altman, 1913",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/vermeer.jpg",
+      "thumb": "/art/vermeer-thumb.jpg",
+      "width": 2400,
+      "height": 2754
+    }
+  },
+  {
+    "id": "rubens",
+    "artist": {
+      "name_zh": "鲁本斯",
+      "name_en": "Rubens"
+    },
+    "region": "west",
+    "phase": 1,
+    "title_zh": "美惠三女神",
+    "title": "Three Studies of a Woman Wearing an Elaborate Headdress",
+    "date": "c. 1500",
+    "medium": "Pen and brown ink; retouched with brush and brown wash, lead white (partially oxidized)",
+    "dimensions": "Sheet: 12.9 x 12.8 cm (5 1/16 x 5 1/16 in.)",
+    "holding": "Cleveland Museum of Art",
+    "attribution": null,
+    "target_match": "partial",
+    "license": "CC0",
+    "license_evidence": "CMA open access: share_license_status=CC0 (artwork 153723)",
+    "source_url": "https://clevelandart.org/art/1987.31",
+    "credit_line": "John L. Severance Fund",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/rubens.jpg",
+      "thumb": "/art/rubens-thumb.jpg",
+      "width": 2400,
+      "height": 2440
+    }
+  },
+  {
+    "id": "monet",
+    "artist": {
+      "name_zh": "莫奈",
+      "name_en": "Monet"
+    },
+    "region": "west",
+    "phase": 1,
+    "title_zh": "睡莲",
+    "title": "Water Lilies (Agapanthus)",
+    "date": "c. 1915–26",
+    "medium": "oil on canvas",
+    "dimensions": "Framed: 204.9 x 430.3 x 6 cm (80 11/16 x 169 7/16 x 2 3/8 in.); Unframed: 201.3 x 425.6 cm (79 1/4 x 167 9/16 in.)",
+    "holding": "Cleveland Museum of Art",
+    "attribution": null,
+    "target_match": "full",
+    "license": "CC0",
+    "license_evidence": "CMA open access: share_license_status=CC0 (artwork 136510)",
+    "source_url": "https://clevelandart.org/art/1960.81",
+    "credit_line": "John L. Severance Fund and an anonymous gift",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/monet.jpg",
+      "thumb": "/art/monet-thumb.jpg",
+      "width": 2400,
+      "height": 1116
+    }
+  },
+  {
+    "id": "van-gogh",
+    "artist": {
+      "name_zh": "梵高",
+      "name_en": "Van Gogh"
+    },
+    "region": "west",
+    "phase": 1,
+    "title_zh": "自画像",
+    "title": "The Potato Peeler (reverse: Self-Portrait with a Straw Hat)",
+    "date": "1885",
+    "medium": "Oil on canvas",
+    "dimensions": "16 x 12 1/2 in. (40.6 x 31.8 cm)",
+    "holding": "The Metropolitan Museum of Art",
+    "attribution": "primary",
+    "target_match": "full",
+    "license": "CC0",
+    "license_evidence": "Met Open Access: object 438722 isPublicDomain=true",
+    "source_url": "https://www.metmuseum.org/art/collection/search/438722",
+    "credit_line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "fetched_at": "2026-11-07",
+    "verification_status": "pending",
+    "image": {
+      "src": "/art/van-gogh.jpg",
+      "thumb": "/art/van-gogh-thumb.jpg",
+      "width": 2400,
+      "height": 3078
+    }
+  }
+]

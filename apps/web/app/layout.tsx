@@ -1,0 +1,45 @@
+import type { Metadata } from "next";
+import "./globals.css";
+
+export const metadata: Metadata = {
+  title: "古代艺术名人画展 · 中西双线",
+  description:
+    "公有领域名作的线上展厅：中西双线对照浏览，作品页提供高清缩放与可追溯的来源、授权与署名信息。",
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="zh-CN">
+      <body>
+        <header className="site-header">
+          <div className="wrap inner">
+            <a className="brand" href="/">
+              古代艺术名人画展
+              <small>PUBLIC DOMAIN GALLERY</small>
+            </a>
+            <nav className="nav">
+              <a href="/#cn">中国序列</a>
+              <a href="/#west">西方序列</a>
+              <a href="/about/">版权与署名</a>
+            </nav>
+          </div>
+        </header>
+        {children}
+        <footer className="site-footer">
+          <div className="wrap cols">
+            <div>
+              图片均取自博物馆开放数据（CC0 / 公有领域），仅用于非商业展示。
+              <br />
+              每件作品保留原始来源、授权标识与机构署名，署名权不因 CC0 而免除。
+            </div>
+            <div className="mono">
+              MET OPEN ACCESS · CMA OPEN ACCESS · WIKIMEDIA
+              <br />
+              VERIFICATION PENDING ON THIS BUILD
+            </div>
+          </div>
+        </footer>
+      </body>
+    </html>
+  );
+}

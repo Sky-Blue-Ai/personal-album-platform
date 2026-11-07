@@ -1,0 +1,26 @@
+{
+  "name": "personal-album-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "tokens": "python3 ../../tools/build_design_tokens.py",
+    "tokens:check": "python3 ../../tools/build_design_tokens.py --check",
+    "prebuild": "python3 ../../tools/build_design_tokens.py"
+  },
+  "dependencies": {
+    "next": "^15.5.7",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "22.10.5",
+    "@types/react": "19.0.7",
+    "@types/react-dom": "19.0.3",
+    "tailwindcss": "^4.3.5",
+    "typescript": "5.7.3"
+  }
+}
