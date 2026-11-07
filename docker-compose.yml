@@ -1,0 +1,44 @@
+# 本地开发依赖。生产环境这些服务走托管（见 docs/architecture.md）
+#
+# 端口说明：这台开发机上 3000（multica-web）、8080（multica-api）已被占用，
+# 所以 Postgres 用 5433，Cantaloupe 用 8182。
+#
+#   docker compose up -d db
+#   .venv/bin/python tools/db_migrate.py
+#   .venv/bin/python tools/seed_db.py
+#
+# Cantaloupe（IIIF Image API）在这台 1.9G 内存的机器上默认堆 1G，起不来就先注释掉；
+# M2 阶段改用静态瓦片（tools/build_tiles.py）由 web 直接托管，等有更大机器再接回来。
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: pap-db
+    environment:
+      POSTGRES_USER: album
+      POSTGRES_PASSWORD: album
+      POSTGRES_DB: album
+    ports:
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - pap-pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U album -d album"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+    restart: unless-stopped
+
+  # cantaloupe:
+  #   image: uclalibrary/cantaloupe:5.0.6
+  #   container_name: pap-iiif
+  #   environment:
+  #     CANTALOUPE_SOURCE_STATIC: /imageroot
+  #     JAVA_OPTS: "-Xmx512m"
+  #   volumes:
+  #     - ./tiles:/imageroot:ro
+  #   ports:
+  #     - "127.0.0.1:8182:8182"
+
+volumes:
+  pap-pgdata:
