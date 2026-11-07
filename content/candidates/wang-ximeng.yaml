@@ -1,0 +1,13 @@
+artist:
+  id: wang-ximeng
+  name_zh: 王希孟
+  name_en: Wang Ximeng
+  phase: 1
+  region: cn
+targets:
+- zh: 千里江山图
+  en: A Thousand Li of Rivers and Mountains
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates: []

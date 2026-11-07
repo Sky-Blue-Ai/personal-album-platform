@@ -1,0 +1,651 @@
+artist:
+  id: rubens
+  name_zh: 鲁本斯
+  name_en: Rubens
+  phase: 1
+  region: west
+targets:
+- zh: 美惠三女神
+  en: Three Graces
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: cma
+  provider_object_id: '153723'
+  artist_display: Anonymous
+  title: Three Studies of a Woman Wearing an Elaborate Headdress
+  date: c. 1500
+  medium: Pen and brown ink; retouched with brush and brown wash, lead white (partially
+    oxidized)
+  dimensions: 'Sheet: 12.9 x 12.8 cm (5 1/16 x 5 1/16 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1987.31'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 153723)'
+  source_url: https://clevelandart.org/art/1987.31
+  image_url: https://openaccess-cdn.clevelandart.org/1987.31/1987.31_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1987.31/1987.31_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: John L. Severance Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Three Graces
+- provider: cma
+  provider_object_id: '125247'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: Portrait of Isabella Brant
+  date: c. 1620–25
+  medium: oil on wood
+  dimensions: 'Framed: 83 x 73.5 x 9 cm (32 11/16 x 28 15/16 x 3 9/16 in.); Unframed:
+    53 x 46 cm (20 7/8 x 18 1/8 in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1947.207'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 125247)'
+  source_url: https://clevelandart.org/art/1947.207
+  image_url: https://openaccess-cdn.clevelandart.org/1947.207/1947.207_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1947.207/1947.207_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Mr. and Mrs. William H. Marlatt Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '135661'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: Diana and Her Nymphs Departing for the Hunt
+  date: c. 1615
+  medium: oil on canvas
+  dimensions: 'Framed: 261 x 225 x 11 cm (102 3/4 x 88 9/16 x 4 5/16 in.); Unframed:
+    216 x 178.7 cm (85 1/16 x 70 3/8 in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1959.190'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 135661)'
+  source_url: https://clevelandart.org/art/1959.190
+  image_url: https://openaccess-cdn.clevelandart.org/1959.190/1959.190_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1959.190/1959.190_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '131583'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: The Feast of Herod (recto); Tomyris with the Head of Cyrus (verso)
+  date: c. 1637–38
+  medium: pen and brown ink, with black and red chalk, touched with white gouache
+  dimensions: 'Sheet: 27.2 x 47.2 cm (10 11/16 x 18 9/16 in.); Secondary Support:
+    27.6 x 47.3 cm (10 7/8 x 18 5/8 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1954.2'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 131583)'
+  source_url: https://clevelandart.org/art/1954.2
+  image_url: https://openaccess-cdn.clevelandart.org/1954.2/1954.2_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1954.2/1954.2_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Delia E. Holden and L. E. Holden Funds
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '151517'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: Study for "The Bear Hunt" (for the Alcázar, Madrid)
+  date: c. 1639
+  medium: oil on wood
+  dimensions: 'Framed: 70.5 x 40.6 x 7.6 cm (27 3/4 x 16 x 3 in.); Unframed: 26 x
+    53.7 cm (10 1/4 x 21 1/8 in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1983.69'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 151517)'
+  source_url: https://clevelandart.org/art/1983.69
+  image_url: https://openaccess-cdn.clevelandart.org/1983.69/1983.69_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1983.69/1983.69_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '131584'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: The Feast of Herod (recto)
+  date: c. 1637–38
+  medium: 'pen and brown ink, with black and red chalk, touched with white gouache '
+  dimensions: 'Sheet: 27.2 x 47.2 cm (10 11/16 x 18 9/16 in.); Secondary Support:
+    27.6 x 47.3 cm (10 7/8 x 18 5/8 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: 1954.2.a
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 131584)'
+  source_url: https://clevelandart.org/art/1954.2.a
+  image_url: https://openaccess-cdn.clevelandart.org/1954.2.a/1954.2.a_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1954.2.a/1954.2.a_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Delia E. Holden and L. E. Holden Funds
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '131585'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: Tomyris with the Head of Cyrus (verso)
+  date: c. 1637–38
+  medium: pen and brown ink, with black and red chalk
+  dimensions: 'Sheet: 27.2 x 47.2 cm (10 11/16 x 18 9/16 in.); Secondary Support:
+    27.6 x 47.3 cm (10 7/8 x 18 5/8 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: 1954.2.b
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 131585)'
+  source_url: https://clevelandart.org/art/1954.2.b
+  image_url: https://openaccess-cdn.clevelandart.org/1954.2.b/1954.2.b_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1954.2.b/1954.2.b_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Delia E. Holden and L. E. Holden Funds
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '123095'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: A Faun Grasping a Bunch of Grapes
+  date: after 1616–18
+  medium: black chalk and brush and brown wash; framing lines in pen and black ink
+  dimensions: 'Sheet: 37.8 x 26.2 cm (14 7/8 x 10 5/16 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1943.341'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 123095)'
+  source_url: https://clevelandart.org/art/1943.341
+  image_url: https://openaccess-cdn.clevelandart.org/1943.341/1943.341_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1943.341/1943.341_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Purchase from the J. H. Wade Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '95264'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: The Triumph of the Church
+  date: after 1628
+  medium: oil on wood
+  dimensions: 'Framed: 129.5 x 96.5 x 8.5 cm (51 x 38 x 3 3/8 in.); Unframed: 74.1
+    x 105.7 cm (29 3/16 x 41 5/8 in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1916.1037'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 95264)'
+  source_url: https://clevelandart.org/art/1916.1037
+  image_url: https://openaccess-cdn.clevelandart.org/1916.1037/1916.1037_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1916.1037/1916.1037_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Mr. and Mrs. J. H. Wade
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '159474'
+  artist_display: Christoffel Jegher (Flemish, 1596–1652/53)
+  title: Bust of a Bearded Man (Doge Giovanni Cornaro)
+  date: 1632–36
+  medium: chiaroscuro woodcut
+  dimensions: 'Sheet: 28.3 x 21.3 cm (11 1/8 x 8 3/8 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1996.249'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 159474)'
+  source_url: https://clevelandart.org/art/1996.249
+  image_url: https://openaccess-cdn.clevelandart.org/1996.249/1996.249_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1996.249/1996.249_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: The Charlotte Ekker and Charlotte Van der Veer Memorial Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '107449'
+  artist_display: Christoffel Jegher (Flemish, 1596–1652/53)
+  title: Silenus Accompanied by a Satyr and a Faun
+  date: '1630'
+  medium: woodcut
+  dimensions: 'Sheet: 44.6 x 33.9 cm (17 9/16 x 13 3/8 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1925.150'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 107449)'
+  source_url: https://clevelandart.org/art/1925.150
+  image_url: https://openaccess-cdn.clevelandart.org/1925.150/1925.150_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1925.150/1925.150_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Dudley P. Allen Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '155981'
+  artist_display: Lucas Emil Vorsterman (Flemish, 1595–1675)
+  title: Lot and His Family Leaving Sodom
+  date: '1620'
+  medium: engraving
+  dimensions: 'Platemark: 33 x 39 cm (13 x 15 3/8 in.); Sheet: 35.2 x 41.4 cm (13
+    7/8 x 16 5/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1991.266'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 155981)'
+  source_url: https://clevelandart.org/art/1991.266
+  image_url: https://openaccess-cdn.clevelandart.org/1991.266/1991.266_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1991.266/1991.266_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Seventy-fifth anniversary gift of Louise S. Richards
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '104787'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: Saint Catherine in the Clouds
+  date: 1620–30
+  medium: etching
+  dimensions: null
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1923.1110'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 104787)'
+  source_url: https://clevelandart.org/art/1923.1110
+  image_url: https://openaccess-cdn.clevelandart.org/1923.1110/1923.1110_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1923.1110/1923.1110_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Ralph King
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '155960'
+  artist_display: Schelte Adamsz. Bolswert (Flemish, about 1586–1659)
+  title: Landscape with Shepherd Playing a Flute
+  date: '1638'
+  medium: engraving
+  dimensions: 'Platemark: 32 x 46.2 cm (12 5/8 x 18 3/16 in.); Sheet: 37.3 x 54.7
+    cm (14 11/16 x 21 9/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1991.247'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 155960)'
+  source_url: https://clevelandart.org/art/1991.247
+  image_url: https://openaccess-cdn.clevelandart.org/1991.247/1991.247_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1991.247/1991.247_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Louise S. Richards
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '145198'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: "Reconciliation of the Romans and the Sabines (recto) Venus Disarming Mars,\
+    \ Drapery Study (verso)\r\n"
+  date: c. 1632/35
+  medium: pen and brown ink and brush and gray and brown wash; framing lines in brown
+    ink
+  dimensions: 'Sheet: 19.9 x 49.2 cm (7 13/16 x 19 3/8 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1970.37'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 145198)'
+  source_url: https://clevelandart.org/art/1970.37
+  image_url: https://openaccess-cdn.clevelandart.org/1970.37/1970.37_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1970.37/1970.37_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Purchase from the J. H. Wade Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '149935'
+  artist_display: Jean-Honoré Fragonard (French, 1732–1806)
+  title: The Funeral of Decius Mus
+  date: '1774'
+  medium: brush and brown ink and wash over black chalk
+  dimensions: 'Sheet: 24 x 37.6 cm (9 7/16 x 14 13/16 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1980.17'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 149935)'
+  source_url: https://clevelandart.org/art/1980.17
+  image_url: https://openaccess-cdn.clevelandart.org/1980.17/1980.17_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1980.17/1980.17_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: John L. Severance Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '145199'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: Reconciliation of the Romans and the Sabines (recto)
+  date: c. 1632/35
+  medium: pen and brown ink and brush and gray and brown wash; framing lines in brown
+    ink
+  dimensions: 'Sheet: 19.9 x 49.2 cm (7 13/16 x 19 3/8 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: 1970.37.a
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 145199)'
+  source_url: https://clevelandart.org/art/1970.37.a
+  image_url: https://openaccess-cdn.clevelandart.org/1970.37.a/1970.37.a_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1970.37.a/1970.37.a_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Purchase from the J. H. Wade Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '145200'
+  artist_display: Peter Paul Rubens (Flemish, 1577–1640)
+  title: Venus Disarming Mars, Drapery Study (verso)
+  date: c. 1632/35
+  medium: pen and brown ink and brush and brown wash (right half); black chalk, with
+    stumping (left half)
+  dimensions: 'Sheet: 19.9 x 49.2 cm (7 13/16 x 19 3/8 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: 1970.37.b
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 145200)'
+  source_url: https://clevelandart.org/art/1970.37.b
+  image_url: https://openaccess-cdn.clevelandart.org/1970.37.b/1970.37.b_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1970.37.b/1970.37.b_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Purchase from the J. H. Wade Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437532'
+  artist_display: Peter Paul Rubens
+  title: Rubens, Helena Fourment (1614–1673), and Their Son Frans (1633–1678)
+  date: ca. 1635
+  medium: Oil on wood
+  dimensions: 80 1/4 x 62 1/4 in. (203.8 x 158.1 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437532 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437532
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP-14286-003.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Mr. and Mrs. Charles Wrightsman, in honor of Sir John Pope-Hennessy,
+    1981
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '771716'
+  artist_display: Peter Paul Rubens
+  title: 'The Four Philosophers: Justus Lipsius, Hugo Grotius, Peter Paul Rubens,
+    and Philip Rubens'
+  date: 1770–82
+  medium: Etching and engraving
+  dimensions: 'Sheet (Trimmed): 15 13/16 × 11 3/4 in. (40.2 × 29.8 cm)'
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 771716 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/771716
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP879919.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437535'
+  artist_display: Peter Paul Rubens
+  title: Venus and Adonis
+  date: probably mid-1630s
+  medium: Oil on canvas
+  dimensions: With added strips, 77 3/4 x 95 5/8 in. (197.5 x 242.9 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437535 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437535
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT2737.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Harry Payne Bingham, 1937
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '347965'
+  artist_display: Peter Paul Rubens
+  title: Presentation in the Temple
+  date: recto 1611; verso 1601-2
+  medium: Pen, brush and brown ink on pale tan paper; reverse, black chalk and brown
+    ink
+  dimensions: 'Sheet: 8 7/16 x 5 9/16 in. (21.4 x 14.2 cm)'
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 347965 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/347965
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP802378.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Mr. and Mrs. Janos Scholz, 1952
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '347982'
+  artist_display: Peter Paul Rubens
+  title: Martyrdom of Saint Lawrence
+  date: early 17th century
+  medium: Black chalk, pen and brown ink, brush and brown wash, heightened with white;
+    contours traced with stylus for transfer
+  dimensions: 'sheet: 14 5/8 x 10 5/8 in. (37.2 x 27 cm)'
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 347982 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/347982
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP802239.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: The Elisha Whittelsey Collection, the Elisha Whittelsey Fund, 1961
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '342377'
+  artist_display: Peter Paul Rubens
+  title: 'Anatomical Studies: a left forearm in two positions and a right forearm'
+  date: ca. 1600–05
+  medium: Pen and brown ink
+  dimensions: 'sheet: 10 15/16 x 7 5/16 in. (27.8 x 18.6 cm)'
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 342377 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/342377
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP802241.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1996
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437524'
+  artist_display: Peter Paul Rubens
+  title: The Coronation of the Virgin
+  date: ca. 1632–33
+  medium: Oil on wood
+  dimensions: 19 5/8 x 16 in. (49.8 x 40.6 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437524 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437524
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT7932.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Scofield Thayer, 1982
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437529'
+  artist_display: Peter Paul Rubens
+  title: The Holy Family with Saint Elizabeth, Saint John, and a Dove
+  date: ca. 1608–9
+  medium: Oil on oak
+  dimensions: 26 x 20 1/4 in. (66 x 51.4 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437529 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437529
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP-37758-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Ada Small Moore, 1955
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437531'
+  artist_display: Peter Paul Rubens
+  title: Portrait of a Woman, Probably Susanna Lunden (Susanna Fourment, 1599–1628)
+  date: ca. 1625–27
+  medium: Oil on wood
+  dimensions: 30 1/4 x 23 5/8 in. (76.8 x 60 cm), including added strip of 3 3/4 in.
+    (9.5 cm) at bottom
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437531 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437531
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP-20395-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Mr. and Mrs. Charles Wrightsman, 1976
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '348090'
+  artist_display: Peter Paul Rubens
+  title: The Prophets David and Daniel
+  date: ca. 1601–2
+  medium: Red chalk, brush and red and pink wash, bodycolor, heightened with white
+  dimensions: 13 7/16 x 11 1/4 in. (34.1 x 28.6 cm)
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 348090 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/348090
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DT3931.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Purchase, Harris Brisbane Dick Fund and  Mr. and Mrs. Christopher Rupp
+    Gift, 1995
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437536'
+  artist_display: Peter Paul Rubens
+  title: Wolf and Fox Hunt
+  date: ca. 1616
+  medium: Oil on canvas
+  dimensions: 96 5/8 x 148 1/8 in. (245.4 x 376.2 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437536 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437536
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP-27136-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1910
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437534'
+  artist_display: Peter Paul Rubens
+  title: The Triumph of Henry IV
+  date: ca. 1630
+  medium: Oil on wood
+  dimensions: 19 1/2 x 32 7/8 in. (49.5 x 83.5 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437534 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437534
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT5154.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1942
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

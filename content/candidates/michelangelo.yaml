@@ -1,0 +1,403 @@
+artist:
+  id: michelangelo
+  name_zh: 米开朗基罗
+  name_en: Michelangelo
+  phase: 1
+  region: west
+targets:
+- zh: 大卫
+  en: David
+- zh: 创世纪（西斯廷天顶画）
+  en: Genesis
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '338104'
+  artist_display: Michelangelo Anselmi
+  title: The Young David Playing the Harp
+  date: ca. 1548–50
+  medium: Black chalk, brush and gray wash, on blue paper; squared in pen and brown
+    ink
+  dimensions: 15-3/16 x 5-9/16 in.  (38.6 x 14.1 cm)
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 338104 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/338104
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP807701.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1961
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: full
+  target_hint: David
+- provider: cma
+  provider_object_id: '119614'
+  artist_display: Michelangelo Buonarroti (Italian, 1475–1564)
+  title: Study for the Nude Youth over the Prophet Daniel (recto); Figure Studies
+    for the Sistine Ceiling (verso)
+  date: 1510–11
+  medium: red chalk over black chalk or charcoal
+  dimensions: 'Sheet: 34.3 x 24.3 cm (13 1/2 x 9 9/16 in.); Secondary Support: 34.4
+    x 24.4 cm (13 9/16 x 9 5/8 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1940.465'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 119614)'
+  source_url: https://clevelandart.org/art/1940.465
+  image_url: https://openaccess-cdn.clevelandart.org/1940.465/1940.465_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1940.465/1940.465_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift in memory of Henry G. Dalton by his nephews George S. Kendrick
+    and Harry D. Kendrick
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '119615'
+  artist_display: Michelangelo Buonarroti (Italian, 1475–1564)
+  title: Study for the Nude Youth over the Prophet Daniel (recto)
+  date: 1510–1511
+  medium: red chalk over black chalk or charcoal
+  dimensions: 'Sheet: 34.3 x 24.3 cm (13 1/2 x 9 9/16 in.); Secondary Support: 34.4
+    x 24.4 cm (13 9/16 x 9 5/8 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: 1940.465.a
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 119615)'
+  source_url: https://clevelandart.org/art/1940.465.a
+  image_url: https://openaccess-cdn.clevelandart.org/1940.465.a/1940.465.a_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1940.465.a/1940.465.a_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift in memory of Henry G. Dalton by his nephews George S. Kendrick
+    and Harry D. Kendrick
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '119616'
+  artist_display: Michelangelo Buonarroti (Italian, 1475–1564)
+  title: Figure Studies for the Sistine Ceiling (verso)
+  date: 1510–11
+  medium: red chalk heightened with traces of white
+  dimensions: 'Sheet: 23.4 x 33.5 cm (9 3/16 x 13 3/16 in.); Secondary Support: 24.4
+    x 34.4 cm (9 5/8 x 13 9/16 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: 1940.465.b
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 119616)'
+  source_url: https://clevelandart.org/art/1940.465.b
+  image_url: https://openaccess-cdn.clevelandart.org/1940.465.b/1940.465.b_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1940.465.b/1940.465.b_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift in memory of Henry G. Dalton by his nephews George S. Kendrick
+    and Harry D. Kendrick
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '103949'
+  artist_display: Marcantonio Raimondi (Italian, 1470/82–1527/34)
+  title: The Climbers (Three Figures from Michelangelo's Battle of Cascina)
+  date: '1510'
+  medium: engraving
+  dimensions: 'Sheet: 28.6 x 22.9 cm (11 1/4 x 9 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1922.142'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 103949)'
+  source_url: https://clevelandart.org/art/1922.142
+  image_url: https://openaccess-cdn.clevelandart.org/1922.142/1922.142_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1922.142/1922.142_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of The Print Club of Cleveland
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '141917'
+  artist_display: Nicolas Beatrizet (French, active Italy, 1507 or 1515-about 1565)
+  title: The Fall of Phaeton
+  date: c. 1545
+  medium: engraving
+  dimensions: 'Sheet: 41.9 x 29 cm (16 1/2 x 11 7/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1965.458'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 141917)'
+  source_url: https://clevelandart.org/art/1965.458
+  image_url: https://openaccess-cdn.clevelandart.org/1965.458/1965.458_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1965.458/1965.458_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Mr. and Mrs. Richard H. Zinser
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '155613'
+  artist_display: Giorgio Ghisi (Italian, 1520–1582)
+  title: The Prophet Joel
+  date: early 1570s
+  medium: engraving
+  dimensions: 'Sheet: 55.9 x 41.5 cm (22 x 16 5/16 in.); Secondary Support: 57.7 x
+    42.9 cm (22 11/16 x 16 7/8 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1990.58'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 155613)'
+  source_url: https://clevelandart.org/art/1990.58
+  image_url: https://openaccess-cdn.clevelandart.org/1990.58/1990.58_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1990.58/1990.58_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Jane and Robert Lewis in memory of Harold Fallon
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '105040'
+  artist_display: Melchior Lorck (Danish, 1526/27–after 1588)
+  title: Crucified Man
+  date: '1550'
+  medium: engraving
+  dimensions: null
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1923.264'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 105040)'
+  source_url: https://clevelandart.org/art/1923.264
+  image_url: https://openaccess-cdn.clevelandart.org/1923.264/1923.264_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1923.264/1923.264_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Leonard C. Hanna Jr.
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '334655'
+  artist_display: Michelangelo Buonarroti
+  title: Design for the Tomb of Pope Julius II della Rovere
+  date: 1505–6
+  medium: Pen and brown ink, brush and brown wash, over stylus ruling and leadpoint
+  dimensions: "20 1/16 × 12 9/16 in. (51 × 31.9 cm)\r\nFramed: 25 3/4 × 17 3/4 in.\
+    \ (65.4 × 45.1 cm)"
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 334655 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/334655
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP832948.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1962
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '188528'
+  artist_display: Michelangelo Buonarroti
+  title: Pietà
+  date: mid-16th century
+  medium: Gilt bronze
+  dimensions: 'Overall: 6 5/8 × 4 1/2 in. (16.8 × 11.4 cm)'
+  department: European Sculpture and Decorative Arts
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 188528 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/188528
+  image_url: https://images.metmuseum.org/CRDImages/es/original/DP-12754-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Henry Victor Burgy, 1901
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '205436'
+  artist_display: Michelangelo Buonarroti
+  title: The Day (one of a pair)
+  date: ca. 1600
+  medium: Terracotta
+  dimensions: "Overall: 15 1/2 × 28 × 10 in. (39.4 × 71.1 × 25.4 cm);\r\nBase: 9 ×\
+    \ 20 1/2 × 11 in. (22.9 × 52.1 × 27.9 cm)"
+  department: European Sculpture and Decorative Arts
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 205436 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/205436
+  image_url: https://images.metmuseum.org/CRDImages/es/original/199706.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Mr. and Mrs. Charles Wrightsman, 1971
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '205437'
+  artist_display: Michelangelo Buonarroti
+  title: The Dusk (one of a pair)
+  date: ca. 1600
+  medium: Terracotta
+  dimensions: "Overall: 14 1/2 × 31 × 12 in. (36.8 × 78.7 × 30.5 cm);\r\nBase: 9 ×\
+    \ 20 1/2 × 11 in. (22.9 × 52.1 × 27.9 cm)"
+  department: European Sculpture and Decorative Arts
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 205437 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/205437
+  image_url: https://images.metmuseum.org/CRDImages/es/original/199711.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Mr. and Mrs. Charles Wrightsman, 1971
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '197995'
+  artist_display: Michelangelo Buonarroti
+  title: Christ and the Two Thieves Crucified
+  date: ca. 1560–70
+  medium: Bronze
+  dimensions: "(Christ .a, confirmed): 10 3/4 × 8 × 1 13/16 in. (27.3 × 20.3 × 4.6\
+    \ cm);\r\n(Thief .b, confirmed): 9 3/8 × 7 1/4 × 2 3/8 in. (23.8 × 18.4 × 6 cm);\r\
+    \n(Thief .c, confirmed): 9 1/8 × 8 3/4 × 2 7/8 in. (23.2 × 22.2 × 7.3 cm);\r\n\
+    (Base and crosses): 31 3/8 x 17 1/2 in. (79.8 x 44.5 cm)"
+  department: European Sculpture and Decorative Arts
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 197995 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/197995
+  image_url: https://images.metmuseum.org/CRDImages/es/original/DP257423.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1937
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '337497'
+  artist_display: Michelangelo Buonarroti
+  title: Studies for the Libyan Sibyl (recto); Studies for the Libyan Sibyl and a
+    small Sketch for a Seated Figure (verso)
+  date: ca. 1510–11
+  medium: Red chalk, with small accents of white chalk on the left shoulder of the
+    figure in the main study (recto); soft black chalk, or less probably charcoal
+    (verso)
+  dimensions: "Sheet: 11 3/8 × 8 7/16 in. (28.9 × 21.4 cm)\r\nFramed: 21 × 16 in.\
+    \ (53.3 × 40.6 cm)"
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 337497 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/337497
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP826907.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Purchase, Joseph Pulitzer Bequest, 1924
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '203933'
+  artist_display: Michelangelo Buonarroti
+  title: Samson and the Philistines
+  date: ca. 1550
+  medium: Bronze
+  dimensions: 'Overall (confirmed): 14 7/8 × 7 1/8 × 6 1/4 in. (37.8 × 18.1 × 15.9
+    cm)'
+  department: European Sculpture and Decorative Arts
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 203933 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/203933
+  image_url: https://images.metmuseum.org/CRDImages/es/original/DP-732-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Irwin Untermyer, 1964
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '197063'
+  artist_display: Michelangelo Buonarroti
+  title: Hercules and Cacus
+  date: 19th century?
+  medium: Bronze
+  dimensions: 'Overall (confirmed): 19 1/4 × 8 1/2 × 6 1/2 in. (48.9 × 21.6 × 16.5
+    cm).'
+  department: European Sculpture and Decorative Arts
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 197063 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/197063
+  image_url: https://images.metmuseum.org/CRDImages/es/original/DP-936-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: The Friedsam Collection, Bequest of Michael Friedsam, 1931
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '231343'
+  artist_display: Michelangelo Buonarroti
+  title: Dying Slave
+  date: 1505–45
+  medium: Plaster
+  dimensions: ''
+  department: European Sculpture and Decorative Arts
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 231343 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/231343
+  image_url: https://images.metmuseum.org/CRDImages/es/original/SF95_49_1.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Taylor Johnston Memorial Collection, 1895
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '231344'
+  artist_display: Michelangelo Buonarroti
+  title: Rebellious Captive
+  date: 1505–45
+  medium: Plaster
+  dimensions: ''
+  department: European Sculpture and Decorative Arts
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 231344 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/231344
+  image_url: https://images.metmuseum.org/CRDImages/es/original/SF95_49_2.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Taylor Johnston Memorial Collection, 1895
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

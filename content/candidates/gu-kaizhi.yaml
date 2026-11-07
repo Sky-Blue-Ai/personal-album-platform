@@ -1,0 +1,55 @@
+artist:
+  id: gu-kaizhi
+  name_zh: 顾恺之（传）
+  name_en: Gu Kaizhi
+  phase: 1
+  region: cn
+targets:
+- zh: 女史箴图（唐摹本）
+  en: Admonitions of the Instructress
+- zh: 洛神赋图（宋摹本）
+  en: Nymph of the Luo River
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '51292'
+  artist_display: Unidentified artist
+  title: The Hills of Kuaiji
+  date: 18th cenury or later
+  medium: Handscroll; ink and color on silk
+  dimensions: 19 3/8 in. × 23 ft. 4 3/8 in. (49.2 × 712.2 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51292 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51292
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP165370_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51540'
+  artist_display: Unidentified artist
+  title: An Emperor with Two Ladies
+  date: ''
+  medium: Album leaf; ink and color on silk
+  dimensions: 7 1/8 x 8 7/8 in. (18.1 x 22.5 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51540 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51540
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP154403.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1923
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

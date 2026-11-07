@@ -1,0 +1,321 @@
+{
+  "generated_at": "2026-11-07",
+  "met_blocked": false,
+  "artists": [
+    {
+      "id": "gu-kaizhi",
+      "name_zh": "顾恺之（传）",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 2,
+      "by_provider": {
+        "met": 2,
+        "cma": 0
+      },
+      "target_full": [],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "zhan-ziqian",
+      "name_zh": "展子虔（传）",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 0,
+      "by_provider": {
+        "met": 0,
+        "cma": 0
+      },
+      "target_full": [],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "fan-kuan",
+      "name_zh": "范宽",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 7,
+      "by_provider": {
+        "met": 6,
+        "cma": 1
+      },
+      "target_full": [],
+      "target_partial": [
+        "met:Landscape in the style of Fan Kuan",
+        "met:Landscape"
+      ],
+      "errors": []
+    },
+    {
+      "id": "guo-xi",
+      "name_zh": "郭熙",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 7,
+      "by_provider": {
+        "met": 7,
+        "cma": 0
+      },
+      "target_full": [
+        "met:Old Trees, Level Distance"
+      ],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "zhang-zeduan",
+      "name_zh": "张择端",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 1,
+      "by_provider": {
+        "met": 1,
+        "cma": 0
+      },
+      "target_full": [],
+      "target_partial": [
+        "met:Spring Festival on the River"
+      ],
+      "errors": []
+    },
+    {
+      "id": "wang-ximeng",
+      "name_zh": "王希孟",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 0,
+      "by_provider": {
+        "met": 0,
+        "cma": 0
+      },
+      "target_full": [],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "li-gonglin",
+      "name_zh": "李公麟",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 15,
+      "by_provider": {
+        "met": 11,
+        "cma": 4
+      },
+      "target_full": [],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "zhao-ji",
+      "name_zh": "赵佶（宋徽宗）",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 9,
+      "by_provider": {
+        "met": 9,
+        "cma": 0
+      },
+      "target_full": [],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "huang-gongwang",
+      "name_zh": "黄公望",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 7,
+      "by_provider": {
+        "met": 6,
+        "cma": 1
+      },
+      "target_full": [],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "ni-zan",
+      "name_zh": "倪瓒",
+      "phase": 1,
+      "region": "cn",
+      "candidates": 13,
+      "by_provider": {
+        "met": 11,
+        "cma": 2
+      },
+      "target_full": [],
+      "target_partial": [
+        "met:Pavilion amongst Wintry Trees after Ni Zan"
+      ],
+      "errors": []
+    },
+    {
+      "id": "botticelli",
+      "name_zh": "波提切利",
+      "phase": 1,
+      "region": "west",
+      "candidates": 11,
+      "by_provider": {
+        "met": 9,
+        "cma": 2
+      },
+      "target_full": [
+        "met:Three Graces (Primavera?) (Botticelli?); Dying Figure; Figure with a Bow (from Sketchbook)"
+      ],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "leonardo",
+      "name_zh": "达·芬奇",
+      "phase": 1,
+      "region": "west",
+      "candidates": 13,
+      "by_provider": {
+        "met": 9,
+        "cma": 4
+      },
+      "target_full": [],
+      "target_partial": [
+        "met:The Head of a Grotesque Man in Profile Facing Right",
+        "met:Head of a Man in Profile Facing to the Left"
+      ],
+      "errors": []
+    },
+    {
+      "id": "michelangelo",
+      "name_zh": "米开朗基罗",
+      "phase": 1,
+      "region": "west",
+      "candidates": 18,
+      "by_provider": {
+        "met": 11,
+        "cma": 7
+      },
+      "target_full": [
+        "met:The Young David Playing the Harp"
+      ],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "raphael",
+      "name_zh": "拉斐尔",
+      "phase": 1,
+      "region": "west",
+      "candidates": 27,
+      "by_provider": {
+        "met": 8,
+        "cma": 19
+      },
+      "target_full": [],
+      "target_partial": [
+        "met:Madonna of the chair (Madonna della Seggiola)",
+        "met:Madonna del Cardellino",
+        "met:Madonna del Granduca, the standing Virgin holding the Christ child"
+      ],
+      "errors": []
+    },
+    {
+      "id": "rembrandt",
+      "name_zh": "伦勃朗",
+      "phase": 1,
+      "region": "west",
+      "candidates": 37,
+      "by_provider": {
+        "met": 12,
+        "cma": 25
+      },
+      "target_full": [
+        "cma:Self-Portrait Drawing at a Window"
+      ],
+      "target_partial": [
+        "cma:Portrait of a Woman",
+        "met:Portrait of a Man (\"The Auctioneer\")"
+      ],
+      "errors": []
+    },
+    {
+      "id": "vermeer",
+      "name_zh": "维米尔",
+      "phase": 1,
+      "region": "west",
+      "candidates": 9,
+      "by_provider": {
+        "met": 8,
+        "cma": 1
+      },
+      "target_full": [],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "rubens",
+      "name_zh": "鲁本斯",
+      "phase": 1,
+      "region": "west",
+      "candidates": 30,
+      "by_provider": {
+        "met": 12,
+        "cma": 18
+      },
+      "target_full": [],
+      "target_partial": [
+        "cma:Three Studies of a Woman Wearing an Elaborate Headdress"
+      ],
+      "errors": []
+    },
+    {
+      "id": "velazquez",
+      "name_zh": "委拉斯开兹",
+      "phase": 1,
+      "region": "west",
+      "candidates": 0,
+      "by_provider": {
+        "met": 0,
+        "cma": 0
+      },
+      "target_full": [],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "monet",
+      "name_zh": "莫奈",
+      "phase": 1,
+      "region": "west",
+      "candidates": 5,
+      "by_provider": {
+        "met": 0,
+        "cma": 5
+      },
+      "target_full": [
+        "cma:Water Lilies (Agapanthus)"
+      ],
+      "target_partial": [],
+      "errors": []
+    },
+    {
+      "id": "van-gogh",
+      "name_zh": "梵高",
+      "phase": 1,
+      "region": "west",
+      "candidates": 17,
+      "by_provider": {
+        "met": 12,
+        "cma": 5
+      },
+      "target_full": [
+        "met:The Potato Peeler (reverse: Self-Portrait with a Straw Hat)"
+      ],
+      "target_partial": [
+        "cma:The Large Plane Trees (Road Menders at Saint-Rémy)",
+        "cma:Two Poplars in the Alpilles near Saint-Rémy",
+        "met:Portrait of Doctor Gachet or Man with a Pipe"
+      ],
+      "errors": []
+    }
+  ]
+}

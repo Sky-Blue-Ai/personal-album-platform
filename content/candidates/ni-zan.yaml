@@ -1,0 +1,289 @@
+artist:
+  id: ni-zan
+  name_zh: 倪瓒
+  name_en: Ni Zan
+  phase: 1
+  region: cn
+targets:
+- zh: 幽涧寒松图
+  en: Secluded Valley, Cold Pine
+- zh: 秋亭嘉树图
+  en: Autumn Pavilion, Fine Trees
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '59025'
+  artist_display: Qi Zhijia
+  title: Pavilion amongst Wintry Trees after Ni Zan
+  date: dated 1661
+  medium: Hanging scroll; ink on paper
+  dimensions: 45 5/8 x 20 in. (116 x 50.8 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 59025 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/59025
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP-47672-002.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Marie-Hélène and Guy A. Weill, 2000
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Autumn Pavilion, Fine Trees
+- provider: cma
+  provider_object_id: '160137'
+  artist_display: Chen Ruyan (Chinese, c. 1331–1371)
+  title: Mountains of the Immortals
+  date: 1300–1370
+  medium: Handscroll; ink and color on silk
+  dimensions: 'Painting only: 33.4 x 97.3 cm (13 1/8 x 38 5/16 in.); height: 35 cm
+    (13 3/4 in.)'
+  department: Chinese Art
+  holding: Cleveland Museum of Art
+  accession_number: '1997.95'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 160137)'
+  source_url: https://clevelandart.org/art/1997.95
+  image_url: https://openaccess-cdn.clevelandart.org/1997.95/1997.95_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1997.95/1997.95_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Bequest of Mrs. A. Dean Perry
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '149412'
+  artist_display: Ni Zan (Chinese, 1301–1374)
+  title: Bamboo, Rock, and Tall Tree
+  date: c. 1300s
+  medium: hanging scroll; ink on paper
+  dimensions: 'Image: 67.3 x 36.8 cm (26 1/2 x 14 1/2 in.); Overall with knobs: 231.4
+    x 64.2 cm (91 1/8 x 25 1/4 in.)'
+  department: Chinese Art
+  holding: Cleveland Museum of Art
+  accession_number: '1978.65'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 149412)'
+  source_url: https://clevelandart.org/art/1978.65
+  image_url: https://openaccess-cdn.clevelandart.org/1978.65/1978.65_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1978.65/1978.65_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '45635'
+  artist_display: Ni Zan
+  title: Enjoying the Wilderness in an Autumn Grove
+  date: dated 1339
+  medium: Hanging scroll; ink on paper
+  dimensions: "Image: 38 5/8 × 27 1/8 in. (98.1 × 68.9 cm)\r\nOverall with mounting:\
+    \ 8 ft. 10 7/8 in. × 35 7/8 in. (271.5 × 91.1 cm)\r\nOverall with knobs: 8 ft.\
+    \ 10 7/8 in. × 40 in. (271.5 × 101.6 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 45635 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/45635
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP-31579-002.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of John M. Crawford Jr., 1988
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '53571'
+  artist_display: Wu Tong
+  title: 'Landscape: Copy of "Walking Along in the Autumn Forest" by Ni Zan (1301-1374)'
+  date: dated 1834
+  medium: Hanging scroll; ink and color washes on paper
+  dimensions: 17 1/4 x 11 3/4 in. (43.8 x 29.8 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 53571 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/53571
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP-32886-002.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1945
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '45636'
+  artist_display: Ni Zan
+  title: Woods and Valleys of Mount Yu
+  date: dated 1372
+  medium: Hanging scroll; ink on paper
+  dimensions: "Image: 37 1/4 x 14 1/8 in. (94.6 x 35.9 cm)\r\nOverall with mounting:\
+    \ 82 x 20 5/8 in. (208.3 x 52.4 cm)\r\nOverall with knobs: 82 x 24 5/8 in. (208.3\
+    \ x 62.5 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 45636 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/45636
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP-19459-002.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: 'Ex coll.: C. C. Wang Family, Gift of The Dillon Fund, 1973'
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '41154'
+  artist_display: Ni Zan
+  title: Wind among the Trees on the Riverbank
+  date: '1363'
+  medium: Hanging scroll; ink on paper
+  dimensions: "Image: 23 1/4 x 12 1/4 in. (59.1 x 31.1 cm)\r\nOverall with mounting:\
+    \ 102 1/4 x 22 1/4 in. (259.7 x 56.5 cm)\r\nOverall with knobs: 102 1/4 x 27 1/2\
+    \ in. (259.7 x 69.9 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 41154 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/41154
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DT6291.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of John M. Crawford Jr., 1988
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51490'
+  artist_display: Unidentified artist
+  title: Landscape after Ni Zan (1306–1374)
+  date: Spurious date of  1374
+  medium: Hanging scroll; ink on paper
+  dimensions: 33 7/8 x 12 7/8 in. (86.0 x 32.7 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 51490 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51490
+  image_url: https://images.metmuseum.org/CRDImages/as/original/13_220_93.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '40600'
+  artist_display: Wan Shanglin
+  title: Monk of Longmen in Ni Zan Style
+  date: '1800'
+  medium: Hanging scroll; ink on paper
+  dimensions: 46 3/4 x 14 13/16 in. (118.7 x 37.6 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 40600 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/40600
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP-30129-002.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth,
+    1986
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '36088'
+  artist_display: Qi Zhijia
+  title: Landscape after Ni Zan
+  date: dated 1651
+  medium: Hanging scroll; ink on paper
+  dimensions: "Overall: 36 1/2 x 20 1/4 in. (92.7 x 51.4 cm)\r\nOverall with mounting:\
+    \ 63 1/2 x 25 1/2 in. (161.3 x 64.8 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 36088 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/36088
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP-37443-002.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Dr. Frederick Baekeland, 1963
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '48953'
+  artist_display: Dong Qichang
+  title: Landscape with Trees in the Manner of Ni Zan (1301–1374)
+  date: ca. 1622–25
+  medium: Hanging scroll; ink on paper
+  dimensions: "Image: 45 1/2  × 18 in. (115.6 × 45.7 cm)\r\nOverall with mounting:\
+    \ 94 7/8 × 27 1/2 in. (241 × 69.9 cm)\r\nOverall with knobs: 94 7/8 × 31 1/2 in.\
+    \ (241 × 80 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 48953 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/48953
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP-35742-002.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of John M. Crawford Jr., 1988
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '49188'
+  artist_display: Unidentified artist
+  title: Landscape in the Style of Ni Zan
+  date: 18th century or later, spurious date of 1715
+  medium: Folding fan mounted as an album leaf; ink on paper
+  dimensions: 6 1/2 x 19 1/2 in. (16.5 x 49.5 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 49188 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/49188
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP153894.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51528'
+  artist_display: Unidentified artist
+  title: River Landscape with Thirteen Inscriptions
+  date: ''
+  medium: Handscroll; color on paper
+  dimensions: 11 x 57 1/2 in. (27.9 x 146.1 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51528 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51528
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP200446_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1918
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

@@ -1,0 +1,373 @@
+artist:
+  id: van-gogh
+  name_zh: 梵高
+  name_en: Van Gogh
+  phase: 1
+  region: west
+targets:
+- zh: 卧室
+  en: The Bedroom
+- zh: 自画像
+  en: Self-Portrait
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '438722'
+  artist_display: Vincent van Gogh
+  title: 'The Potato Peeler (reverse: Self-Portrait with a Straw Hat)'
+  date: '1885'
+  medium: Oil on canvas
+  dimensions: 16 x 12 1/2 in. (40.6 x 31.8 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 438722 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/438722
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT1503.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: full
+  target_hint: Self-Portrait
+- provider: cma
+  provider_object_id: '125249'
+  artist_display: Vincent van Gogh (Dutch, 1853–1890)
+  title: The Large Plane Trees (Road Menders at Saint-Rémy)
+  date: '1889'
+  medium: oil on fabric
+  dimensions: 'Framed: 104.5 x 124.5 x 7.6 cm (41 1/8 x 49 x 3 in.); Unframed: 73.4
+    x 91.8 cm (28 7/8 x 36 1/8 in.)'
+  department: Modern European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1947.209'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 125249)'
+  source_url: https://clevelandart.org/art/1947.209
+  image_url: https://openaccess-cdn.clevelandart.org/1947.209/1947.209_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1947.209/1947.209_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of the Hanna Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: The Bedroom
+- provider: cma
+  provider_object_id: '135310'
+  artist_display: Vincent van Gogh (Dutch, 1853–1890)
+  title: Two Poplars in the Alpilles near Saint-Rémy
+  date: '1889'
+  medium: oil on fabric
+  dimensions: 'Framed: 81 x 66.7 x 7.3 cm (31 7/8 x 26 1/4 x 2 7/8 in.); Unframed:
+    61.6 x 45.7 cm (24 1/4 x 18 in.)'
+  department: Modern European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1958.32'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 135310)'
+  source_url: https://clevelandart.org/art/1958.32
+  image_url: https://openaccess-cdn.clevelandart.org/1958.32/1958.32_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1958.32/1958.32_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Bequest of Leonard C. Hanna Jr.
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: The Bedroom
+- provider: met
+  provider_object_id: '849056'
+  artist_display: Vincent van Gogh
+  title: Portrait of Doctor Gachet or Man with a Pipe
+  date: '1890'
+  medium: Etching
+  dimensions: 'Sheet (folded): 12 13/16 × 9 13/16 in. (32.5 × 25 cm)'
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 849056 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/849056
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP-22761-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Purchase, Fletcher Fund, William R. Drexler Sr. and Violet Drexler
+    Bequest, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, and The
+    Derald H. Ruttenberg Foundation, in honor of Nadine M. Orenstein and Charles and
+    Jessie Price Gifts, 2021
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Self-Portrait
+- provider: cma
+  provider_object_id: '135299'
+  artist_display: Vincent van Gogh (Dutch, 1853–1890)
+  title: Adeline Ravoux
+  date: '1890'
+  medium: oil on fabric
+  dimensions: 'Framed: 72.5 x 73.5 x 8.5 cm (28 9/16 x 28 15/16 x 3 3/8 in.); Unframed:
+    50.2 x 50.5 cm (19 3/4 x 19 7/8 in.)'
+  department: Modern European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1958.31'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 135299)'
+  source_url: https://clevelandart.org/art/1958.31
+  image_url: https://openaccess-cdn.clevelandart.org/1958.31/1958.31_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1958.31/1958.31_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Bequest of Leonard C. Hanna Jr.
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '135286'
+  artist_display: Vincent van Gogh (Dutch, 1853–1890)
+  title: Landscape with Wheelbarrow
+  date: '1883'
+  medium: watercolor and opaque watercolor with black chalk on cream paper
+  dimensions: 'Sheet: 24.9 x 35.7 cm (9 13/16 x 14 1/16 in.); Framed: 39.8 x 52.4
+    x 2.6 cm (15 11/16 x 20 5/8 x 1 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1958.30'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 135286)'
+  source_url: https://clevelandart.org/art/1958.30
+  image_url: https://openaccess-cdn.clevelandart.org/1958.30/1958.30_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1958.30/1958.30_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Bequest of Leonard C. Hanna Jr.
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '126085'
+  artist_display: Vincent van Gogh (Dutch, 1853–1890)
+  title: Dr. Gachet
+  date: '1890'
+  medium: Etching and drypoint, enhanced with black ink on laid paper
+  dimensions: 18.1 x 15.2 cm (7 1/8 x 6 in.)
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1948.303'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 126085)'
+  source_url: https://clevelandart.org/art/1948.303
+  image_url: https://openaccess-cdn.clevelandart.org/1948.303/1948.303_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1948.303/1948.303_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Dudley P. Allen Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '335538'
+  artist_display: Vincent van Gogh
+  title: Nursery on Schenkweg
+  date: March–May 1882
+  medium: Black chalk, graphite, pen, brush, and ink, heightened with white body color
+    on laid paper watermarked ED & CIE (in a cartouche)
+  dimensions: 11 5/8 x 23 1/16in. (29.6 x 58.5cm)
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 335538 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/335538
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP108508.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Walter C. Baker, 1971
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '436531'
+  artist_display: Vincent van Gogh
+  title: Peasant Woman Cooking by a Fireplace
+  date: '1885'
+  medium: Oil on canvas
+  dimensions: 17 3/8 x 15 in. (44.1 x 38.1 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 436531 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/436531
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT2163.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Mr. and Mrs. Mortimer Hays, 1984
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '459123'
+  artist_display: Vincent van Gogh
+  title: Madame Roulin and Her Baby
+  date: '1888'
+  medium: Oil on canvas
+  dimensions: "25 × 20 in. (63.5 × 50.8 cm)\r\nFramed: 37 3/8 × 32 in. (94.9 × 81.3\
+    \ cm)"
+  department: Robert Lehman Collection
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 459123 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/459123
+  image_url: https://images.metmuseum.org/CRDImages/rl/original/DT3154.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Robert Lehman Collection, 1975
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '436533'
+  artist_display: Vincent van Gogh
+  title: Shoes
+  date: '1888'
+  medium: Oil on canvas
+  dimensions: 18 × 21 3/4 in. (45.7 × 55.2 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 436533 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/436533
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT1947.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Purchase, The Annenberg Foundation Gift, 1992
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '336318'
+  artist_display: Vincent van Gogh
+  title: Street in Saintes-Maries-de-la-Mer
+  date: ca. July 15, 1888
+  medium: Reed pen, quill, and brown ink over graphite on wove paper (laid down on
+    wove paper; tack holes in all corners); later additions (by a restorer?) in black
+    chalk, lower and upper right
+  dimensions: 'Sheet: 9 9/16 x 12 1/2 in. (24.3 x 31.7 cm)'
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 336318 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/336318
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP108504.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Abby Aldrich Rockefeller, 1948
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437998'
+  artist_display: Vincent van Gogh
+  title: Olive Trees
+  date: '1889'
+  medium: Oil on canvas
+  dimensions: 28 5/8 x 36 1/4 in. (72.7 x 92.1 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437998 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437998
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT1946.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and
+    Leonore Annenberg, 1998, Bequest of Walter H. Annenberg, 2002
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '436530'
+  artist_display: Vincent van Gogh
+  title: Oleanders
+  date: '1888'
+  medium: Oil on canvas
+  dimensions: 23 3/4 x 29 in. (60.3 x 73.7 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 436530 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/436530
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT1494.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Mr. and Mrs. John L. Loeb, 1962
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '436536'
+  artist_display: Vincent van Gogh
+  title: Women Picking Olives
+  date: '1889'
+  medium: Oil on canvas
+  dimensions: 28 5/8 x 36 in. (72.7 x 91.4 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 436536 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/436536
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP-17161-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and
+    Leonore Annenberg, 1995, Bequest of Walter H. Annenberg, 2002
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '436526'
+  artist_display: Vincent van Gogh
+  title: First Steps, after Millet
+  date: '1890'
+  medium: Oil on canvas
+  dimensions: 28 1/2 x 35 7/8 in. (72.4 x 91.1 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 436526 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/436526
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP124808.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of George N. and Helen M. Richard, 1964
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '436524'
+  artist_display: Vincent van Gogh
+  title: Sunflowers
+  date: '1887'
+  medium: Oil on canvas
+  dimensions: 17 x 24 in. (43.2 x 61 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 436524 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/436524
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP-41223-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1949
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

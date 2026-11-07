@@ -1,0 +1,13 @@
+artist:
+  id: velazquez
+  name_zh: 委拉斯开兹
+  name_en: Velazquez
+  phase: 1
+  region: west
+targets:
+- zh: 宫娥
+  en: Las Meninas
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates: []

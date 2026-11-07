@@ -1,0 +1,159 @@
+artist:
+  id: fan-kuan
+  name_zh: 范宽
+  name_en: Fan Kuan
+  phase: 1
+  region: cn
+targets:
+- zh: 溪山行旅图
+  en: Travelers among Mountains and Streams
+- zh: 雪景寒林图
+  en: Snow Landscape
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '40002'
+  artist_display: Unidentified artist
+  title: Landscape in the style of Fan Kuan
+  date: early 12th century
+  medium: Hanging scroll; ink and color on silk
+  dimensions: "Image: 65 3/8 × 41 1/8 in. (166.1 × 104.5 cm)\r\nOverall with mounting:\
+    \ 9 ft. 8 1/2 in. × 49 3/4 in. (295.9 × 126.4 cm)\r\nOverall with knobs: 9 ft.\
+    \ 8 1/2 in. × 53 3/4 in. (295.9 × 136.5 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 40002 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/40002
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP165244.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Irene and Earl Morse, 1956
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Snow Landscape
+- provider: met
+  provider_object_id: '45650'
+  artist_display: Zhao Yuan
+  title: Landscape
+  date: late 14th century
+  medium: Handscroll; ink on paper
+  dimensions: "Image: 9 13/16 x 30 1/2 in. (24.9 x 77.5 cm)\r\nOverall with mounting:\
+    \ 10 1/8 x 347 5/16 in. (25.7 x 882.2 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: target_title_match
+  license: CC0
+  license_evidence: 'Met Open Access: object 45650 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/45650
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP157322_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Edward Elliott Family Collection, Purchase, The Dillon Fund Gift, 1981
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Snow Landscape
+- provider: cma
+  provider_object_id: '129860'
+  artist_display: Fan Kuan (Chinese, active c. 990–c. 1030)
+  title: Fan-shaped Album Painting
+  date: 1368–1644
+  medium: ink and slight color on silk
+  dimensions: 'Overall: 27.9 x 23 cm (11 x 9 1/16 in.)'
+  department: Chinese Art
+  holding: Cleveland Museum of Art
+  accession_number: '1952.284'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 129860)'
+  source_url: https://clevelandart.org/art/1952.284
+  image_url: https://openaccess-cdn.clevelandart.org/1952.284/1952.284_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1952.284/1952.284_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: John L. Severance Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '45746'
+  artist_display: Wu Kuan
+  title: Joyous Rain
+  date: ca. 1498
+  medium: Folding fan mounted as an album leaf; ink on gold-flecked paper
+  dimensions: 6 3/4 x 19 in. (17.1 x 49.5 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 45746 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/45746
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP153570.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of John M. Crawford Jr., 1988
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '701452'
+  artist_display: Wang Jian
+  title: Mountain Scenery with Streams and Pavilions in the Style of Fan Kuan
+  date: '1667'
+  medium: Hanging scroll; ink and color on paper
+  dimensions: 'Image: 34 × 17 1/2 in. (86.4 × 44.5 cm)'
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 701452 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/701452
+  image_url: https://images.metmuseum.org/CRDImages/as/original/LC-2015_788_sr1_03.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Franklin Z. Davidson, MD and Carol R. Fishberg, 2015
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '36007'
+  artist_display: Unidentified artist
+  title: Waiting for the Ferry
+  date: early 13th century
+  medium: Fan mounted as an album leaf; ink on silk
+  dimensions: 9 7/8 x 10 1/8 in. (25.1 x 25.7 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 36007 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/36007
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP153496.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '35985'
+  artist_display: Unidentified artist
+  title: Calligraphy
+  date: 18th century or later, spurious date of 1492
+  medium: Folding fan mounted as an album leaf; ink on gold paper
+  dimensions: 6 7/8 x 19 15/32 in. (17.5 x 49.5 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 35985 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/35985
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP153565.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

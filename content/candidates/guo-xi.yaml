@@ -1,0 +1,159 @@
+artist:
+  id: guo-xi
+  name_zh: 郭熙
+  name_en: Guo Xi
+  phase: 1
+  region: cn
+targets:
+- zh: 早春图
+  en: Early Spring
+- zh: 窠石平远图
+  en: Old Trees, Level Distance
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '39668'
+  artist_display: Guo Xi
+  title: Old Trees, Level Distance
+  date: ca. 1080
+  medium: Handscroll; ink and color on silk
+  dimensions: "Image: 14 × 41 1/8 in. (35.6 × 104.4 cm)\r\nOverall with mounting:\
+    \ 14 3/4 in. × 28 ft. 1/8 in. (37.5 × 853.8 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 39668 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/39668
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP167812_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of John M. Crawford Jr., in honor of Douglas Dillon, 1981
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: full
+  target_hint: Old Trees, Level Distance
+- provider: met
+  provider_object_id: '49230'
+  artist_display: Tan Song
+  title: Landscape in the Style of Guo Xi
+  date: dated 1748
+  medium: Hanging scroll; ink and color on silk
+  dimensions: "32 3/4 × 41 1/4 in. (83.2 × 104.8 cm)\r\nOverall with mounting: 78\
+    \ 1/8 × 43 1/2 in. (198.4 × 110.5 cm)\r\nOverall with knobs: 78 1/8 × 47 in. (198.4\
+    \ × 119.4 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 49230 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/49230
+  image_url: https://images.metmuseum.org/CRDImages/as/original/13_220_122.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '39731'
+  artist_display: ''
+  title: Scroll Cover with Animals, Birds, and Flowers
+  date: 11th–12th century
+  medium: Silk tapestry (kesi)
+  dimensions: 'Overall: 14 1/4 x 12 1/2in. (36.2 x 31.8cm)'
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 39731 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/39731
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DT7473.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of John M. Crawford Jr., 1983
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '36049'
+  artist_display: Unidentified artist
+  title: Streams and Mountains Without End
+  date: 17th century
+  medium: Handscroll; ink and color on silk
+  dimensions: 11 3/16 x 76 3/8 in. (28.4 x 194 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 36049 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/36049
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP201351_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51293'
+  artist_display: Unidentified artist
+  title: Traveling amid Mountains
+  date: possibly 17th century
+  medium: Handscroll; ink and color on silk
+  dimensions: 19 3/8 in. × 19 ft. 1 1/2 in. (49.2 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51293 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51293
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP165388_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51493'
+  artist_display: Unidentified artist
+  title: Mountain Scenery
+  date: ''
+  medium: Handscroll; ink on silk
+  dimensions: 19 in. × 22 ft. 7 in. (48.3 × 688.3 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51493 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51493
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP166168_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '36056'
+  artist_display: Unidentified artist
+  title: Towing a Boat in a Rainstorm
+  date: late 12th century
+  medium: Fan mounted as an album leaf; ink and color on silk
+  dimensions: "Image: 9 5/8 × 10 1/4 in. (24.4 × 26 cm)\r\nMat: 15 1/2 × 15 1/2 in.\
+    \ (39.4 × 39.4 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 36056 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/36056
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP153500.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

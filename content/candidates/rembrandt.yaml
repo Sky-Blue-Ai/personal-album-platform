@@ -1,0 +1,803 @@
+artist:
+  id: rembrandt
+  name_zh: 伦勃朗
+  name_en: Rembrandt
+  phase: 1
+  region: west
+targets:
+- zh: 夜巡
+  en: Night Watch
+- zh: 自画像
+  en: Self-Portrait
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: cma
+  provider_object_id: '114751'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Self-Portrait Drawing at a Window
+  date: '1648'
+  medium: etching, drypoint, and engraving
+  dimensions: 'Sheet: 17.3 x 14.5 cm (6 13/16 x 5 11/16 in.); Platemark: 15.6 x 12.9
+    cm (6 1/8 x 5 1/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1934.350'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 114751)'
+  source_url: https://clevelandart.org/art/1934.350
+  image_url: https://openaccess-cdn.clevelandart.org/1934.350/1934.350_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1934.350/1934.350_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Leonard C. Hanna Jr.
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: full
+  target_hint: Self-Portrait
+- provider: cma
+  provider_object_id: '124089'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Portrait of a Woman
+  date: 1635 or earlier
+  medium: oil on wood
+  dimensions: 'Framed: 97.8 x 83.8 x 6.4 cm (38 1/2 x 33 x 2 1/2 in.); Unframed: 77.5
+    x 64.8 cm (30 1/2 x 25 1/2 in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1944.90'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 124089)'
+  source_url: https://clevelandart.org/art/1944.90
+  image_url: https://openaccess-cdn.clevelandart.org/1944.90/1944.90_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1944.90/1944.90_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: The Elisabeth Severance Prentiss Collection
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Self-Portrait
+- provider: met
+  provider_object_id: '437406'
+  artist_display: Rembrandt
+  title: Portrait of a Man ("The Auctioneer")
+  date: probably ca. 1658–62
+  medium: Oil on canvas
+  dimensions: 42 3/4 x 34 in. (108.6 x 86.4 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437406 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437406
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP145912.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Benjamin Altman, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Self-Portrait
+- provider: cma
+  provider_object_id: '122348'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: A Young Man with a Chain
+  date: c. 1629 or 1632
+  medium: oil on wood
+  dimensions: 'Framed: 83.8 x 69.9 x 12.7 cm (33 x 27 1/2 x 5 in.); Unframed: 57.8
+    x 43.8 cm (22 3/4 x 17 1/4 in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1942.644'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 122348)'
+  source_url: https://clevelandart.org/art/1942.644
+  image_url: https://openaccess-cdn.clevelandart.org/1942.644/1942.644_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1942.644/1942.644_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Bequest of John L. Severance
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '135706'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: 'Christ Crucified Between the Two Thieves: ''The Three Crosses'''
+  date: 1653-c.1660
+  medium: drypoint
+  dimensions: 'Sheet: 37.5 x 44 cm (14 3/4 x 17 5/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1959.241'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 135706)'
+  source_url: https://clevelandart.org/art/1959.241
+  image_url: https://openaccess-cdn.clevelandart.org/1959.241/1959.241_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1959.241/1959.241_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Bequest of Ralph King and Purchase from the J. H. Wade Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '127573'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: A Bearded Man Wearing a Hat
+  date: c. 1655–60
+  medium: oil on canvas
+  dimensions: 'Framed: 119.4 x 104.1 x 14.6 cm (47 x 41 x 5 3/4 in.); Unframed: 84.5
+    x 69.2 cm (33 1/4 x 27 1/4 in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1950.252'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 127573)'
+  source_url: https://clevelandart.org/art/1950.252
+  image_url: https://openaccess-cdn.clevelandart.org/1950.252/1950.252_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1950.252/1950.252_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of the Hanna Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '144844'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Tobias Healing His Father's Blindness
+  date: c. 1640–45
+  medium: Pen and brown ink, touched with white gouache; framing lines in pen and
+    brown ink
+  dimensions: 'Sheet: 21.1 x 17.7 cm (8 5/16 x 6 15/16 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1969.69'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 144844)'
+  source_url: https://clevelandart.org/art/1969.69
+  image_url: https://openaccess-cdn.clevelandart.org/1969.69/1969.69_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1969.69/1969.69_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Purchase from the J. H. Wade Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '149378'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Shah Jahan
+  date: c. 1656–61
+  medium: pen and brown ink and brush and brown wash
+  dimensions: 'Sheet: 22.5 x 17.1 cm (8 7/8 x 6 3/4 in.); Secondary Support: 27.6
+    x 22.4 cm (10 7/8 x 8 13/16 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1978.38'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 149378)'
+  source_url: https://clevelandart.org/art/1978.38
+  image_url: https://openaccess-cdn.clevelandart.org/1978.38/1978.38_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1978.38/1978.38_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '136153'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Rembrandt and His Wife Saskia
+  date: '1636'
+  medium: etching
+  dimensions: 'Sheet: 10.5 x 9.2 cm (4 1/8 x 3 5/8 in.); Matted: 49.1 x 36.2 cm (19
+    5/16 x 14 1/4 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1959.81'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 136153)'
+  source_url: https://clevelandart.org/art/1959.81
+  image_url: https://openaccess-cdn.clevelandart.org/1959.81/1959.81_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1959.81/1959.81_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of The Print Club of Cleveland
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '143195'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: An Elderly Man in Prayer
+  date: 1660s or later
+  medium: oil on canvas
+  dimensions: 'Framed: 119.4 x 106.7 x 15.9 cm (47 x 42 x 6 1/4 in.); Unframed: 87.3
+    x 72 cm (34 3/8 x 28 3/8 in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1967.16'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 143195)'
+  source_url: https://clevelandart.org/art/1967.16
+  image_url: https://openaccess-cdn.clevelandart.org/1967.16/1967.16_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1967.16/1967.16_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '136304'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Christ Taken before Caiaphas
+  date: c. 1641–42
+  medium: pen and brown ink and brush and brown wash, with white gouache
+  dimensions: 'Sheet: 18.2 x 23.4 cm (7 3/16 x 9 3/16 in.); Secondary Support: 18.2
+    x 23.4 cm (7 3/16 x 9 3/16 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1960.187'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 136304)'
+  source_url: https://clevelandart.org/art/1960.187
+  image_url: https://openaccess-cdn.clevelandart.org/1960.187/1960.187_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1960.187/1960.187_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '137153'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: The Meeting of Christ with Martha and Mary after the Death of Lazarus
+  date: c. 1662–65
+  medium: reed pen and brown ink and wash, heightened with white gouache (in the heads
+    of the kneeling figures)
+  dimensions: 'Sheet: 17.5 x 20.8 cm (6 7/8 x 8 3/16 in.); Secondary Support: 17.5
+    x 20.8 cm (6 7/8 x 8 3/16 in.)'
+  department: Drawings
+  holding: Cleveland Museum of Art
+  accession_number: '1962.116'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 137153)'
+  source_url: https://clevelandart.org/art/1962.116
+  image_url: https://openaccess-cdn.clevelandart.org/1962.116/1962.116_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1962.116/1962.116_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '676879'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: St. Francis Beneath a Tree Praying
+  date: '1657'
+  medium: drypoint and etching
+  dimensions: 'Sheet: 18.1 x 24.5 cm (7 1/8 x 9 5/8 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '2024.64'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 676879)'
+  source_url: https://clevelandart.org/art/2024.64
+  image_url: https://openaccess-cdn.clevelandart.org/2024.64/2024.64_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/2024.64/2024.64_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '135295'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Christ Preaching ('La Petite Tombe')
+  date: c. 1652
+  medium: etching, drypoint, and burin
+  dimensions: 'Sheet: 15.8 x 21 cm (6 1/4 x 8 1/4 in.); Platemark: 15.5 x 20.7 cm
+    (6 1/8 x 8 1/8 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1958.306'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 135295)'
+  source_url: https://clevelandart.org/art/1958.306
+  image_url: https://openaccess-cdn.clevelandart.org/1958.306/1958.306_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1958.306/1958.306_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of The Print Club of Cleveland in honor of William Mathewson Milliken
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '149090'
+  artist_display: Jan Georg van Vliet (Dutch, c. 1610–1635)
+  title: Lot and His Daughters
+  date: '1631'
+  medium: etching and engraving
+  dimensions: 'Platemark: 27 x 22.3 cm (10 5/8 x 8 3/4 in.); Sheet: 27.9 x 22.8 cm
+    (11 x 9 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1977.24'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 149090)'
+  source_url: https://clevelandart.org/art/1977.24
+  image_url: https://openaccess-cdn.clevelandart.org/1977.24/1977.24_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1977.24/1977.24_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: L. E. Holden Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '148976'
+  artist_display: Rembrandt Bugatti (Italian, 1884–1916)
+  title: Walking Panther
+  date: '1903'
+  medium: bronze
+  dimensions: 'Overall: 17.8 x 42 x 15.1 cm (7 x 16 9/16 x 5 15/16 in.)'
+  department: Modern European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1977.132'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 148976)'
+  source_url: https://clevelandart.org/art/1977.132
+  image_url: https://openaccess-cdn.clevelandart.org/1977.132/1977.132_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1977.132/1977.132_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Mr. and Mrs. Noah L. Butkin
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '160065'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Woman Bathing Her Feet in a Brook
+  date: '1658'
+  medium: etching with drypoint and surface tone
+  dimensions: 'Sheet: 15.9 x 8.1 cm (6 1/4 x 3 3/16 in.); Platemark: 15.9 x 7.9 cm
+    (6 1/4 x 3 1/8 in.); Secondary Support: 20.9 x 11.7 cm (8 1/4 x 4 5/8 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1997.4'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 160065)'
+  source_url: https://clevelandart.org/art/1997.4
+  image_url: https://openaccess-cdn.clevelandart.org/1997.4/1997.4_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1997.4/1997.4_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '161179'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: The Presentation in the Temple
+  date: c. 1654
+  medium: etching, drypoint and engraving
+  dimensions: 'Overall: 21 x 16.3 cm (8 1/4 x 6 7/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1999.3'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 161179)'
+  source_url: https://clevelandart.org/art/1999.3
+  image_url: https://openaccess-cdn.clevelandart.org/1999.3/1999.3_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1999.3/1999.3_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Purchase from the J. H. Wade Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '162193'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: 'The Blindness of Tobit: The Large Plate'
+  date: '1651'
+  medium: etching and drypoint
+  dimensions: 'Sheet: 16.3 x 13.2 cm (6 7/16 x 5 3/16 in.); Platemark: 15.8 x 12.9
+    cm (6 1/4 x 5 1/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '2002.10'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 162193)'
+  source_url: https://clevelandart.org/art/2002.10
+  image_url: https://openaccess-cdn.clevelandart.org/2002.10/2002.10_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/2002.10/2002.10_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Severance and Greta Millikin Purchase Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '164752'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Ecce Homo. Christ Presented to the People
+  date: '1655'
+  medium: drypoint
+  dimensions: 'Sheet: 36.1 x 45.6 cm (14 3/16 x 17 15/16 in.); Platemark: 35.9 x 45.6
+    cm (14 1/8 x 17 15/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '2006.155'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 164752)'
+  source_url: https://clevelandart.org/art/2006.155
+  image_url: https://openaccess-cdn.clevelandart.org/2006.155/2006.155_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/2006.155/2006.155_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '148804'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: The Strolling Musicians
+  date: c. 1635
+  medium: etching and drypoint
+  dimensions: 'Sheet: 14.5 x 11.8 cm (5 11/16 x 4 5/8 in.); Platemark: 14.1 x 11.5
+    cm (5 9/16 x 4 1/2 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1976.54'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 148804)'
+  source_url: https://clevelandart.org/art/1976.54
+  image_url: https://openaccess-cdn.clevelandart.org/1976.54/1976.54_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1976.54/1976.54_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Purchase from the J. H. Wade Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '110224'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: The Descent from the Cross by Torchlight
+  date: '1654'
+  medium: etching and drypoint
+  dimensions: 'Sheet: 21 x 16.2 cm (8 1/4 x 6 3/8 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1928.84'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 110224)'
+  source_url: https://clevelandart.org/art/1928.84
+  image_url: https://openaccess-cdn.clevelandart.org/1928.84/1928.84_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1928.84/1928.84_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Leonard C. Hanna Jr.
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '104119'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: 'Christ at Emmaus: The Larger Plate'
+  date: '1654'
+  medium: etching, engraving and drypoint
+  dimensions: 'Sheet: 24 x 18.5 cm (9 7/16 x 7 5/16 in.); Platemark: 21 x 16 cm (8
+    1/4 x 6 5/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1922.280'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 104119)'
+  source_url: https://clevelandart.org/art/1922.280
+  image_url: https://openaccess-cdn.clevelandart.org/1922.280/1922.280_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1922.280/1922.280_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of The Print Club of Cleveland
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '121289'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: The Hundred Guilder Print, central section
+  date: c. 1649, printed later
+  medium: etching, drypoint, and engraving
+  dimensions: 'Sheet: 45.3 x 23.9 cm (17 13/16 x 9 7/16 in.); Platemark: 28.3 x 19.3
+    cm (11 1/8 x 7 5/8 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1942.116'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 121289)'
+  source_url: https://clevelandart.org/art/1942.116
+  image_url: https://openaccess-cdn.clevelandart.org/1942.116/1942.116_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1942.116/1942.116_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Bequest of Julia Morgan Marlatt
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '284347'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: The Pancake Woman
+  date: '1635'
+  medium: Etching
+  dimensions: 'Sheet: 10.1 x 8 cm (4 x 3 1/8 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '2016.41'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 284347)'
+  source_url: https://clevelandart.org/art/2016.41
+  image_url: https://openaccess-cdn.clevelandart.org/2016.41/2016.41_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/2016.41/2016.41_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of the Print Club of Cleveland in honor of Jane Glaubinger
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '104116'
+  artist_display: Rembrandt van Rijn (Dutch, 1606–1669)
+  title: Return of the Prodigal Son
+  date: '1636'
+  medium: etching
+  dimensions: 'Sheet: 16.4 x 14.4 cm (6 7/16 x 5 11/16 in.); Platemark: 15.5 x 13.3
+    cm (6 1/8 x 5 1/4 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1922.278'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 104116)'
+  source_url: https://clevelandart.org/art/1922.278
+  image_url: https://openaccess-cdn.clevelandart.org/1922.278/1922.278_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1922.278/1922.278_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of The Print Club of Cleveland
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437403'
+  artist_display: Rembrandt
+  title: Christ and the Woman of Samaria
+  date: ''
+  medium: Oil on wood
+  dimensions: 25 x 19 1/4 in. (63.5 x 48.9 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437403 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437403
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP145935.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Lillian S. Timken, 1959
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437420'
+  artist_display: Rembrandt
+  title: Rembrandt's Son Titus (1641–1668)
+  date: ''
+  medium: Oil on canvas
+  dimensions: 31 1/8 x 23 1/4 in. (79.1 x 59.1 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437420 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437420
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP146443.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Benjamin Altman, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437416'
+  artist_display: Rembrandt
+  title: Man in Armor (Mars?)
+  date: ''
+  medium: Oil on canvas
+  dimensions: 40 1/8 x 35 5/8 in. (101.9 x 90.5 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437416 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437416
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP145410.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Purchase, 1871
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437418'
+  artist_display: Rembrandt
+  title: Man with a Beard
+  date: ''
+  medium: Oil on canvas
+  dimensions: 28 7/8 x 25 1/4 in. (73.3 x 64.1 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437418 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437418
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP146456.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Marquand Collection, Gift of Henry G. Marquand, 1889
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437414'
+  artist_display: Rembrandt
+  title: Pilate Washing His Hands
+  date: probably 1660s
+  medium: Oil on canvas
+  dimensions: 51 1/4 x 65 3/4 in. (130.2 x 167 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437414 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437414
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP145903.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Benjamin Altman, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437411'
+  artist_display: Rembrandt
+  title: Man with a Steel Gorget
+  date: ''
+  medium: Oil on canvas
+  dimensions: 37 1/8 x 30 5/8 in. (94.3 x 77.8 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437411 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437411
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP146472.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Benjamin Altman, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437419'
+  artist_display: Rembrandt
+  title: Rembrandt (1606–1669) as a Young Man
+  date: ''
+  medium: Oil on wood
+  dimensions: 8 5/8 x 6 1/2 in. (21.9 x 16.5 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437419 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437419
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP145931.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Evander B. Schley, 1952
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437404'
+  artist_display: Rembrandt
+  title: Head of Christ
+  date: ''
+  medium: Oil on canvas
+  dimensions: 16 3/4 x 13 1/2 in. (42.5 x 34.3 cm); with added strips 18 5/8 x 14
+    5/8 in. (47.3 x 37.1 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437404 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437404
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP145916.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Mr. and Mrs. Isaac D. Fletcher Collection, Bequest of Isaac D. Fletcher,
+    1917
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437407'
+  artist_display: Rembrandt
+  title: Christ with a Staff
+  date: ''
+  medium: Oil on canvas
+  dimensions: 37 1/2 x 32 1/2 in. (95.3 x 82.6 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437407 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437407
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT1347.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: The Jules Bache Collection, 1949
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '359970'
+  artist_display: Rembrandt (Rembrandt van Rijn)
+  title: 'Sheet with Two Studies:  A Tree and the Upper Part of a Head of Rembrandt
+    Wearing a Velvet Cap'
+  date: ca. 1642
+  medium: Etching; only state
+  dimensions: 'Sheet: 3 1/16 x 2 9/16 in. (7.8 x 6.5 cm)'
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 359970 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/359970
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP814542.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1970
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437408'
+  artist_display: Rembrandt
+  title: Man in a Beret
+  date: ''
+  medium: Oil on canvas
+  dimensions: 29 7/8 x 24 3/4 in. (75.9 x 62.9 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437408 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437408
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP146507.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Charles S. Payson, 1975
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

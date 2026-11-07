@@ -1,0 +1,237 @@
+artist:
+  id: botticelli
+  name_zh: 波提切利
+  name_en: Botticelli
+  phase: 1
+  region: west
+targets:
+- zh: 春
+  en: Primavera
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '16351'
+  artist_display: Thomas Sully
+  title: Three Graces (Primavera?) (Botticelli?); Dying Figure; Figure with a Bow
+    (from Sketchbook)
+  date: 1810–20
+  medium: Ink, wash, on paper
+  dimensions: 9 x 11 1/2 in. (22.9 x 29.2 cm)
+  department: The American Wing
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 16351 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/16351
+  image_url: https://images.metmuseum.org/CRDImages/ad/original/266726.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1953
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: full
+  target_hint: Primavera
+- provider: cma
+  provider_object_id: '144966'
+  artist_display: Sandro Botticelli (Italian, 1444/45–1510)
+  title: Virgin and Child with the Young Saint John the Baptist
+  date: c. 1490
+  medium: tempera and oil on wood
+  dimensions: 'Framed: 115 x 12.5 cm (45 1/4 x 4 15/16 in.); Diameter: 68 cm (26 3/4
+    in.)'
+  department: Medieval Art
+  holding: Cleveland Museum of Art
+  accession_number: '1970.160'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 144966)'
+  source_url: https://clevelandart.org/art/1970.160
+  image_url: https://openaccess-cdn.clevelandart.org/1970.160/1970.160_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1970.160/1970.160_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '126986'
+  artist_display: Francesco Rosselli (Italian, 1448-about 1513)
+  title: The Assumption of the Virgin
+  date: c. 1495
+  medium: engraving printed on two sheets from two plates
+  dimensions: null
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1949.32'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 126986)'
+  source_url: https://clevelandart.org/art/1949.32
+  image_url: https://openaccess-cdn.clevelandart.org/1949.32/1949.32_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1949.32/1949.32_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Purchase from the J. H. Wade Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '435730'
+  artist_display: Botticelli
+  title: Madonna and Child with Two Angels
+  date: ''
+  medium: Tempera on wood
+  dimensions: Oval, 39 1/4 x 28 in. (99.7 x 71.1 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 435730 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/435730
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/EP256.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '435731'
+  artist_display: Botticelli
+  title: The Coronation of the Virgin
+  date: ''
+  medium: Tempera on canvas, transferred from wood
+  dimensions: 39 1/2 x 60 1/4 in. (100.3 x 153 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 435731 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/435731
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DT350031.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: The Jules Bache Collection, 1949
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '459478'
+  artist_display: Botticelli (Alessandro di Mariano Filipepi)
+  title: The Last Communion of Saint Jerome
+  date: ca. 1491–1503(?)
+  medium: Pen and brown ink, brown wash, traces of black chalk.
+  dimensions: 6 1/4 x 7 3/4 in.  (15.9 x 19.7 cm)
+  department: Robert Lehman Collection
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 459478 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/459478
+  image_url: https://images.metmuseum.org/CRDImages/rl/original/DP358982.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Robert Lehman Collection, 1975
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '435728'
+  artist_display: Botticelli (Alessandro di Mariano Filipepi)
+  title: The Last Communion of Saint Jerome
+  date: early 1490s
+  medium: Tempera and gold on wood
+  dimensions: 13 1/2 x 10 in. (34.3 x 25.4 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 435728 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/435728
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP-24049-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Benjamin Altman, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '435729'
+  artist_display: Botticelli (Alessandro di Mariano Filipepi)
+  title: Three Miracles of Saint Zenobius
+  date: ca. 1500
+  medium: Tempera on wood
+  dimensions: 26 1/2 x 59 1/4 in. (67.3 x 150.5 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 435729 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/435729
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP-18875-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1911
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '459016'
+  artist_display: Botticelli (Alessandro di Mariano Filipepi)
+  title: The Annunciation
+  date: ca. 1490
+  medium: Tempera and gold on wood
+  dimensions: 7 1/2 x 12 3/8 in. (19.1 x 31.4 cm)
+  department: Robert Lehman Collection
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 459016 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/459016
+  image_url: https://images.metmuseum.org/CRDImages/rl/original/DP267397.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Robert Lehman Collection, 1975
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '459001'
+  artist_display: Botticelli (Alessandro di Mariano Filipepi)
+  title: Madonna Adoring the Child
+  date: ca. 1490–95
+  medium: Tempera and gold on wood
+  dimensions: 'Overall: 30 1/2 × 22 1/2 in. (77.5 × 57.2 cm)'
+  department: Robert Lehman Collection
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 459001 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/459001
+  image_url: https://images.metmuseum.org/CRDImages/rl/original/DP318246.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Robert Lehman Collection, 1975
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '13179'
+  artist_display: Julian Alden Weir
+  title: Copy after Botticelli
+  date: ''
+  medium: Watercolor on paper
+  dimensions: 9 9/16 x 6 3/8 in. (24.3 x 16.2 cm)
+  department: The American Wing
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 13179 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/13179
+  image_url: https://images.metmuseum.org/CRDImages/ad/original/ap1982.372.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Coe Kerr Gallery, 1982
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

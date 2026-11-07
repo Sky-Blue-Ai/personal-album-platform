@@ -1,0 +1,33 @@
+artist:
+  id: zhang-zeduan
+  name_zh: 张择端
+  name_en: Zhang Zeduan
+  phase: 1
+  region: cn
+targets:
+- zh: 清明上河图
+  en: Along the River During the Qingming Festival
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '36048'
+  artist_display: Unidentified artist
+  title: Spring Festival on the River
+  date: 18th century?
+  medium: Handscroll; ink and color on silk
+  dimensions: 11 3/4 in. x 33 ft. (29.8 x 1004.6 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: target_title_match
+  license: CC0
+  license_evidence: 'Met Open Access: object 36048 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/36048
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP120039_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Along the River During the Qingming Festival

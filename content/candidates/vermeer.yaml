@@ -1,0 +1,200 @@
+artist:
+  id: vermeer
+  name_zh: 维米尔
+  name_en: Vermeer
+  phase: 1
+  region: west
+targets:
+- zh: 倒牛奶的女仆
+  en: Milkmaid
+- zh: 戴珍珠耳环的少女
+  en: Girl with a Pearl Earring
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: cma
+  provider_object_id: '106987'
+  artist_display: Henry Wolf (American, 1852–1916)
+  title: Young Woman at a Window
+  date: '1907'
+  medium: wood engraving
+  dimensions: null
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1924.989'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 106987)'
+  source_url: https://clevelandart.org/art/1924.989
+  image_url: https://openaccess-cdn.clevelandart.org/1924.989/1924.989_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1924.989/1924.989_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Dudley P. Allen Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437878'
+  artist_display: Johannes Vermeer
+  title: A Maid Asleep
+  date: ca. 1656–57
+  medium: Oil on canvas
+  dimensions: 34 1/2 x 30 1/8 in. (87.6 x 76.5 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437878 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437878
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP355525.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Benjamin Altman, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437877'
+  artist_display: Johannes Vermeer
+  title: Allegory of the Catholic Faith
+  date: ca. 1670–72
+  medium: Oil on canvas
+  dimensions: 45 x 35 in. (114.3 x 88.9 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437877 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437877
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP145924.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: The Friedsam Collection, Bequest of Michael Friedsam, 1931
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437881'
+  artist_display: Johannes Vermeer
+  title: Young Woman with a Water Pitcher
+  date: ca. 1662
+  medium: Oil on canvas
+  dimensions: 18 x 16 in. (45.7 x 40.6 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437881 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437881
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP353257.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Marquand Collection, Gift of Henry G. Marquand, 1889
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437879'
+  artist_display: Johannes Vermeer
+  title: Study of a Young Woman
+  date: ca. 1665–67
+  medium: Oil on canvas
+  dimensions: 17 1/2 x 15 3/4 in. (44.5 x 40 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437879 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437879
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP353256.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Mr. and Mrs. Charles Wrightsman, in memory of Theodore Rousseau
+    Jr., 1979
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '437880'
+  artist_display: Johannes Vermeer
+  title: Young Woman with a Lute
+  date: ca. 1662–63
+  medium: Oil on canvas
+  dimensions: 20 1/4 x 18 in. (51.4 x 45.7 cm)
+  department: European Paintings
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 437880 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/437880
+  image_url: https://images.metmuseum.org/CRDImages/ep/original/DP354965.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Bequest of Collis P. Huntington, 1900
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '828464'
+  artist_display: Jules-Ferdinand Jacquemart
+  title: Officer and Laughing Girl, after Vermeer
+  date: ca. 1866
+  medium: Etching on chine collé; fourth state of six
+  dimensions: "Sheet: 19 1/8 × 13 7/8 in. (48.5 × 35.3 cm)\r\nPlate: 11 × 7 7/8 in.\
+    \ (28 × 20 cm)"
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 828464 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/828464
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP886855.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Theodore De Witt, 1923
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '828467'
+  artist_display: Jules-Ferdinand Jacquemart
+  title: Officer and Laughing Girl, after Vermeer
+  date: '1866'
+  medium: Etching, sixth state of six (Gonse)
+  dimensions: "Sheet: 14 3/4 × 12 13/16 in. (37.5 × 32.5 cm)\r\nPlate: 9 1/4 × 7 7/8\
+    \ in. (23.5 × 20 cm)"
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 828467 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/828467
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP886849.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Harris Brisbane Dick Fund, 1917
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '828433'
+  artist_display: Jules-Ferdinand Jacquemart
+  title: Officer and Laughing Girl, after Vermeer
+  date: '1866'
+  medium: Etching; fifth state of six (Gonse)
+  dimensions: "Sheet: 9 1/16 in. × 7 in. (23 × 17.8 cm)\r\nPlate: 6 1/2 × 6 in. (16.5\
+    \ × 15.3 cm)"
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 828433 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/828433
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP886847.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of Louis R. Metcalfe, 1928
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

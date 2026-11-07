@@ -1,0 +1,125 @@
+artist:
+  id: monet
+  name_zh: 莫奈
+  name_en: Monet
+  phase: 1
+  region: west
+targets:
+- zh: 睡莲
+  en: Water Lilies
+- zh: 干草堆
+  en: Haystacks
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: cma
+  provider_object_id: '136510'
+  artist_display: Claude Monet (French, 1840–1926)
+  title: Water Lilies (Agapanthus)
+  date: c. 1915–26
+  medium: oil on canvas
+  dimensions: 'Framed: 204.9 x 430.3 x 6 cm (80 11/16 x 169 7/16 x 2 3/8 in.); Unframed:
+    201.3 x 425.6 cm (79 1/4 x 167 9/16 in.)'
+  department: Modern European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1960.81'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 136510)'
+  source_url: https://clevelandart.org/art/1960.81
+  image_url: https://openaccess-cdn.clevelandart.org/1960.81/1960.81_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1960.81/1960.81_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: John L. Severance Fund and an anonymous gift
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: full
+  target_hint: Water Lilies
+- provider: cma
+  provider_object_id: '135382'
+  artist_display: Claude Monet (French, 1840–1926)
+  title: The Red Kerchief
+  date: c. 1868–73
+  medium: oil on fabric
+  dimensions: 'Framed: 128.3 x 105.7 x 14.6 cm (50 1/2 x 41 5/8 x 5 3/4 in.); Unframed:
+    99 x 79.8 cm (39 x 31 7/16 in.)'
+  department: Modern European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1958.39'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 135382)'
+  source_url: https://clevelandart.org/art/1958.39
+  image_url: https://openaccess-cdn.clevelandart.org/1958.39/1958.39_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1958.39/1958.39_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Bequest of Leonard C. Hanna Jr.
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '130391'
+  artist_display: Claude Monet (French, 1840–1926)
+  title: Spring Flowers
+  date: '1864'
+  medium: oil on canvas
+  dimensions: 'Framed: 144.5 x 117.2 x 12.1 cm (56 7/8 x 46 1/8 x 4 3/4 in.); Unframed:
+    116.8 x 90.5 cm (46 x 35 5/8 in.)'
+  department: Modern European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1953.155'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 130391)'
+  source_url: https://clevelandart.org/art/1953.155
+  image_url: https://openaccess-cdn.clevelandart.org/1953.155/1953.155_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1953.155/1953.155_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of the Hanna Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '95272'
+  artist_display: Claude Monet (French, 1840–1926)
+  title: Gardener's House at Antibes
+  date: '1888'
+  medium: oil on canvas
+  dimensions: 'Framed: 91.1 x 118.4 x 13.7 cm (35 7/8 x 46 5/8 x 5 3/8 in.); Unframed:
+    66.3 x 93 cm (26 1/8 x 36 5/8 in.)'
+  department: Modern European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1916.1044'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 95272)'
+  source_url: https://clevelandart.org/art/1916.1044
+  image_url: https://openaccess-cdn.clevelandart.org/1916.1044/1916.1044_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1916.1044/1916.1044_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Mr. and Mrs. J. H. Wade
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '125234'
+  artist_display: Claude Monet (French, 1840–1926)
+  title: Low Tide at Pourville, near Dieppe, 1882
+  date: '1882'
+  medium: oil on fabric
+  dimensions: 'Framed: 65.4 x 106.7 x 10.5 cm (25 3/4 x 42 x 4 1/8 in.); Unframed:
+    59.9 x 81.3 cm (23 9/16 x 32 in.)'
+  department: Modern European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1947.196'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 125234)'
+  source_url: https://clevelandart.org/art/1947.196
+  image_url: https://openaccess-cdn.clevelandart.org/1947.196/1947.196_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1947.196/1947.196_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of Mrs. Henry White Cannon
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

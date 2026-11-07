@@ -1,0 +1,290 @@
+artist:
+  id: leonardo
+  name_zh: 达·芬奇
+  name_en: Leonardo da Vinci
+  phase: 1
+  region: west
+targets:
+- zh: 蒙娜丽莎
+  en: Mona Lisa
+- zh: 维特鲁威人
+  en: Vitruvian Man
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '338125'
+  artist_display: Leonardo da Vinci
+  title: The Head of a Grotesque Man in Profile Facing Right
+  date: after 1500
+  medium: Pen and brown ink, on off-white paper (now darkened)
+  dimensions: '(irregular): 3 5/8 × 2 1/8 in. (9.2 × 5.4 cm)'
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 338125 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/338125
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP808305.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1917
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Vitruvian Man
+- provider: met
+  provider_object_id: '339116'
+  artist_display: Leonardo da Vinci
+  title: Head of a Man in Profile Facing to the Left
+  date: 1490–94
+  medium: Pen and brown ink, over soft black chalk
+  dimensions: 4 5/8 x 2 1/16in. (11.7 x 5.2cm)
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 339116 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/339116
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP810248.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1909
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: partial
+  target_hint: Vitruvian Man
+- provider: cma
+  provider_object_id: '670511'
+  artist_display: Pierino da Vinci (Italian, 1530–1553)
+  title: The Death of Count Ugolino della Gherardesca and His Sons (Inferno Canto
+    XXXIII)
+  date: c. 1550
+  medium: Terracotta
+  dimensions: 'Overall: 62.6 x 44.5 cm (24 5/8 x 17 1/2 in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '2024.1'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 670511)'
+  source_url: https://clevelandart.org/art/2024.1
+  image_url: https://openaccess-cdn.clevelandart.org/2024.1/2024.1_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/2024.1/2024.1_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Leonard C. Hanna Jr. Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '97139'
+  artist_display: Leonardo da Vinci (Italian, 1452–1519)
+  title: Virgin and Child
+  date: c. 1500
+  medium: oil on wood
+  dimensions: 'Framed: 57.5 x 47 x 4 cm (22 5/8 x 18 1/2 x 1 9/16 in.); Painted surface:
+    41.5 x 30.3 cm (16 5/16 x 11 15/16 in.); Panel: 41.7 x 30.9 cm (16 7/16 x 12 3/16
+    in.)'
+  department: European Painting and Sculpture
+  holding: Cleveland Museum of Art
+  accession_number: '1916.779'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 97139)'
+  source_url: https://clevelandart.org/art/1916.779
+  image_url: https://openaccess-cdn.clevelandart.org/1916.779/1916.779_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1916.779/1916.779_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Holden Collection
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '103948'
+  artist_display: Master of the Beheading of St. John the Baptist (Italian)
+  title: 'Allegorical Theme:  Combat of Animals'
+  date: c. 1515–20
+  medium: engraving
+  dimensions: 'Sheet: 22.6 x 31.9 cm (8 7/8 x 12 9/16 in.)'
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1922.141'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 103948)'
+  source_url: https://clevelandart.org/art/1922.141
+  image_url: https://openaccess-cdn.clevelandart.org/1922.141/1922.141_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1922.141/1922.141_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Gift of The Print Club of Cleveland
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '126675'
+  artist_display: Raffaello Morghen (Italian, 1761–1833)
+  title: Leonardo da Vinci
+  date: '1817'
+  medium: engraving
+  dimensions: null
+  department: Prints
+  holding: Cleveland Museum of Art
+  accession_number: '1949.111'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 126675)'
+  source_url: https://clevelandart.org/art/1949.111
+  image_url: https://openaccess-cdn.clevelandart.org/1949.111/1949.111_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1949.111/1949.111_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Bequest of Mrs. Madeleine Hamill in memory of Lawrence Hamill
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '411913'
+  artist_display: Leonardo da Vinci
+  title: Portrait of Leonardo da Vinci, from "Characaturas by Leonardo da Vinci, from
+    Drawings by Wincelslaus Hollar, out of the Portland Museum"
+  date: '1786'
+  medium: Aquatint and etching
+  dimensions: "Plate: 7 7/8 x 6 5/16 in. (20 x 16 cm)\r\nSheet: 8 1/8 x 6 5/8 in.\
+    \ (20.6 x 16.8 cm)"
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 411913 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/411913
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP824104.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Harris Brisbane Dick Fund, 1953
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '459184'
+  artist_display: Leonardo da Vinci
+  title: A Bear Walking
+  date: ca. 1482–85
+  medium: silverpoint on light buff prepared paper
+  dimensions: 4 1/16 x 5 1/4 in.  (10.3 x 13.3 cm)
+  department: Robert Lehman Collection
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 459184 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/459184
+  image_url: https://images.metmuseum.org/CRDImages/rl/original/DP324213.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Robert Lehman Collection, 1975
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '337496'
+  artist_display: Leonardo da Vinci
+  title: The Head of the Virgin in Three-Quarter View Facing Right
+  date: 1510–13
+  medium: Black chalk, charcoal, and red chalk, with some traces of white chalk (?);
+    some remains of framing lines in pen and brown ink at upper right (not by Leonardo)
+  dimensions: 'Sheet: 8 x 6 1/8 in. (20.3 x 15.6 cm)'
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 337496 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/337496
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP102382.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Harris Brisbane Dick Fund, 1951
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '339130'
+  artist_display: Leonardo da Vinci
+  title: Allegory on the Fidelity of the Lizard (recto); Design for a Stage Setting
+    (verso)
+  date: '1496'
+  medium: Pen and brown ink (recto and verso)
+  dimensions: 7 15/16 x 5 1/4in. (20.2 x 13.3cm)
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 339130 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/339130
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DT232678.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1917
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '337494'
+  artist_display: Leonardo da Vinci
+  title: Compositional Sketches for the Virgin Adoring the Christ Child, with and
+    without the Infant St. John the Baptist; Diagram of a Perspectival Projection
+    (recto); Slight Doodles (verso)
+  date: 1480–85
+  medium: Silverpoint, partly reworked by the artist with pen and dark brown ink on
+    pink prepared paper; lines ruled with metalpoint (recto); pen and brown ink (verso)
+  dimensions: 7 5/8 x 6 3/8 in. (19.3 x 16.2 cm)
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 337494 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/337494
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP832657.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1917
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '336656'
+  artist_display: Leonardo da Vinci
+  title: Divina proportione
+  date: June 1, 1509
+  medium: Book with woodcut illustrations
+  dimensions: 11 5/8 x 8 1/4 x 1 1/4 in. (29.6 x 21 x 3.1 cm)
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 336656 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/336656
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP156952.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1919
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '353151'
+  artist_display: Leonardo da Vinci
+  title: Traitté de la Peinture
+  date: '1651'
+  medium: Printed book
+  dimensions: "Overall: 15 1/2 x 10 5/8 x 1 9/16 in. (39.3 x 27 x 4 cm)\r\nStorage:\
+    \ 16 3/4 x 11 11/16 x 2 9/16 in. (42.5 x 29.7 x 6.5 cm)"
+  department: Drawings and Prints
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 353151 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/353151
+  image_url: https://images.metmuseum.org/CRDImages/dp/original/DP-16476-001.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Harris Brisbane Dick Fund, 1932
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

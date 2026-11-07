@@ -1,0 +1,13 @@
+artist:
+  id: zhan-ziqian
+  name_zh: 展子虔（传）
+  name_en: Zhan Ziqian
+  phase: 1
+  region: cn
+targets:
+- zh: 游春图
+  en: Spring Excursion
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates: []

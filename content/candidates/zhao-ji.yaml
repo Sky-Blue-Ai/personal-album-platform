@@ -1,0 +1,195 @@
+artist:
+  id: zhao-ji
+  name_zh: 赵佶（宋徽宗）
+  name_en: Emperor Huizong
+  phase: 1
+  region: cn
+targets:
+- zh: 芙蓉锦鸡图
+  en: Hibiscus and Golden Pheasant
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: met
+  provider_object_id: '39936'
+  artist_display: Emperor Huizong
+  title: Finches and bamboo
+  date: early 12th century
+  medium: Handscroll; ink and color on silk
+  dimensions: "Image: 13 1/4 × 21 13/16 in. (33.7 × 55.4 cm)\r\nOverall with mounting:\
+    \ 13 3/4 in. × 27 ft. 6 5/16 in. (34.9 × 839 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 39936 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/39936
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP151504_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John M. Crawford Jr. Collection, Purchase, Douglas Dillon Gift, 1981
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '75816'
+  artist_display: ''
+  title: Coin inscribed “Chong Ning Tong Bao”
+  date: 1102–06
+  medium: Copper alloy
+  dimensions: Diam. 1 3/8 in. (3.5 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 75816 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/75816
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP701710.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Gift of James C. Y. Watt, 2013
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51384'
+  artist_display: Unidentified artist
+  title: Purple Lichees and Bird
+  date: ''
+  medium: Fan mounted as an album leaf; ink and color on silk
+  dimensions: 9 1/8 x 9 1/2 in. (23.2 x 24.1 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51384 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51384
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP154550.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51393'
+  artist_display: Unidentified artist
+  title: Bird on a Lychee Branch
+  date: ''
+  medium: Fan mounted as an album leaf; ink and color on silk
+  dimensions: 9 1/4 x 9 5/8 in. (23.5 x 24.4 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51393 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51393
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP154551.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51396'
+  artist_display: Unidentified artist
+  title: Bunch of Purple Lychees
+  date: ''
+  medium: Fan mounted as an album leaf; ink and color on silk
+  dimensions: 9 x 9 1/4 in. (22.9 x 23.5 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51396 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51396
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP154549.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51487'
+  artist_display: Unidentified artist
+  title: Copy of Tang Ming Huang Instructing the Prince
+  date: ''
+  medium: Handscroll; ink and color on silk
+  dimensions: 12 3/8 x 42 3/4 in. (31.4 x 108.6 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51487 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51487
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP166183_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51534'
+  artist_display: Unidentified artist
+  title: White Falcon
+  date: ''
+  medium: Hanging scroll; on silk
+  dimensions: 46 x 21 in. (116.8 x 53.3 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51534 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51534
+  image_url: https://images.metmuseum.org/CRDImages/as/original/44962.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1918
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51695'
+  artist_display: Unidentified artist
+  title: Chinese Children at Play
+  date: ''
+  medium: Fan mounted as an album leaf; ink and color on silk
+  dimensions: 8 5/16 x 9 1/2 in. (21.1 x 24.1 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51695 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51695
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP153546.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51705'
+  artist_display: Unidentified artist
+  title: Horse and groom
+  date: 16th century
+  medium: Handscroll; ink and color on silk
+  dimensions: "Image: 12 in. × 20 1/4 in. (30.5 × 51.4 cm)\r\nOverall with mounting:\
+    \ 12 9/16 in. × 23 ft. 3/4 in. (31.9 × 702.9 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51705 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51705
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP202661_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

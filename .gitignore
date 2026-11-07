@@ -1,0 +1,28 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+content/.cache/
+
+# node / web
+node_modules/
+.next/
+out/
+dist/
+
+# kotlin / gradle
+.gradle/
+build/
+local.properties
+*.hprof
+.kotlin/
+
+# ios
+iosApp/Pods/
+*.xcuserstate
+DerivedData/
+
+# env & secrets
+.env
+.env.*
+!.env.example

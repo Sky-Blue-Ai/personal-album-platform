@@ -1,0 +1,333 @@
+artist:
+  id: li-gonglin
+  name_zh: 李公麟
+  name_en: Li Gonglin
+  phase: 1
+  region: cn
+targets:
+- zh: 五马图
+  en: Five Horses
+generated_at: '2026-11-07'
+note: verification_status 一律 pending：必须打开 source_url 看到 CC0/PD 标识后才可改为 verified
+errors: []
+candidates:
+- provider: cma
+  provider_object_id: '150497'
+  artist_display: Li Gonglin (Chinese, c. 1049–1106)
+  title: Dwelling in the Longmian ("Sleeping Dragon") Mountains
+  date: 1100s-1200s
+  medium: Handscroll mounted as three album leaves; ink and color on silk
+  dimensions: 'Overall: 26.5 x 42 cm (10 7/16 x 16 9/16 in.)'
+  department: Chinese Art
+  holding: Cleveland Museum of Art
+  accession_number: '1981.57'
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 150497)'
+  source_url: https://clevelandart.org/art/1981.57
+  image_url: https://openaccess-cdn.clevelandart.org/1981.57/1981.57_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1981.57/1981.57_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Andrew R. and Martha Holden Jennings Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '150500'
+  artist_display: Li Gonglin (Chinese, c. 1049–1106)
+  title: Dwelling in the Longmian ("Sleeping Dragon") Mountains
+  date: 1100s-1200s
+  medium: handscroll mounted as an album leaf; ink and color on silk
+  dimensions: 'Image: 26.5 x 39.8 cm (10 7/16 x 15 11/16 in.); Mounted: 38.3 x 53.8
+    cm (15 1/16 x 21 3/16 in.)'
+  department: Chinese Art
+  holding: Cleveland Museum of Art
+  accession_number: 1981.57.3
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 150500)'
+  source_url: https://clevelandart.org/art/1981.57.3
+  image_url: https://openaccess-cdn.clevelandart.org/1981.57.3/1981.57.3_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1981.57.3/1981.57.3_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Andrew R. and Martha Holden Jennings Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '150498'
+  artist_display: Li Gonglin (Chinese, c. 1049–1106)
+  title: Dwelling in the Longmian ("Sleeping Dragon") Mountains
+  date: 1100s-1200s
+  medium: handscroll mounted as an album leaf; ink and color on silk
+  dimensions: 'Image: 26.3 x 43 cm (10 3/8 x 16 15/16 in.); Mounted: 38.3 x 53.8 cm
+    (15 1/16 x 21 3/16 in.)'
+  department: Chinese Art
+  holding: Cleveland Museum of Art
+  accession_number: 1981.57.1
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 150498)'
+  source_url: https://clevelandart.org/art/1981.57.1
+  image_url: https://openaccess-cdn.clevelandart.org/1981.57.1/1981.57.1_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1981.57.1/1981.57.1_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Andrew R. and Martha Holden Jennings Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: cma
+  provider_object_id: '150499'
+  artist_display: Li Gonglin (Chinese, c. 1049–1106)
+  title: Dwelling in the Longmian ("Sleeping Dragon") Mountains
+  date: 1100s-1200s
+  medium: handscroll mounted as an album leaf; ink and color on silk
+  dimensions: 'Image: 26.5 x 43 cm (10 7/16 x 16 15/16 in.); Mounted: 38.3 x 53.8
+    cm (15 1/16 x 21 3/16 in.)'
+  department: Chinese Art
+  holding: Cleveland Museum of Art
+  accession_number: 1981.57.2
+  license: CC0
+  license_evidence: 'CMA open access: share_license_status=CC0 (artwork 150499)'
+  source_url: https://clevelandart.org/art/1981.57.2
+  image_url: https://openaccess-cdn.clevelandart.org/1981.57.2/1981.57.2_full.tif
+  image_thumb: https://openaccess-cdn.clevelandart.org/1981.57.2/1981.57.2_web.jpg
+  image_profile: full TIFF (huge) + web JPEG; tile on ingest
+  credit_line: Andrew R. and Martha Holden Jennings Fund
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '39895'
+  artist_display: Li Gonglin
+  title: The Classic of Filial Piety
+  date: ca. 1085
+  medium: Handscroll; ink and color on silk
+  dimensions: "Overall (a, painting): 8 5/8 x 187 1/4 in. (21.9 x 475.6 cm)\r\nOverall\
+    \ (b, colophons): 10 3/8 x 208 5/8 in. (26.4 x 529.9 cm)\r\nOverall (c, modern\
+    \ copy preserving seventeenth century silk restorations): 9 1/8 x 196 in. (23.2\
+    \ x 497.8 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: primary
+  license: CC0
+  license_evidence: 'Met Open Access: object 39895 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/39895
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP151528.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: 'Ex coll.: C. C. Wang Family, From the P. Y. and Kinmay W. Tang Family
+    Collection, Gift of Oscar L. Tang Family, 1996'
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51483'
+  artist_display: Wang Hui
+  title: Landscape in the Style of Li Gonglin
+  date: dated 1702
+  medium: Hanging scroll; ink and color on silk
+  dimensions: "Image: 46 3/4 x 22 1/4 in. (118.7 x 56.5 cm)\r\nOverall with mounting:\
+    \ 100 1/2 x 29 5/8 in. (255.3 x 75.2 cm)\r\nOverall with knobs: 100 1/2 x 33 3/4\
+    \ in. (255.3 x 85.7 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: copy_or_attributed
+  license: CC0
+  license_evidence: 'Met Open Access: object 51483 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51483
+  image_url: https://images.metmuseum.org/CRDImages/as/original/13_220_33_O.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '52080'
+  artist_display: Unidentified artist
+  title: White Lotus Society
+  date: 15th century
+  medium: Handscroll; ink on paper
+  dimensions: 11 7/8 in. × 19 ft. 5 1/2 in. (30.2 × 593.1 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 52080 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/52080
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP215389_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '36032'
+  artist_display: Unidentified artist
+  title: Immortals and Sages
+  date: ''
+  medium: Handscroll; ink on silk
+  dimensions: 13 3/8 × 85 in. (34 × 215.9 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 36032 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/36032
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP166564_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1918
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '36041'
+  artist_display: Unidentified artist
+  title: Portrait of a Lady
+  date: 14th century
+  medium: Hanging scroll; ink on silk
+  dimensions: "Image: 31 × 15 in. (78.7 × 38.1 cm)\r\nOverall with mounting: 64 ×\
+    \ 20 7/8 in. (162.6 × 53 cm)\r\nOverall with knobs: 64 × 22 3/16 in. (162.6 ×\
+    \ 56.4 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 36041 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/36041
+  image_url: https://images.metmuseum.org/CRDImages/as/original/29_100_476.JPG
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51394'
+  artist_display: Unidentified artist
+  title: Gathering at the Orchid Pavilion
+  date: 16th century
+  medium: Fan mounted as an album leaf; ink and color on silk
+  dimensions: 11 1/2 x 11 in. (29.2 x 27.9 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51394 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51394
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP153557.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: John Stewart Kennedy Fund, 1913
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51523'
+  artist_display: Unidentified artist
+  title: Bird Near Water (from Album of Studies by Modern Artists, no. 62)
+  date: ''
+  medium: Albun leaf; ink and color on silk
+  dimensions: "Image: 10 1/4 × 10 1/4 in. (26 × 26 cm)\r\nSheet: 12 1/4 × 15 3/4 in.\
+    \ (31.1 × 40 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51523 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51523
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP211850.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith,
+    Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart
+    Smith, 1914
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51525'
+  artist_display: Unidentified artist
+  title: Holy Men Travelling to the Buddhist Heaven
+  date: ''
+  medium: Handscroll; ink on silk
+  dimensions: 13 3/8 x 85 in. (34  x 215.9 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51525 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51525
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP166330_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Rogers Fund, 1918
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51559'
+  artist_display: Unidentified artist
+  title: Lady with Scroll
+  date: ''
+  medium: Hanging scroll; color on silk
+  dimensions: "Image: 47 3/4 × 18 1/4 in. (121.3 × 46.4 cm)\r\nOverall with mounting:\
+    \ 84 × 24 1/4 in. (213.4 × 61.6 cm)\r\nOverall with knobs: 84 × 26 1/2 in. (213.4\
+    \ × 67.3 cm)"
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51559 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51559
+  image_url: https://images.metmuseum.org/CRDImages/as/original/29_100_443.JPG
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51738'
+  artist_display: Unidentified artist
+  title: Mongol with Horse and Camel
+  date: ''
+  medium: Album leaf; ink and color on silk
+  dimensions: 12 x 12 5/16 in. (30.5 x 31.3 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51738 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51738
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP153563.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null
+- provider: met
+  provider_object_id: '51751'
+  artist_display: Unidentified artist
+  title: 'Buddhist Scroll: The Eighteen Luohans'
+  date: ''
+  medium: Handscroll; gold on black paper
+  dimensions: 10 1/2 x 151 1/4 in. (26.7 x 384.2 cm)
+  department: Asian Art
+  holding: The Metropolitan Museum of Art
+  attribution: unidentified_search_hit
+  license: CC0
+  license_evidence: 'Met Open Access: object 51751 isPublicDomain=true'
+  source_url: https://www.metmuseum.org/art/collection/search/51751
+  image_url: https://images.metmuseum.org/CRDImages/as/original/DP202873_CRD.jpg
+  image_profile: fixed-jpeg, no IIIF
+  credit_line: Anonymous Gift, 1947
+  fetched_at: '2026-11-07'
+  verification_status: pending
+  target_match: none
+  target_hint: null

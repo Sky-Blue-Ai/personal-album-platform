@@ -1,0 +1,327 @@
+# 内容清单（源于飞书文档《古代艺术名人画展》）
+# id 只用于文件名与引用，不要改；name_en 用于检索 Met / CMA 开放接口
+# targets 里 en 只是检索/比对用的标题线索，不是最终展示文案
+
+meta:
+  source_doc: https://my.feishu.cn/wiki/DrmFwwS1aifwjIksfPPc55hdnsf
+  snapshot_at: "2026-11-07"
+
+artists:
+  # ---------- 第 1 期 · 中国 ----------
+  - id: gu-kaizhi
+    name_zh: 顾恺之（传）
+    name_en: Gu Kaizhi
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 女史箴图（唐摹本）, en: Admonitions of the Instructress }
+      - { zh: 洛神赋图（宋摹本）, en: Nymph of the Luo River }
+    note: 归属存疑，标题须带「(attributed to)」
+
+  - id: zhan-ziqian
+    name_zh: 展子虔（传）
+    name_en: Zhan Ziqian
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 游春图, en: Spring Excursion }
+    note: 已知风险——Met/CMA 均无 CC0，走 Wikimedia 忠实副本
+
+  - id: fan-kuan
+    name_zh: 范宽
+    name_en: Fan Kuan
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 溪山行旅图, en: Travelers among Mountains and Streams }
+      - { zh: 雪景寒林图, en: Snow Landscape }
+
+  - id: guo-xi
+    name_zh: 郭熙
+    name_en: Guo Xi
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 早春图, en: Early Spring }
+      - { zh: 窠石平远图, en: 'Old Trees, Level Distance' }
+
+  - id: zhang-zeduan
+    name_zh: 张择端
+    name_en: Zhang Zeduan
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 清明上河图, en: Along the River During the Qingming Festival }
+    note: Met 仅有 1 件 PD，全卷须补 Wikimedia
+
+  - id: wang-ximeng
+    name_zh: 王希孟
+    name_en: Wang Ximeng
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 千里江山图, en: A Thousand Li of Rivers and Mountains }
+    note: 已知风险——两家均无，只能 Wikimedia（长卷瓦片是硬需求）
+
+  - id: li-gonglin
+    name_zh: 李公麟
+    name_en: Li Gonglin
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 五马图, en: Five Horses }
+
+  - id: zhao-ji
+    name_zh: 赵佶（宋徽宗）
+    name_en: Emperor Huizong
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 芙蓉锦鸡图, en: Hibiscus and Golden Pheasant }
+
+  - id: huang-gongwang
+    name_zh: 黄公望
+    name_en: Huang Gongwang
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 富春山居图, en: Dwelling in the Fuchun Mountains }
+
+  - id: ni-zan
+    name_zh: 倪瓒
+    name_en: Ni Zan
+    phase: 1
+    region: cn
+    targets:
+      - { zh: 幽涧寒松图, en: 'Secluded Valley, Cold Pine' }
+      - { zh: 秋亭嘉树图, en: 'Autumn Pavilion, Fine Trees' }
+
+  # ---------- 第 2 期 · 中国（元明清文人画） ----------
+  - id: zhao-mengfu
+    name_zh: 赵孟頫
+    name_en: Zhao Mengfu
+    phase: 2
+    region: cn
+    targets:
+      - { zh: 鹊华秋色图, en: Autumn Colors on the Qiao and Hua Mountains }
+
+  - id: wu-zhen
+    name_zh: 吴镇
+    name_en: Wu Zhen
+    phase: 2
+    region: cn
+    targets: [{ zh: 渔父图, en: Fisherman }]
+
+  - id: wang-meng
+    name_zh: 王蒙
+    name_en: Wang Meng
+    phase: 2
+    region: cn
+    targets: [{ zh: 青卞隐居图, en: Dwelling in the Qingbian Mountains }]
+
+  - id: shen-zhou
+    name_zh: 沈周
+    name_en: Shen Zhou
+    phase: 2
+    region: cn
+    targets: [{ zh: 庐山高图, en: Mount Lu }]
+
+  - id: wen-zhengming
+    name_zh: 文徵明
+    name_en: Wen Zhengming
+    phase: 2
+    region: cn
+    targets: [{ zh: 真赏斋图, en: Zhenshang Studio }]
+
+  - id: tang-yin
+    name_zh: 唐寅（唐伯虎）
+    name_en: Tang Yin
+    phase: 2
+    region: cn
+    targets: [{ zh: 看泉听风图, en: Listening to the Wind }]
+
+  - id: qiu-ying
+    name_zh: 仇英
+    name_en: Qiu Ying
+    phase: 2
+    region: cn
+    targets: [{ zh: 清明上河图（明摹本）, en: Along the River During the Qingming Festival }]
+
+  - id: dong-qichang
+    name_zh: 董其昌
+    name_en: Dong Qichang
+    phase: 2
+    region: cn
+    targets: [{ zh: 秋兴八景图, en: Eight Views of Autumn }]
+
+  - id: chen-hongshou
+    name_zh: 陈洪绶
+    name_en: Chen Hongshou
+    phase: 2
+    region: cn
+    targets: [{ zh: 莲石图, en: Lotus and Rock }]
+
+  - id: shitao
+    name_zh: 石涛
+    name_en: Shitao
+    phase: 2
+    region: cn
+    targets: [{ zh: 搜尽奇峰打草稿, en: Searching Every Peak for Sketches }]
+
+  # ---------- 第 1 期 · 西方 ----------
+  - id: botticelli
+    name_zh: 波提切利
+    name_en: Botticelli
+    phase: 1
+    region: west
+    targets: [{ zh: 春, en: Primavera }]
+
+  - id: leonardo
+    name_zh: 达·芬奇
+    name_en: Leonardo da Vinci
+    phase: 1
+    region: west
+    targets:
+      - { zh: 蒙娜丽莎, en: Mona Lisa }
+      - { zh: 维特鲁威人, en: Vitruvian Man }
+
+  - id: michelangelo
+    name_zh: 米开朗基罗
+    name_en: Michelangelo
+    phase: 1
+    region: west
+    targets:
+      - { zh: 大卫, en: David }
+      - { zh: 创世纪（西斯廷天顶画）, en: Genesis }
+    note: 雕塑摄影副本须确认拍摄者未主张新版权
+
+  - id: raphael
+    name_zh: 拉斐尔
+    name_en: Raphael
+    phase: 1
+    region: west
+    targets:
+      - { zh: 雅典学院, en: School of Athens }
+      - { zh: 西斯廷圣母, en: Sistine Madonna }
+
+  - id: rembrandt
+    name_zh: 伦勃朗
+    name_en: Rembrandt
+    phase: 1
+    region: west
+    targets:
+      - { zh: 夜巡, en: Night Watch }
+      - { zh: 自画像, en: Self-Portrait }
+
+  - id: vermeer
+    name_zh: 维米尔
+    name_en: Vermeer
+    phase: 1
+    region: west
+    targets:
+      - { zh: 倒牛奶的女仆, en: Milkmaid }
+      - { zh: 戴珍珠耳环的少女, en: Girl with a Pearl Earring }
+
+  - id: rubens
+    name_zh: 鲁本斯
+    name_en: Rubens
+    phase: 1
+    region: west
+    targets: [{ zh: 美惠三女神, en: Three Graces }]
+
+  - id: velazquez
+    name_zh: 委拉斯开兹
+    name_en: Velazquez
+    phase: 1
+    region: west
+    targets: [{ zh: 宫娥, en: Las Meninas }]
+
+  - id: monet
+    name_zh: 莫奈
+    name_en: Monet
+    phase: 1
+    region: west
+    targets:
+      - { zh: 睡莲, en: Water Lilies }
+      - { zh: 干草堆, en: Haystacks }
+
+  - id: van-gogh
+    name_zh: 梵高
+    name_en: Van Gogh
+    phase: 1
+    region: west
+    targets:
+      - { zh: 卧室, en: The Bedroom }
+      - { zh: 自画像, en: Self-Portrait }
+
+  # ---------- 第 2 期 · 西方（北方文艺复兴与巴洛克） ----------
+  - id: jan-van-eyck
+    name_zh: 扬·凡·艾克
+    name_en: Jan van Eyck
+    phase: 2
+    region: west
+    targets: [{ zh: 阿尔诺芬尼夫妇像, en: Arnolfini Portrait }]
+
+  - id: bosch
+    name_zh: 博斯
+    name_en: Bosch
+    phase: 2
+    region: west
+    targets: [{ zh: 人间乐园, en: Garden of Earthly Delights }]
+
+  - id: bruegel
+    name_zh: 老彼得·勃鲁盖尔
+    name_en: Bruegel
+    phase: 2
+    region: west
+    targets:
+      - { zh: 巴别塔, en: Tower of Babel }
+      - { zh: 雪中猎人, en: Hunters in the Snow }
+
+  - id: caravaggio
+    name_zh: 卡拉瓦乔
+    name_en: Caravaggio
+    phase: 2
+    region: west
+    targets:
+      - { zh: 圣马太蒙召, en: Calling of Saint Matthew }
+      - { zh: 以马忤斯的晚餐, en: Supper at Emmaus }
+
+  - id: bernini
+    name_zh: 贝尼尼
+    name_en: Bernini
+    phase: 2
+    region: west
+    targets: [{ zh: 阿波罗与达芙妮, en: Apollo and Daphne }]
+
+  - id: poussin
+    name_zh: 普桑
+    name_en: Poussin
+    phase: 2
+    region: west
+    targets: [{ zh: 阿卡迪亚的牧人, en: Et in Arcadia Ego }]
+
+  - id: hals
+    name_zh: 哈尔斯
+    name_en: Frans Hals
+    phase: 2
+    region: west
+    targets: [{ zh: 微笑的军官, en: Laughing Cavalier }]
+
+  - id: goya
+    name_zh: 戈雅
+    name_en: Goya
+    phase: 2
+    region: west
+    targets:
+      - { zh: 1808年5月3日, en: Third of May 1808 }
+      - { zh: 农神吞噬其子, en: Saturn Devouring His Son }
+
+  - id: turner
+    name_zh: 透纳
+    name_en: Turner
+    phase: 2
+    region: west
+    targets:
+      - { zh: 雨、蒸汽和速度, en: 'Rain, Steam and Speed' }
+      - { zh: 被拖去解体的战舰无畏号, en: Fighting Temeraire }
