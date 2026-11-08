@@ -1,5 +1,6 @@
 import Catalogue from "@/components/Catalogue";
 import { toCard } from "@/components/WorkCard";
+import { href } from "@/lib/paths";
 import { DOSSIERS, artists, holdings, stats, works } from "@/lib/works";
 
 export default function Home() {
@@ -84,7 +85,7 @@ export default function Home() {
               <ul>
                 {masters.map((a) => (
                   <li key={a.id}>
-                    <a href={`/artists/${a.id}/`}>{a.name_zh}</a>
+                    <a href={href(`/artists/${a.id}/`)}>{a.name_zh}</a>
                     <em>{a.count}</em>
                   </li>
                 ))}

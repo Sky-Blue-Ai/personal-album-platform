@@ -26,3 +26,6 @@ DerivedData/
 .env
 .env.*
 !.env.example
+
+# 本地跑服务的运行时目录（pid / 日志）
+.run/

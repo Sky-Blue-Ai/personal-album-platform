@@ -1,3 +1,4 @@
+import { href } from "@/lib/paths";
 import { holdings, stats } from "@/lib/works";
 
 export const metadata = { title: "版权与署名 · 古代艺术名人画展" };
@@ -10,7 +11,7 @@ export default function About() {
     <main className="work">
       <div className="wrap">
         <div className="crumbs">
-          <a href="/">展厅</a> / 版权与署名
+          <a href={href("/")}>展厅</a> / 版权与署名
         </div>
 
         <div className="prose">

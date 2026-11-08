@@ -1,3 +1,4 @@
+import { href } from "@/lib/paths";
 import type { Metadata } from "next";
 import "./globals.css";
 import { stats } from "@/lib/works";
@@ -16,13 +17,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <header className="site-header">
           <div className="wrap inner">
-            <a className="brand" href="/">
+            <a className="brand" href={href("/")}>
               古代艺术名人画展
               <small>PUBLIC DOMAIN GALLERY</small>
             </a>
             <nav className="nav">
-              <a href="/">展厅</a>
-              <a href="/about/">版权与署名</a>
+              <a href={href("/")}>展厅</a>
+              <a href={href("/about/")}>版权与署名</a>
             </nav>
           </div>
         </header>

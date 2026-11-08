@@ -1,3 +1,4 @@
+import { asset, href } from "@/lib/paths";
 import { notFound } from "next/navigation";
 import Viewer from "@/components/Viewer";
 import WorkCard, { toCard } from "@/components/WorkCard";
@@ -32,15 +33,15 @@ export default async function WorkPage({ params }: { params: Promise<{ id: strin
     <main className="work">
       <div className="wrap">
         <div className="crumbs">
-          <a href="/">展厅</a> / {w.region === "cn" ? "中国序列" : "西方序列"} /{" "}
-          <a href={`/artists/${artistId}/`}>{w.artist.name_zh}</a>
+          <a href={href("/")}>展厅</a> / {w.region === "cn" ? "中国序列" : "西方序列"} /{" "}
+          <a href={href(`/artists/${artistId}/`)}>{w.artist.name_zh}</a>
         </div>
 
         <div className="work-grid">
           <div>
             {w.image.src ? (
               <Viewer
-                src={w.image.src}
+                src={asset(w.image.src)}
                 alt={`${w.artist.name_zh} · ${displayTitle(w)}`}
                 width={w.image.width ?? 0}
                 height={w.image.height ?? 0}
@@ -67,7 +68,7 @@ export default async function WorkPage({ params }: { params: Promise<{ id: strin
             {w.title && w.title_zh ? <div className="original">{w.title}</div> : null}
 
             <div className="artist">
-              <a href={`/artists/${artistId}/`}>{w.artist.name_zh}</a>{" "}
+              <a href={href(`/artists/${artistId}/`)}>{w.artist.name_zh}</a>{" "}
               <em>{w.artist.name_en}</em>
             </div>
 

@@ -1,3 +1,4 @@
+import { href } from "@/lib/paths";
 import { notFound } from "next/navigation";
 import WorkCard, { toCard } from "@/components/WorkCard";
 import { artists, getArtist, worksByArtist } from "@/lib/works";
@@ -19,7 +20,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
       <div className="wrap">
         <div className="artist-hero">
           <div className="crumbs">
-            <a href="/">展厅</a> / {artist.region === "cn" ? "中国序列" : "西方序列"} / 艺术家
+            <a href={href("/")}>展厅</a> / {artist.region === "cn" ? "中国序列" : "西方序列"} / 艺术家
           </div>
           <h1>{artist.name_zh}</h1>
           <div className="en">{artist.name_en}</div>

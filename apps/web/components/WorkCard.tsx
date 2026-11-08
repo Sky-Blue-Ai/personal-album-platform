@@ -1,6 +1,7 @@
 import type { Work } from "@/lib/works";
 import { attributionLabel, displayTitle, licenseBadge } from "@/lib/works";
 import Thumb from "./Thumb";
+import { asset, href } from "@/lib/paths";
 
 export type CardModel = {
   id: string;
@@ -26,7 +27,7 @@ export function toCard(w: Work): CardModel {
     artistZh: w.artist.name_zh,
     artistEn: w.artist.name_en,
     date: w.date,
-    thumb: w.image.thumb ?? "",
+    thumb: asset(w.image.thumb),
     licenseText: lb.text,
     licenseTone: lb.tone,
     attribution: attributionLabel(w),
@@ -36,7 +37,7 @@ export function toCard(w: Work): CardModel {
 
 export default function WorkCard({ card }: { card: CardModel }) {
   return (
-    <a className="card" href={`/works/${card.id}/`}>
+    <a className="card" href={href(`/works/${card.id}/`)}>
       <div className="frame">
         <Thumb src={card.thumb} alt={`${card.artistZh} · ${card.title}`} />
       </div>
