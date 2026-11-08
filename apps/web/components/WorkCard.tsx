@@ -1,5 +1,5 @@
 import type { Work } from "@/lib/works";
-import { attributionLabel, displayTitle, licenseBadge } from "@/lib/works";
+import { artistIdOfWork, attributionLabel, displayTitle, licenseBadge } from "@/lib/works";
 import Thumb from "./Thumb";
 import { asset, href } from "@/lib/paths";
 
@@ -7,6 +7,7 @@ export type CardModel = {
   id: string;
   title: string;
   titleAlt: string | null;
+  artistId: string;
   artistZh: string;
   artistEn: string;
   date: string | null;
@@ -24,6 +25,7 @@ export function toCard(w: Work): CardModel {
     id: w.id,
     title: displayTitle(w),
     titleAlt: w.title_zh && w.title && w.title !== w.title_zh ? w.title : null,
+    artistId: artistIdOfWork(w),
     artistZh: w.artist.name_zh,
     artistEn: w.artist.name_en,
     date: w.date,

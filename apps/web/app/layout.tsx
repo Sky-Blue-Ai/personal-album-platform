@@ -23,6 +23,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </a>
             <nav className="nav">
               <a href={href("/")}>展厅</a>
+              <a href={href("/artists/")}>艺术家</a>
               <a href={href("/about/")}>版权与署名</a>
             </nav>
           </div>

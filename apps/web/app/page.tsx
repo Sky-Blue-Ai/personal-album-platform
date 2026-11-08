@@ -89,6 +89,10 @@ export default function Home() {
                     <em>{a.count}</em>
                   </li>
                 ))}
+                <li>
+                  <a href={href("/artists/")}>全部 {s.artists} 位 →</a>
+                  <em>INDEX</em>
+                </li>
               </ul>
             </div>
 
@@ -107,7 +111,7 @@ export default function Home() {
           </div>
         </section>
 
-        <Catalogue cards={cards} />
+        <Catalogue cards={cards} artists={artists.map((a) => ({ id: a.id, name: a.name_zh, count: a.count, region: a.region }))} />
       </div>
     </main>
   );

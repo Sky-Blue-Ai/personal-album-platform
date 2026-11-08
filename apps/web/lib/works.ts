@@ -68,15 +68,21 @@ export type ArtistEntry = {
   region: "cn" | "west";
   phase: number;
   count: number;
+  /** 代表作缩略图：优先本地大图那张，否则取第一张有图的 */
+  thumb: string | null;
 };
 
 export const artists: ArtistEntry[] = (() => {
   const map = new Map<string, ArtistEntry>();
   for (const w of works) {
     const id = artistIdOfWork(w);
+    const thumb = w.image.thumb;
     const entry = map.get(id);
-    if (entry) entry.count += 1;
-    else
+    if (entry) {
+      entry.count += 1;
+      // 本地大图（非外链缩略图）拿来做头像更清楚
+      if (!entry.thumb || (!w.image.external && thumb)) entry.thumb = thumb ?? entry.thumb;
+    } else {
       map.set(id, {
         id,
         name_zh: w.artist.name_zh,
@@ -84,10 +90,17 @@ export const artists: ArtistEntry[] = (() => {
         region: w.region,
         phase: w.phase,
         count: 1,
+        thumb: thumb ?? null,
       });
+    }
   }
   return [...map.values()].sort((a, b) => b.count - a.count);
 })();
+
+/** 索引页用：中国 / 西方分组，组内按作品数降序 */
+export function artistsByRegion(region: "cn" | "west"): ArtistEntry[] {
+  return artists.filter((a) => a.region === region);
+}
 
 export function getArtist(id: string): ArtistEntry | undefined {
   return artists.find((a) => a.id === id);
