@@ -1,3 +1,4 @@
+import SiteNav from "@/components/SiteNav";
 import { href } from "@/lib/paths";
 import type { Metadata } from "next";
 import "./globals.css";
@@ -21,11 +22,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               古代艺术名人画展
               <small>PUBLIC DOMAIN GALLERY</small>
             </a>
-            <nav className="nav">
-              <a href={href("/")}>展厅</a>
-              <a href={href("/artists/")}>艺术家</a>
-              <a href={href("/about/")}>版权与署名</a>
-            </nav>
+            <SiteNav />
           </div>
         </header>
 
