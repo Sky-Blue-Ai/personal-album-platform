@@ -1,6 +1,15 @@
 import { notFound } from "next/navigation";
 import Viewer from "@/components/Viewer";
-import { attributionLabel, displayTitle, getWork, works } from "@/lib/works";
+import WorkCard, { toCard } from "@/components/WorkCard";
+import {
+  artistIdOfWork,
+  attributionLabel,
+  displayTitle,
+  getWork,
+  licenseBadge,
+  works,
+  worksByArtist,
+} from "@/lib/works";
 
 export function generateStaticParams() {
   return works.map((w) => ({ id: w.id }));
@@ -11,30 +20,56 @@ export default async function WorkPage({ params }: { params: Promise<{ id: strin
   const w = getWork(id);
   if (!w) notFound();
 
-  const badge = attributionLabel(w);
+  const attr = attributionLabel(w);
+  const lic = licenseBadge(w);
+  const artistId = artistIdOfWork(w);
+  const siblings = worksByArtist(artistId)
+    .filter((x) => x.id !== w.id)
+    .slice(0, 4)
+    .map(toCard);
 
   return (
     <main className="work">
       <div className="wrap">
         <div className="crumbs">
-          <a href="/">展厅</a> / {w.region === "cn" ? "中国序列" : "西方序列"} / {w.artist.name_zh}
+          <a href="/">展厅</a> / {w.region === "cn" ? "中国序列" : "西方序列"} /{" "}
+          <a href={`/artists/${artistId}/`}>{w.artist.name_zh}</a>
         </div>
+
         <div className="work-grid">
           <div>
-            <Viewer
-              src={w.image.src}
-              alt={`${w.artist.name_zh} · ${displayTitle(w)}`}
-              width={w.image.width}
-              height={w.image.height}
-            />
+            {w.image.src ? (
+              <Viewer
+                src={w.image.src}
+                alt={`${w.artist.name_zh} · ${displayTitle(w)}`}
+                width={w.image.width ?? 0}
+                height={w.image.height ?? 0}
+              />
+            ) : (
+              <div className="viewer" style={{ display: "grid", placeItems: "center" }}>
+                <span className="mono">图像暂不可用</span>
+              </div>
+            )}
+            {w.image.external ? (
+              <div className="mono" style={{ marginTop: 8, fontSize: ".625rem" }}>
+                图像直接引自机构 CDN（未切片）。生产版由自家 IIIF 瓦片服务出图。
+              </div>
+            ) : null}
           </div>
+
           <aside className="info">
+            <div className="tags" style={{ marginBottom: 10 }}>
+              <span className={`badge ${lic.tone}`}>{lic.text}</span>
+              {attr ? <span className="badge attr">{attr}</span> : null}
+            </div>
+
             <h1>{displayTitle(w)}</h1>
             {w.title && w.title_zh ? <div className="original">{w.title}</div> : null}
+
             <div className="artist">
-              {w.artist.name_zh} <em>{w.artist.name_en}</em>
+              <a href={`/artists/${artistId}/`}>{w.artist.name_zh}</a>{" "}
+              <em>{w.artist.name_en}</em>
             </div>
-            {badge ? <div className="original">归属标注：{badge}</div> : null}
 
             <dl className="facts">
               {w.date ? (
@@ -61,14 +96,24 @@ export default async function WorkPage({ params }: { params: Promise<{ id: strin
                   <dd>{w.holding}</dd>
                 </div>
               ) : null}
+              {w.attribution ? (
+                <div>
+                  <dt>归属</dt>
+                  <dd>{attr}</dd>
+                </div>
+              ) : null}
             </dl>
 
             <div className="credit">
               <div className="label">SOURCE &amp; LICENSE</div>
               <div className="line">
-                <b>{w.artist.name_zh}</b> · {w.title ?? displayTitle(w)} · {w.holding}
+                <b>{w.artist.name_zh}</b> · {w.title ?? displayTitle(w)}
+                {w.holding ? ` · ${w.holding}` : ""}
               </div>
-              <div className="line">授权：{w.license} — {w.license_evidence}</div>
+              <div className="line">
+                授权：{w.license}
+                {w.license_evidence ? ` — ${w.license_evidence}` : ""}
+              </div>
               <div className="line">
                 来源：
                 {w.source_url ? (
@@ -79,12 +124,25 @@ export default async function WorkPage({ params }: { params: Promise<{ id: strin
                   "—"
                 )}
               </div>
-              <div className="line">机构署名：{w.credit_line}</div>
-              <div className="line">获取日期：{w.fetched_at}</div>
-              <div className="status">核验状态 {w.verification_status?.toUpperCase()}</div>
+              <div className="line">机构署名：{w.credit_line ?? "—"}</div>
+              <div className="line">获取日期：{w.fetched_at ?? "—"}</div>
+              <div className="line" style={{ marginTop: 8 }}>
+                <span className={`badge ${lic.tone}`}>核验状态 {w.verification_status}</span>
+              </div>
             </div>
           </aside>
         </div>
+
+        {siblings.length ? (
+          <section style={{ marginTop: "var(--spacing-2xl)" }}>
+            <div className="eyebrow">同一作者 / More by {w.artist.name_en}</div>
+            <div className="grid-works" style={{ paddingTop: "var(--spacing-md)" }}>
+              {siblings.map((c) => (
+                <WorkCard key={c.id} card={c} />
+              ))}
+            </div>
+          </section>
+        ) : null}
       </div>
     </main>
   );

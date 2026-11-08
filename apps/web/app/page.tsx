@@ -1,72 +1,112 @@
-import { attributionLabel, byRegion, displayTitle, works } from "@/lib/works";
-
-function Card({ w }: { w: ReturnType<typeof byRegion>[number] }) {
-  const badge = attributionLabel(w);
-  return (
-    <a className="card" href={`/works/${w.id}/`}>
-      <div className="frame">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={w.image.thumb} alt={`${w.artist.name_zh} · ${displayTitle(w)}`} loading="lazy" />
-        {badge ? <span className="badge">{badge}</span> : null}
-      </div>
-      <h3>{displayTitle(w)}</h3>
-      <div className="by">{w.artist.name_zh}</div>
-      {w.title_zh && w.title ? <div className="orig">{w.title}</div> : null}
-    </a>
-  );
-}
-
-function Section({
-  id,
-  title,
-  en,
-  list,
-}: {
-  id: string;
-  title: string;
-  en: string;
-  list: ReturnType<typeof byRegion>;
-}) {
-  return (
-    <section className="section" id={id}>
-      <div className="section-head">
-        <h2>{title}</h2>
-        <span className="en">{en}</span>
-        <span className="rule" />
-        <span className="en">{list.length} 件</span>
-      </div>
-      <div className="grid">
-        {list.map((w) => (
-          <Card key={w.id} w={w} />
-        ))}
-      </div>
-    </section>
-  );
-}
+import Catalogue from "@/components/Catalogue";
+import { toCard } from "@/components/WorkCard";
+import { DOSSIERS, artists, holdings, stats, works } from "@/lib/works";
 
 export default function Home() {
-  const cn = byRegion("cn");
-  const west = byRegion("west");
+  const s = stats();
+  const schools = holdings().slice(0, 4);
+  const masters = artists.slice(0, 4);
+  const cards = works.map(toCard);
+
   return (
     <main>
       <div className="wrap">
-        <div className="hero">
+        <section className="hero">
+          <div className="eyebrow">Catalogue Raisonné Index / 跨文明典藏索引</div>
           <h1>
             两个传统，
             <br />
             同一双看画的眼睛
           </h1>
-          <p>
+          <p className="lede">
             从范宽、郭熙到伦勃朗、维米尔，全部作品取自大都会博物馆、克利夫兰艺术博物馆等机构的开放数据。
-            每件作品都可放大到细节，并附上原始来源链接、授权标识与机构署名——看得清，也查得到。
+            每件作品都标注原始来源、授权标识与机构署名，并可放大到细节——看得清，也查得到。
           </p>
-          <div className="meta">
-            {works.length} WORKS · 第 1 期 · 数据取自开放接口，图片核验状态：PENDING
+          <div className="stat-row">
+            <div className="stat">
+              <b>{s.works}</b>
+              <span className="mono">件作品</span>
+            </div>
+            <div className="stat">
+              <b>{s.artists}</b>
+              <span className="mono">位艺术家</span>
+            </div>
+            <div className="stat">
+              <b>
+                {s.cn} / {s.west}
+              </b>
+              <span className="mono">中国 / 西方</span>
+            </div>
+            <div className="stat">
+              <b>{s.verified}</b>
+              <span className="mono">已核验授权</span>
+            </div>
           </div>
-        </div>
+        </section>
 
-        <Section id="cn" title="中国序列" en="Chinese Painting" list={cn} />
-        <Section id="west" title="西方序列" en="Western Painting" list={west} />
+        <section className="dim-section">
+          <div className="dim-grid">
+            <div className="dim">
+              <div className="num">DIMENSION I</div>
+              <h3>分期与地域</h3>
+              <ul>
+                <li>
+                  <span>第 1 期 · 中国</span>
+                  <em>{s.cn}</em>
+                </li>
+                <li>
+                  <span>第 1 期 · 西方</span>
+                  <em>{s.west}</em>
+                </li>
+                <li>
+                  <span>待核验授权</span>
+                  <em>{s.pending}</em>
+                </li>
+              </ul>
+            </div>
+
+            <div className="dim">
+              <div className="num">DIMENSION II</div>
+              <h3>收藏机构源</h3>
+              <ul>
+                {schools.map((h) => (
+                  <li key={h.name}>
+                    <span>{h.name}</span>
+                    <em>{h.count}</em>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div className="dim">
+              <div className="num">DIMENSION III</div>
+              <h3>历代巨匠</h3>
+              <ul>
+                {masters.map((a) => (
+                  <li key={a.id}>
+                    <a href={`/artists/${a.id}/`}>{a.name_zh}</a>
+                    <em>{a.count}</em>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div className="dim">
+              <div className="num">DIMENSION IV</div>
+              <h3>策展专题</h3>
+              <ul>
+                {DOSSIERS.map((d) => (
+                  <li key={d.slug}>
+                    <span>{d.title}</span>
+                    <em>{d.num.replace("DOSSIER ", "#")}</em>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <Catalogue cards={cards} />
       </div>
     </main>
   );

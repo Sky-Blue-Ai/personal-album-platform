@@ -57,6 +57,16 @@ order by phase, region, artist_id, artwork_id
 """
 
 
+def remote_thumb(provider: str, image_thumb: str | None, image_url: str | None) -> str | None:
+    """没有本地演示图时退回机构 CDN 的缩略版（Met 的 /original/ 是几十 MB 的原件）"""
+    url = image_thumb or image_url
+    if not url:
+        return None
+    if provider == "met" and "/original/" in url:
+        return url.replace("/original/", "/web-large/")
+    return url
+
+
 def local_image(artist_id: str) -> dict | None:
     """web 的演示图按 artist_id 命名，存在就带上；不存在就留给 image_url"""
     full = ART_DIR / f"{artist_id}.jpg"
@@ -76,10 +86,26 @@ def main() -> int:
     with psycopg.connect(args.dsn, row_factory=psycopg.rows.dict_row) as conn:
         rows = conn.execute(SQL_DEMO if args.demo else SQL_VERIFIED).fetchall()
 
+    # 每个艺术家只让"代表作"用本地演示图，其余走机构 CDN 缩略图——
+    # 否则 220 件作品会重复显示那 17 张图
+    rep: dict[str, int] = {}
+    for r in rows:
+        cur = rep.get(r["artist_id"])
+        if cur is None or (r["target_match"] == "full" and cur == 0):
+            rep[r["artist_id"]] = r["target_match"] == "full" and 1 or 0
+    rep_ids: dict[str, int] = {}
+    for r in rows:
+        aid = r["artist_id"]
+        if aid not in rep_ids and (ART_DIR / f"{aid}.jpg").exists():
+            rep_ids[aid] = r["artwork_id"]
+            continue
+        if r["target_match"] == "full" and (ART_DIR / f"{aid}.jpg").exists():
+            rep_ids[aid] = r["artwork_id"]
+
     works = []
     for r in rows:
         art_id = f"{r['artist_id']}-{r['artwork_id']}"
-        img = local_image(r["artist_id"])
+        img = local_image(r["artist_id"]) if rep_ids.get(r["artist_id"]) == r["artwork_id"] else None
         works.append(
             {
                 "id": art_id,
@@ -102,7 +128,12 @@ def main() -> int:
                 "verification_status": r["verification_status"],
                 "provider": r["provider"],
                 "provider_object_id": r["provider_object_id"],
-                "image": img or {"src": r["image_url"], "thumb": r["image_thumb"] or r["image_url"]},
+                "image": img
+        or {
+            "src": remote_thumb(r["provider"], r["image_thumb"], r["image_url"]),
+            "thumb": remote_thumb(r["provider"], r["image_thumb"], r["image_url"]),
+            "external": True,
+        },
             }
         )
 

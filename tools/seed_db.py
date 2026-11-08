@@ -29,6 +29,26 @@ CANDIDATES = ROOT / "content" / "candidates"
 DEFAULT_DSN = os.environ.get("DATABASE_URL", "postgresql://album:album@127.0.0.1:5433/album")
 
 SLUG_RE = re.compile(r"[^a-z0-9]+")
+CJK_RE = re.compile(r"[\u4e00-\u9fff]")
+
+
+def title_zh_of(candidate: dict, targets: list[dict]) -> str | None:
+    """中文标题只从 artists.yaml 的 targets 里取。
+
+    target_hint 是抓取时的比对线索（常常是英文），不能直接当标题；
+    只有命中（full）时，用 hint 反查 targets 里的 en → 取对应的 zh。
+    """
+    hint = candidate.get("target_hint")
+    if candidate.get("target_match") != "full" or not hint:
+        return None
+    if CJK_RE.search(hint):
+        return hint
+    needle = hint.strip().lower()
+    for t in targets:
+        en = (t.get("en") or "").strip().lower()
+        if en and (en == needle or en in needle or needle in en):
+            return t.get("zh")
+    return None
 
 
 def slug(text: str) -> str:
@@ -44,6 +64,10 @@ def work_group(artist_id: str, candidate: dict) -> str:
 def load_artists() -> list[dict]:
     doc = yaml.safe_load(ARTISTS.read_text(encoding="utf-8"))
     return doc["artists"]
+
+
+def target_map(artists: list[dict]) -> dict[str, list[dict]]:
+    return {a["id"]: list(a.get("targets") or []) for a in artists}
 
 
 def load_candidates() -> list[tuple[str, dict]]:
@@ -129,6 +153,7 @@ def main() -> int:
     args = ap.parse_args()
 
     artists = load_artists()
+    targets_by_artist = target_map(artists)
     candidates = load_candidates()
 
     if args.dry_run:
@@ -169,7 +194,7 @@ def main() -> int:
                     "artist_id": artist_id,
                     "work_group": work_group(artist_id, cand),
                     "title": cand.get("title") or "(untitled)",
-                    "title_zh": cand.get("target_hint") if cand.get("target_match") == "full" else None,
+                    "title_zh": title_zh_of(cand, targets_by_artist.get(artist_id, [])),
                     "date_display": cand.get("date"),
                     "medium": cand.get("medium"),
                     "dimensions": cand.get("dimensions"),

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { stats } from "@/lib/works";
 
 export const metadata: Metadata = {
   title: "古代艺术名人画展 · 中西双线",
@@ -8,6 +9,8 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const s = stats();
+
   return (
     <html lang="zh-CN">
       <body>
@@ -18,13 +21,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <small>PUBLIC DOMAIN GALLERY</small>
             </a>
             <nav className="nav">
-              <a href="/#cn">中国序列</a>
-              <a href="/#west">西方序列</a>
+              <a href="/">展厅</a>
               <a href="/about/">版权与署名</a>
             </nav>
           </div>
         </header>
+
         {children}
+
         <footer className="site-footer">
           <div className="wrap cols">
             <div>
@@ -35,7 +39,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="mono">
               MET OPEN ACCESS · CMA OPEN ACCESS · WIKIMEDIA
               <br />
-              VERIFICATION PENDING ON THIS BUILD
+              {s.works} WORKS · {s.verified} VERIFIED · {s.pending} PENDING
+              <br />
+              IIIF READY · SOURCE-TRACEABLE
             </div>
           </div>
         </footer>
