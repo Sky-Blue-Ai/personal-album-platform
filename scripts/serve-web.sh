@@ -120,7 +120,13 @@ start() {
   done
 
   mkdir -p "$RUN"
-  alive "$PID_FILE" && die "已在运行（pid $(cat "$PID_FILE")，端口 $(cat "$PORT_FILE" 2>/dev/null)）；先 stop 或 restart"
+  if alive "$PID_FILE"; then
+    local cur_port; cur_port="$(cat "$PORT_FILE" 2>/dev/null || true)"
+    say "已在运行（pid $(cat "$PID_FILE")）${cur_port:+：http://127.0.0.1:${cur_port}/}"
+    say "  要看最新代码：./scripts/serve-web.sh restart --build"
+    say "  要停掉：      ./scripts/serve-web.sh stop"
+    exit 4   # 非 0：这次并没有由本进程启动服务，脚本调用方不会误以为刚起来
+  fi
 
   if [[ $force -eq 1 ]] || needs_build; then build; else say "复用已有产物：$OUT"; fi
   [[ -f "$OUT/index.html" ]] || die "没有构建产物：$OUT"
