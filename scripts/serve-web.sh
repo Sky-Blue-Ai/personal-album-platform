@@ -57,8 +57,25 @@ needs_build() {
              "$WEB/next.config.mjs" -newer "$OUT/index.html" -print -quit 2>/dev/null)" ]]
 }
 
+ensure_deps() {
+  command -v npm >/dev/null 2>&1 || die "找不到 npm：先装 Node 18+"
+  [[ -x "$WEB/node_modules/.bin/next" ]] && return 0
+
+  say "依赖未安装，正在安装（npm ci）…"
+  if [[ -f "$WEB/package-lock.json" ]]; then
+    ( cd "$WEB" && npm ci ) || {
+      warn "npm ci 失败，改用 npm install 重试"
+      ( cd "$WEB" && npm install ) || die "依赖安装失败，看上面的 npm 报错"
+    }
+  else
+    ( cd "$WEB" && npm install ) || die "依赖安装失败，看上面的 npm 报错"
+  fi
+  [[ -x "$WEB/node_modules/.bin/next" ]] || die "依赖装完仍找不到 next，检查 Node 版本是否 18+"
+}
+
 build() {
-  say "构建 apps/web${BASE_PATH:+（basePath=$BASE_PATH）}"
+  ensure_deps
+  say "构建 apps/web${BASE_PATH:+（basePath=${BASE_PATH}）}"
   ( cd "$WEB" && NEXT_PUBLIC_BASE_PATH="$BASE_PATH" npm run build ) || die "构建失败"
   touch "$OUT/.nojekyll"   # GitHub Pages 需要，否则 _next/ 会被 Jekyll 忽略
 }
@@ -84,7 +101,7 @@ start_tunnel() {
   if wait_http "$url/" 80; then
     say "公网（临时）：$url"
   else
-    warn "隧道地址已生成但暂时不通：$url（serveo 偶尔要一两分钟生效，用 status 复查）"
+    warn "隧道地址已生成但暂时不通：${url}（serveo 偶尔要一两分钟生效，用 status 复查）"
   fi
   say "临时地址会断会变；要固定地址请走 GitHub Pages（见 README）"
 }
@@ -117,7 +134,7 @@ start() {
   fi
 
   local port; port="$(free_port "$PORT")" || die "端口 $PORT 起连续 20 个都被占用"
-  say "启动静态服务 127.0.0.1:$port（目录 $serve_dir）"
+  say "启动静态服务 127.0.0.1:${port}（目录 ${serve_dir}）"
   nohup python3 -m http.server "$port" --bind 127.0.0.1 --directory "$serve_dir" >"$LOG_FILE" 2>&1 &
   echo $! > "$PID_FILE"
   echo "$port" > "$PORT_FILE"
