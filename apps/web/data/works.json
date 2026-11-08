@@ -54,7 +54,7 @@
     "provider_object_id": "45650",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP157322_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP157322_CRD.jpg",
+      "thumb": "/thumbs/met-45650.jpg",
       "external": true
     }
   },
@@ -84,7 +84,7 @@
     "provider_object_id": "129860",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1952.284/1952.284_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1952.284/1952.284_web.jpg",
+      "thumb": "/thumbs/cma-129860.jpg",
       "external": true
     }
   },
@@ -114,7 +114,7 @@
     "provider_object_id": "45746",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153570.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153570.jpg",
+      "thumb": "/thumbs/met-45746.jpg",
       "external": true
     }
   },
@@ -144,7 +144,7 @@
     "provider_object_id": "701452",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/LC-2015_788_sr1_03.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/LC-2015_788_sr1_03.jpg",
+      "thumb": "/thumbs/met-701452.jpg",
       "external": true
     }
   },
@@ -174,7 +174,7 @@
     "provider_object_id": "36007",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153496.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153496.jpg",
+      "thumb": "/thumbs/met-36007.jpg",
       "external": true
     }
   },
@@ -204,7 +204,7 @@
     "provider_object_id": "35985",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153565.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153565.jpg",
+      "thumb": "/thumbs/met-35985.jpg",
       "external": true
     }
   },
@@ -263,7 +263,7 @@
     "provider_object_id": "51540",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP154403.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP154403.jpg",
+      "thumb": "/thumbs/met-51540.jpg",
       "external": true
     }
   },
@@ -322,7 +322,7 @@
     "provider_object_id": "49230",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/13_220_122.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/13_220_122.jpg",
+      "thumb": "/thumbs/met-49230.jpg",
       "external": true
     }
   },
@@ -352,7 +352,7 @@
     "provider_object_id": "39731",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DT7473.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DT7473.jpg",
+      "thumb": "/thumbs/met-39731.jpg",
       "external": true
     }
   },
@@ -382,7 +382,7 @@
     "provider_object_id": "36049",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP201351_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP201351_CRD.jpg",
+      "thumb": "/thumbs/met-36049.jpg",
       "external": true
     }
   },
@@ -412,7 +412,7 @@
     "provider_object_id": "51293",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP165388_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP165388_CRD.jpg",
+      "thumb": "/thumbs/met-51293.jpg",
       "external": true
     }
   },
@@ -442,7 +442,7 @@
     "provider_object_id": "51493",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP166168_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP166168_CRD.jpg",
+      "thumb": "/thumbs/met-51493.jpg",
       "external": true
     }
   },
@@ -472,7 +472,7 @@
     "provider_object_id": "36056",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153500.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153500.jpg",
+      "thumb": "/thumbs/met-36056.jpg",
       "external": true
     }
   },
@@ -531,7 +531,7 @@
     "provider_object_id": "36100",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/1972_278_4_O.JPG",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/1972_278_4_O.JPG",
+      "thumb": "/thumbs/met-36100.jpg",
       "external": true
     }
   },
@@ -561,7 +561,7 @@
     "provider_object_id": "49106",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153886.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153886.jpg",
+      "thumb": "/thumbs/met-49106.jpg",
       "external": true
     }
   },
@@ -591,7 +591,7 @@
     "provider_object_id": "41487",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/1972_278_6_O.JPG",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/1972_278_6_O.JPG",
+      "thumb": "/thumbs/met-41487.jpg",
       "external": true
     }
   },
@@ -621,7 +621,7 @@
     "provider_object_id": "49020",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153874.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153874.jpg",
+      "thumb": "/thumbs/met-49020.jpg",
       "external": true
     }
   },
@@ -680,7 +680,7 @@
     "provider_object_id": "39895",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP151528.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP151528.jpg",
+      "thumb": "/thumbs/met-39895.jpg",
       "external": true
     }
   },
@@ -710,7 +710,7 @@
     "provider_object_id": "51483",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/13_220_33_O.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/13_220_33_O.jpg",
+      "thumb": "/thumbs/met-51483.jpg",
       "external": true
     }
   },
@@ -740,7 +740,7 @@
     "provider_object_id": "52080",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP215389_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP215389_CRD.jpg",
+      "thumb": "/thumbs/met-52080.jpg",
       "external": true
     }
   },
@@ -770,7 +770,7 @@
     "provider_object_id": "36032",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP166564_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP166564_CRD.jpg",
+      "thumb": "/thumbs/met-36032.jpg",
       "external": true
     }
   },
@@ -800,7 +800,7 @@
     "provider_object_id": "36041",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/29_100_476.JPG",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/29_100_476.JPG",
+      "thumb": "/thumbs/met-36041.jpg",
       "external": true
     }
   },
@@ -830,7 +830,7 @@
     "provider_object_id": "51394",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153557.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153557.jpg",
+      "thumb": "/thumbs/met-51394.jpg",
       "external": true
     }
   },
@@ -860,7 +860,7 @@
     "provider_object_id": "51523",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP211850.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP211850.jpg",
+      "thumb": "/thumbs/met-51523.jpg",
       "external": true
     }
   },
@@ -890,7 +890,7 @@
     "provider_object_id": "51525",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP166330_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP166330_CRD.jpg",
+      "thumb": "/thumbs/met-51525.jpg",
       "external": true
     }
   },
@@ -920,7 +920,7 @@
     "provider_object_id": "51559",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/29_100_443.JPG",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/29_100_443.JPG",
+      "thumb": "/thumbs/met-51559.jpg",
       "external": true
     }
   },
@@ -950,7 +950,7 @@
     "provider_object_id": "51738",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153563.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153563.jpg",
+      "thumb": "/thumbs/met-51738.jpg",
       "external": true
     }
   },
@@ -980,7 +980,7 @@
     "provider_object_id": "51751",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP202873_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP202873_CRD.jpg",
+      "thumb": "/thumbs/met-51751.jpg",
       "external": true
     }
   },
@@ -1039,7 +1039,7 @@
     "provider_object_id": "160137",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1997.95/1997.95_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1997.95/1997.95_web.jpg",
+      "thumb": "/thumbs/cma-160137.jpg",
       "external": true
     }
   },
@@ -1069,7 +1069,7 @@
     "provider_object_id": "149412",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1978.65/1978.65_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1978.65/1978.65_web.jpg",
+      "thumb": "/thumbs/cma-149412.jpg",
       "external": true
     }
   },
@@ -1099,7 +1099,7 @@
     "provider_object_id": "45635",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP-31579-002.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP-31579-002.jpg",
+      "thumb": "/thumbs/met-45635.jpg",
       "external": true
     }
   },
@@ -1129,7 +1129,7 @@
     "provider_object_id": "53571",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP-32886-002.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP-32886-002.jpg",
+      "thumb": "/thumbs/met-53571.jpg",
       "external": true
     }
   },
@@ -1159,7 +1159,7 @@
     "provider_object_id": "45636",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP-19459-002.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP-19459-002.jpg",
+      "thumb": "/thumbs/met-45636.jpg",
       "external": true
     }
   },
@@ -1189,7 +1189,7 @@
     "provider_object_id": "41154",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DT6291.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DT6291.jpg",
+      "thumb": "/thumbs/met-41154.jpg",
       "external": true
     }
   },
@@ -1219,7 +1219,7 @@
     "provider_object_id": "51490",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/13_220_93.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/13_220_93.jpg",
+      "thumb": "/thumbs/met-51490.jpg",
       "external": true
     }
   },
@@ -1249,7 +1249,7 @@
     "provider_object_id": "40600",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP-30129-002.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP-30129-002.jpg",
+      "thumb": "/thumbs/met-40600.jpg",
       "external": true
     }
   },
@@ -1279,7 +1279,7 @@
     "provider_object_id": "36088",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP-37443-002.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP-37443-002.jpg",
+      "thumb": "/thumbs/met-36088.jpg",
       "external": true
     }
   },
@@ -1309,7 +1309,7 @@
     "provider_object_id": "48953",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP-35742-002.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP-35742-002.jpg",
+      "thumb": "/thumbs/met-48953.jpg",
       "external": true
     }
   },
@@ -1339,7 +1339,7 @@
     "provider_object_id": "49188",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153894.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153894.jpg",
+      "thumb": "/thumbs/met-49188.jpg",
       "external": true
     }
   },
@@ -1369,7 +1369,7 @@
     "provider_object_id": "51528",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP200446_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP200446_CRD.jpg",
+      "thumb": "/thumbs/met-51528.jpg",
       "external": true
     }
   },
@@ -1457,7 +1457,7 @@
     "provider_object_id": "75816",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP701710.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP701710.jpg",
+      "thumb": "/thumbs/met-75816.jpg",
       "external": true
     }
   },
@@ -1487,7 +1487,7 @@
     "provider_object_id": "51384",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP154550.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP154550.jpg",
+      "thumb": "/thumbs/met-51384.jpg",
       "external": true
     }
   },
@@ -1517,7 +1517,7 @@
     "provider_object_id": "51393",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP154551.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP154551.jpg",
+      "thumb": "/thumbs/met-51393.jpg",
       "external": true
     }
   },
@@ -1547,7 +1547,7 @@
     "provider_object_id": "51396",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP154549.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP154549.jpg",
+      "thumb": "/thumbs/met-51396.jpg",
       "external": true
     }
   },
@@ -1577,7 +1577,7 @@
     "provider_object_id": "51487",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP166183_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP166183_CRD.jpg",
+      "thumb": "/thumbs/met-51487.jpg",
       "external": true
     }
   },
@@ -1607,7 +1607,7 @@
     "provider_object_id": "51534",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/44962.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/44962.jpg",
+      "thumb": "/thumbs/met-51534.jpg",
       "external": true
     }
   },
@@ -1637,7 +1637,7 @@
     "provider_object_id": "51695",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP153546.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153546.jpg",
+      "thumb": "/thumbs/met-51695.jpg",
       "external": true
     }
   },
@@ -1667,7 +1667,7 @@
     "provider_object_id": "51705",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/as/web-large/DP202661_CRD.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP202661_CRD.jpg",
+      "thumb": "/thumbs/met-51705.jpg",
       "external": true
     }
   },
@@ -1726,7 +1726,7 @@
     "provider_object_id": "144966",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1970.160/1970.160_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1970.160/1970.160_web.jpg",
+      "thumb": "/thumbs/cma-144966.jpg",
       "external": true
     }
   },
@@ -1756,7 +1756,7 @@
     "provider_object_id": "126986",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1949.32/1949.32_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1949.32/1949.32_web.jpg",
+      "thumb": "/thumbs/cma-126986.jpg",
       "external": true
     }
   },
@@ -1786,7 +1786,7 @@
     "provider_object_id": "435730",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/EP256.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/EP256.jpg",
+      "thumb": "/thumbs/met-435730.jpg",
       "external": true
     }
   },
@@ -1816,7 +1816,7 @@
     "provider_object_id": "435731",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DT350031.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT350031.jpg",
+      "thumb": "/thumbs/met-435731.jpg",
       "external": true
     }
   },
@@ -1846,7 +1846,7 @@
     "provider_object_id": "459478",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/rl/web-large/DP358982.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/rl/web-large/DP358982.jpg",
+      "thumb": "/thumbs/met-459478.jpg",
       "external": true
     }
   },
@@ -1876,7 +1876,7 @@
     "provider_object_id": "435729",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-18875-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-18875-001.jpg",
+      "thumb": "/thumbs/met-435729.jpg",
       "external": true
     }
   },
@@ -1906,7 +1906,7 @@
     "provider_object_id": "459016",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/rl/web-large/DP267397.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/rl/web-large/DP267397.jpg",
+      "thumb": "/thumbs/met-459016.jpg",
       "external": true
     }
   },
@@ -1936,7 +1936,7 @@
     "provider_object_id": "459001",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/rl/web-large/DP318246.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/rl/web-large/DP318246.jpg",
+      "thumb": "/thumbs/met-459001.jpg",
       "external": true
     }
   },
@@ -1966,7 +1966,7 @@
     "provider_object_id": "13179",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ad/web-large/ap1982.372.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ad/web-large/ap1982.372.jpg",
+      "thumb": "/thumbs/met-13179.jpg",
       "external": true
     }
   },
@@ -2025,7 +2025,7 @@
     "provider_object_id": "339116",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP810248.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP810248.jpg",
+      "thumb": "/thumbs/met-339116.jpg",
       "external": true
     }
   },
@@ -2055,7 +2055,7 @@
     "provider_object_id": "670511",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/2024.1/2024.1_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/2024.1/2024.1_web.jpg",
+      "thumb": "/thumbs/cma-670511.jpg",
       "external": true
     }
   },
@@ -2085,7 +2085,7 @@
     "provider_object_id": "97139",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1916.779/1916.779_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1916.779/1916.779_web.jpg",
+      "thumb": "/thumbs/cma-97139.jpg",
       "external": true
     }
   },
@@ -2115,7 +2115,7 @@
     "provider_object_id": "103948",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1922.141/1922.141_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1922.141/1922.141_web.jpg",
+      "thumb": "/thumbs/cma-103948.jpg",
       "external": true
     }
   },
@@ -2145,7 +2145,7 @@
     "provider_object_id": "126675",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1949.111/1949.111_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1949.111/1949.111_web.jpg",
+      "thumb": "/thumbs/cma-126675.jpg",
       "external": true
     }
   },
@@ -2175,7 +2175,7 @@
     "provider_object_id": "411913",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP824104.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP824104.jpg",
+      "thumb": "/thumbs/met-411913.jpg",
       "external": true
     }
   },
@@ -2205,7 +2205,7 @@
     "provider_object_id": "459184",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/rl/web-large/DP324213.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/rl/web-large/DP324213.jpg",
+      "thumb": "/thumbs/met-459184.jpg",
       "external": true
     }
   },
@@ -2235,7 +2235,7 @@
     "provider_object_id": "337496",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP102382.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP102382.jpg",
+      "thumb": "/thumbs/met-337496.jpg",
       "external": true
     }
   },
@@ -2265,7 +2265,7 @@
     "provider_object_id": "339130",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DT232678.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DT232678.jpg",
+      "thumb": "/thumbs/met-339130.jpg",
       "external": true
     }
   },
@@ -2295,7 +2295,7 @@
     "provider_object_id": "337494",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP832657.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP832657.jpg",
+      "thumb": "/thumbs/met-337494.jpg",
       "external": true
     }
   },
@@ -2325,7 +2325,7 @@
     "provider_object_id": "336656",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP156952.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP156952.jpg",
+      "thumb": "/thumbs/met-336656.jpg",
       "external": true
     }
   },
@@ -2355,7 +2355,7 @@
     "provider_object_id": "353151",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-16476-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-16476-001.jpg",
+      "thumb": "/thumbs/met-353151.jpg",
       "external": true
     }
   },
@@ -2414,7 +2414,7 @@
     "provider_object_id": "119614",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1940.465/1940.465_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1940.465/1940.465_web.jpg",
+      "thumb": "/thumbs/cma-119614.jpg",
       "external": true
     }
   },
@@ -2444,7 +2444,7 @@
     "provider_object_id": "119615",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1940.465.a/1940.465.a_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1940.465.a/1940.465.a_web.jpg",
+      "thumb": "/thumbs/cma-119615.jpg",
       "external": true
     }
   },
@@ -2474,7 +2474,7 @@
     "provider_object_id": "119616",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1940.465.b/1940.465.b_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1940.465.b/1940.465.b_web.jpg",
+      "thumb": "/thumbs/cma-119616.jpg",
       "external": true
     }
   },
@@ -2504,7 +2504,7 @@
     "provider_object_id": "103949",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1922.142/1922.142_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1922.142/1922.142_web.jpg",
+      "thumb": "/thumbs/cma-103949.jpg",
       "external": true
     }
   },
@@ -2534,7 +2534,7 @@
     "provider_object_id": "141917",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1965.458/1965.458_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1965.458/1965.458_web.jpg",
+      "thumb": "/thumbs/cma-141917.jpg",
       "external": true
     }
   },
@@ -2564,7 +2564,7 @@
     "provider_object_id": "155613",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1990.58/1990.58_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1990.58/1990.58_web.jpg",
+      "thumb": "/thumbs/cma-155613.jpg",
       "external": true
     }
   },
@@ -2594,7 +2594,7 @@
     "provider_object_id": "105040",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1923.264/1923.264_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1923.264/1923.264_web.jpg",
+      "thumb": "/thumbs/cma-105040.jpg",
       "external": true
     }
   },
@@ -2624,7 +2624,7 @@
     "provider_object_id": "334655",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP832948.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP832948.jpg",
+      "thumb": "/thumbs/met-334655.jpg",
       "external": true
     }
   },
@@ -2654,7 +2654,7 @@
     "provider_object_id": "188528",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/es/web-large/DP-12754-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/DP-12754-001.jpg",
+      "thumb": "/thumbs/met-188528.jpg",
       "external": true
     }
   },
@@ -2684,7 +2684,7 @@
     "provider_object_id": "205436",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/es/web-large/199706.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/199706.jpg",
+      "thumb": "/thumbs/met-205436.jpg",
       "external": true
     }
   },
@@ -2714,7 +2714,7 @@
     "provider_object_id": "205437",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/es/web-large/199711.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/199711.jpg",
+      "thumb": "/thumbs/met-205437.jpg",
       "external": true
     }
   },
@@ -2744,7 +2744,7 @@
     "provider_object_id": "197995",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/es/web-large/DP257423.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/DP257423.jpg",
+      "thumb": "/thumbs/met-197995.jpg",
       "external": true
     }
   },
@@ -2774,7 +2774,7 @@
     "provider_object_id": "337497",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP826907.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP826907.jpg",
+      "thumb": "/thumbs/met-337497.jpg",
       "external": true
     }
   },
@@ -2804,7 +2804,7 @@
     "provider_object_id": "203933",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/es/web-large/DP-732-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/DP-732-001.jpg",
+      "thumb": "/thumbs/met-203933.jpg",
       "external": true
     }
   },
@@ -2834,7 +2834,7 @@
     "provider_object_id": "197063",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/es/web-large/DP-936-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/DP-936-001.jpg",
+      "thumb": "/thumbs/met-197063.jpg",
       "external": true
     }
   },
@@ -2864,7 +2864,7 @@
     "provider_object_id": "231343",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/es/web-large/SF95_49_1.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/SF95_49_1.jpg",
+      "thumb": "/thumbs/met-231343.jpg",
       "external": true
     }
   },
@@ -2894,7 +2894,7 @@
     "provider_object_id": "231344",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/es/web-large/SF95_49_2.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/SF95_49_2.jpg",
+      "thumb": "/thumbs/met-231344.jpg",
       "external": true
     }
   },
@@ -2953,7 +2953,7 @@
     "provider_object_id": "135382",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1958.39/1958.39_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1958.39/1958.39_web.jpg",
+      "thumb": "/thumbs/cma-135382.jpg",
       "external": true
     }
   },
@@ -2983,7 +2983,7 @@
     "provider_object_id": "130391",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1953.155/1953.155_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1953.155/1953.155_web.jpg",
+      "thumb": "/thumbs/cma-130391.jpg",
       "external": true
     }
   },
@@ -3013,7 +3013,7 @@
     "provider_object_id": "95272",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1916.1044/1916.1044_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1916.1044/1916.1044_web.jpg",
+      "thumb": "/thumbs/cma-95272.jpg",
       "external": true
     }
   },
@@ -3043,7 +3043,7 @@
     "provider_object_id": "125234",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1947.196/1947.196_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1947.196/1947.196_web.jpg",
+      "thumb": "/thumbs/cma-125234.jpg",
       "external": true
     }
   },
@@ -3102,7 +3102,7 @@
     "provider_object_id": "817182",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883552.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883552.jpg",
+      "thumb": "/thumbs/met-817182.jpg",
       "external": true
     }
   },
@@ -3132,7 +3132,7 @@
     "provider_object_id": "817114",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883570.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883570.jpg",
+      "thumb": "/thumbs/met-817114.jpg",
       "external": true
     }
   },
@@ -3162,7 +3162,7 @@
     "provider_object_id": "149377",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1978.37/1978.37_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1978.37/1978.37_web.jpg",
+      "thumb": "/thumbs/cma-149377.jpg",
       "external": true
     }
   },
@@ -3192,7 +3192,7 @@
     "provider_object_id": "104343",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1922.479/1922.479_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1922.479/1922.479_web.jpg",
+      "thumb": "/thumbs/cma-104343.jpg",
       "external": true
     }
   },
@@ -3222,7 +3222,7 @@
     "provider_object_id": "140248",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1964.23/1964.23_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1964.23/1964.23_web.jpg",
+      "thumb": "/thumbs/cma-140248.jpg",
       "external": true
     }
   },
@@ -3252,7 +3252,7 @@
     "provider_object_id": "149782",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1979.93/1979.93_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1979.93/1979.93_web.jpg",
+      "thumb": "/thumbs/cma-149782.jpg",
       "external": true
     }
   },
@@ -3282,7 +3282,7 @@
     "provider_object_id": "108353",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1925.984/1925.984_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1925.984/1925.984_web.jpg",
+      "thumb": "/thumbs/cma-108353.jpg",
       "external": true
     }
   },
@@ -3312,7 +3312,7 @@
     "provider_object_id": "138857",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1963.231/1963.231_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1963.231/1963.231_web.jpg",
+      "thumb": "/thumbs/cma-138857.jpg",
       "external": true
     }
   },
@@ -3342,7 +3342,7 @@
     "provider_object_id": "123670",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1944.22/1944.22_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1944.22/1944.22_web.jpg",
+      "thumb": "/thumbs/cma-123670.jpg",
       "external": true
     }
   },
@@ -3372,7 +3372,7 @@
     "provider_object_id": "142311",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1966.14/1966.14_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1966.14/1966.14_web.jpg",
+      "thumb": "/thumbs/cma-142311.jpg",
       "external": true
     }
   },
@@ -3402,7 +3402,7 @@
     "provider_object_id": "104777",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1923.1101/1923.1101_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1923.1101/1923.1101_web.jpg",
+      "thumb": "/thumbs/cma-104777.jpg",
       "external": true
     }
   },
@@ -3432,7 +3432,7 @@
     "provider_object_id": "154209",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1988.28/1988.28_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1988.28/1988.28_web.jpg",
+      "thumb": "/thumbs/cma-154209.jpg",
       "external": true
     }
   },
@@ -3462,7 +3462,7 @@
     "provider_object_id": "112106",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1930.581/1930.581_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1930.581/1930.581_web.jpg",
+      "thumb": "/thumbs/cma-112106.jpg",
       "external": true
     }
   },
@@ -3492,7 +3492,7 @@
     "provider_object_id": "112105",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1930.580/1930.580_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1930.580/1930.580_web.jpg",
+      "thumb": "/thumbs/cma-112105.jpg",
       "external": true
     }
   },
@@ -3522,7 +3522,7 @@
     "provider_object_id": "153681",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1987.198/1987.198_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1987.198/1987.198_web.jpg",
+      "thumb": "/thumbs/cma-153681.jpg",
       "external": true
     }
   },
@@ -3552,7 +3552,7 @@
     "provider_object_id": "117017",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1937.563/1937.563_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1937.563/1937.563_web.jpg",
+      "thumb": "/thumbs/cma-117017.jpg",
       "external": true
     }
   },
@@ -3582,7 +3582,7 @@
     "provider_object_id": "306978",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/2017.199/2017.199_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/2017.199/2017.199_web.jpg",
+      "thumb": "/thumbs/cma-306978.jpg",
       "external": true
     }
   },
@@ -3612,7 +3612,7 @@
     "provider_object_id": "130633",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1953.353/1953.353_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1953.353/1953.353_web.jpg",
+      "thumb": "/thumbs/cma-130633.jpg",
       "external": true
     }
   },
@@ -3642,7 +3642,7 @@
     "provider_object_id": "104698",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1923.1056/1923.1056_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1923.1056/1923.1056_web.jpg",
+      "thumb": "/thumbs/cma-104698.jpg",
       "external": true
     }
   },
@@ -3672,7 +3672,7 @@
     "provider_object_id": "150116",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1980.38/1980.38_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1980.38/1980.38_web.jpg",
+      "thumb": "/thumbs/cma-150116.jpg",
       "external": true
     }
   },
@@ -3702,7 +3702,7 @@
     "provider_object_id": "104349",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1922.484/1922.484_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1922.484/1922.484_web.jpg",
+      "thumb": "/thumbs/cma-104349.jpg",
       "external": true
     }
   },
@@ -3732,7 +3732,7 @@
     "provider_object_id": "437373",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP265692.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP265692.jpg",
+      "thumb": "/thumbs/met-437373.jpg",
       "external": true
     }
   },
@@ -3762,7 +3762,7 @@
     "provider_object_id": "357122",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP370730.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP370730.jpg",
+      "thumb": "/thumbs/met-357122.jpg",
       "external": true
     }
   },
@@ -3792,7 +3792,7 @@
     "provider_object_id": "817163",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883553.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883553.jpg",
+      "thumb": "/thumbs/met-817163.jpg",
       "external": true
     }
   },
@@ -3822,7 +3822,7 @@
     "provider_object_id": "817164",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883554.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883554.jpg",
+      "thumb": "/thumbs/met-817164.jpg",
       "external": true
     }
   },
@@ -3852,7 +3852,7 @@
     "provider_object_id": "817125",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883571.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883571.jpg",
+      "thumb": "/thumbs/met-817125.jpg",
       "external": true
     }
   },
@@ -3911,7 +3911,7 @@
     "provider_object_id": "124089",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1944.90/1944.90_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1944.90/1944.90_web.jpg",
+      "thumb": "/thumbs/cma-124089.jpg",
       "external": true
     }
   },
@@ -3941,7 +3941,7 @@
     "provider_object_id": "437406",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145912.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145912.jpg",
+      "thumb": "/thumbs/met-437406.jpg",
       "external": true
     }
   },
@@ -3971,7 +3971,7 @@
     "provider_object_id": "122348",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1942.644/1942.644_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1942.644/1942.644_web.jpg",
+      "thumb": "/thumbs/cma-122348.jpg",
       "external": true
     }
   },
@@ -4001,7 +4001,7 @@
     "provider_object_id": "135706",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1959.241/1959.241_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1959.241/1959.241_web.jpg",
+      "thumb": "/thumbs/cma-135706.jpg",
       "external": true
     }
   },
@@ -4031,7 +4031,7 @@
     "provider_object_id": "127573",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1950.252/1950.252_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1950.252/1950.252_web.jpg",
+      "thumb": "/thumbs/cma-127573.jpg",
       "external": true
     }
   },
@@ -4061,7 +4061,7 @@
     "provider_object_id": "144844",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1969.69/1969.69_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1969.69/1969.69_web.jpg",
+      "thumb": "/thumbs/cma-144844.jpg",
       "external": true
     }
   },
@@ -4091,7 +4091,7 @@
     "provider_object_id": "149378",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1978.38/1978.38_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1978.38/1978.38_web.jpg",
+      "thumb": "/thumbs/cma-149378.jpg",
       "external": true
     }
   },
@@ -4121,7 +4121,7 @@
     "provider_object_id": "136153",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1959.81/1959.81_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1959.81/1959.81_web.jpg",
+      "thumb": "/thumbs/cma-136153.jpg",
       "external": true
     }
   },
@@ -4151,7 +4151,7 @@
     "provider_object_id": "143195",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1967.16/1967.16_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1967.16/1967.16_web.jpg",
+      "thumb": "/thumbs/cma-143195.jpg",
       "external": true
     }
   },
@@ -4181,7 +4181,7 @@
     "provider_object_id": "136304",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1960.187/1960.187_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1960.187/1960.187_web.jpg",
+      "thumb": "/thumbs/cma-136304.jpg",
       "external": true
     }
   },
@@ -4211,7 +4211,7 @@
     "provider_object_id": "137153",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1962.116/1962.116_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1962.116/1962.116_web.jpg",
+      "thumb": "/thumbs/cma-137153.jpg",
       "external": true
     }
   },
@@ -4241,7 +4241,7 @@
     "provider_object_id": "676879",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/2024.64/2024.64_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/2024.64/2024.64_web.jpg",
+      "thumb": "/thumbs/cma-676879.jpg",
       "external": true
     }
   },
@@ -4271,7 +4271,7 @@
     "provider_object_id": "135295",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1958.306/1958.306_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1958.306/1958.306_web.jpg",
+      "thumb": "/thumbs/cma-135295.jpg",
       "external": true
     }
   },
@@ -4301,7 +4301,7 @@
     "provider_object_id": "149090",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1977.24/1977.24_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1977.24/1977.24_web.jpg",
+      "thumb": "/thumbs/cma-149090.jpg",
       "external": true
     }
   },
@@ -4331,7 +4331,7 @@
     "provider_object_id": "148976",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1977.132/1977.132_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1977.132/1977.132_web.jpg",
+      "thumb": "/thumbs/cma-148976.jpg",
       "external": true
     }
   },
@@ -4361,7 +4361,7 @@
     "provider_object_id": "160065",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1997.4/1997.4_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1997.4/1997.4_web.jpg",
+      "thumb": "/thumbs/cma-160065.jpg",
       "external": true
     }
   },
@@ -4391,7 +4391,7 @@
     "provider_object_id": "161179",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1999.3/1999.3_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1999.3/1999.3_web.jpg",
+      "thumb": "/thumbs/cma-161179.jpg",
       "external": true
     }
   },
@@ -4421,7 +4421,7 @@
     "provider_object_id": "162193",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/2002.10/2002.10_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/2002.10/2002.10_web.jpg",
+      "thumb": "/thumbs/cma-162193.jpg",
       "external": true
     }
   },
@@ -4451,7 +4451,7 @@
     "provider_object_id": "164752",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/2006.155/2006.155_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/2006.155/2006.155_web.jpg",
+      "thumb": "/thumbs/cma-164752.jpg",
       "external": true
     }
   },
@@ -4481,7 +4481,7 @@
     "provider_object_id": "148804",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1976.54/1976.54_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1976.54/1976.54_web.jpg",
+      "thumb": "/thumbs/cma-148804.jpg",
       "external": true
     }
   },
@@ -4511,7 +4511,7 @@
     "provider_object_id": "110224",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1928.84/1928.84_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1928.84/1928.84_web.jpg",
+      "thumb": "/thumbs/cma-110224.jpg",
       "external": true
     }
   },
@@ -4541,7 +4541,7 @@
     "provider_object_id": "104119",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1922.280/1922.280_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1922.280/1922.280_web.jpg",
+      "thumb": "/thumbs/cma-104119.jpg",
       "external": true
     }
   },
@@ -4571,7 +4571,7 @@
     "provider_object_id": "121289",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1942.116/1942.116_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1942.116/1942.116_web.jpg",
+      "thumb": "/thumbs/cma-121289.jpg",
       "external": true
     }
   },
@@ -4601,7 +4601,7 @@
     "provider_object_id": "284347",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/2016.41/2016.41_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/2016.41/2016.41_web.jpg",
+      "thumb": "/thumbs/cma-284347.jpg",
       "external": true
     }
   },
@@ -4631,7 +4631,7 @@
     "provider_object_id": "104116",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1922.278/1922.278_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1922.278/1922.278_web.jpg",
+      "thumb": "/thumbs/cma-104116.jpg",
       "external": true
     }
   },
@@ -4661,7 +4661,7 @@
     "provider_object_id": "437403",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145935.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145935.jpg",
+      "thumb": "/thumbs/met-437403.jpg",
       "external": true
     }
   },
@@ -4691,7 +4691,7 @@
     "provider_object_id": "437420",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146443.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146443.jpg",
+      "thumb": "/thumbs/met-437420.jpg",
       "external": true
     }
   },
@@ -4721,7 +4721,7 @@
     "provider_object_id": "437416",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145410.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145410.jpg",
+      "thumb": "/thumbs/met-437416.jpg",
       "external": true
     }
   },
@@ -4751,7 +4751,7 @@
     "provider_object_id": "437418",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146456.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146456.jpg",
+      "thumb": "/thumbs/met-437418.jpg",
       "external": true
     }
   },
@@ -4781,7 +4781,7 @@
     "provider_object_id": "437414",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145903.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145903.jpg",
+      "thumb": "/thumbs/met-437414.jpg",
       "external": true
     }
   },
@@ -4811,7 +4811,7 @@
     "provider_object_id": "437411",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146472.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146472.jpg",
+      "thumb": "/thumbs/met-437411.jpg",
       "external": true
     }
   },
@@ -4841,7 +4841,7 @@
     "provider_object_id": "437419",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145931.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145931.jpg",
+      "thumb": "/thumbs/met-437419.jpg",
       "external": true
     }
   },
@@ -4871,7 +4871,7 @@
     "provider_object_id": "437404",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145916.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145916.jpg",
+      "thumb": "/thumbs/met-437404.jpg",
       "external": true
     }
   },
@@ -4901,7 +4901,7 @@
     "provider_object_id": "437407",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1347.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1347.jpg",
+      "thumb": "/thumbs/met-437407.jpg",
       "external": true
     }
   },
@@ -4931,7 +4931,7 @@
     "provider_object_id": "359970",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP814542.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP814542.jpg",
+      "thumb": "/thumbs/met-359970.jpg",
       "external": true
     }
   },
@@ -4961,7 +4961,7 @@
     "provider_object_id": "437408",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146507.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146507.jpg",
+      "thumb": "/thumbs/met-437408.jpg",
       "external": true
     }
   },
@@ -5020,7 +5020,7 @@
     "provider_object_id": "125247",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1947.207/1947.207_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1947.207/1947.207_web.jpg",
+      "thumb": "/thumbs/cma-125247.jpg",
       "external": true
     }
   },
@@ -5050,7 +5050,7 @@
     "provider_object_id": "135661",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1959.190/1959.190_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1959.190/1959.190_web.jpg",
+      "thumb": "/thumbs/cma-135661.jpg",
       "external": true
     }
   },
@@ -5080,7 +5080,7 @@
     "provider_object_id": "131583",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1954.2/1954.2_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1954.2/1954.2_web.jpg",
+      "thumb": "/thumbs/cma-131583.jpg",
       "external": true
     }
   },
@@ -5110,7 +5110,7 @@
     "provider_object_id": "151517",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1983.69/1983.69_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1983.69/1983.69_web.jpg",
+      "thumb": "/thumbs/cma-151517.jpg",
       "external": true
     }
   },
@@ -5140,7 +5140,7 @@
     "provider_object_id": "131584",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1954.2.a/1954.2.a_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1954.2.a/1954.2.a_web.jpg",
+      "thumb": "/thumbs/cma-131584.jpg",
       "external": true
     }
   },
@@ -5170,7 +5170,7 @@
     "provider_object_id": "131585",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1954.2.b/1954.2.b_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1954.2.b/1954.2.b_web.jpg",
+      "thumb": "/thumbs/cma-131585.jpg",
       "external": true
     }
   },
@@ -5200,7 +5200,7 @@
     "provider_object_id": "123095",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1943.341/1943.341_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1943.341/1943.341_web.jpg",
+      "thumb": "/thumbs/cma-123095.jpg",
       "external": true
     }
   },
@@ -5230,7 +5230,7 @@
     "provider_object_id": "95264",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1916.1037/1916.1037_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1916.1037/1916.1037_web.jpg",
+      "thumb": "/thumbs/cma-95264.jpg",
       "external": true
     }
   },
@@ -5260,7 +5260,7 @@
     "provider_object_id": "159474",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1996.249/1996.249_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1996.249/1996.249_web.jpg",
+      "thumb": "/thumbs/cma-159474.jpg",
       "external": true
     }
   },
@@ -5290,7 +5290,7 @@
     "provider_object_id": "107449",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1925.150/1925.150_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1925.150/1925.150_web.jpg",
+      "thumb": "/thumbs/cma-107449.jpg",
       "external": true
     }
   },
@@ -5320,7 +5320,7 @@
     "provider_object_id": "155981",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1991.266/1991.266_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1991.266/1991.266_web.jpg",
+      "thumb": "/thumbs/cma-155981.jpg",
       "external": true
     }
   },
@@ -5350,7 +5350,7 @@
     "provider_object_id": "104787",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1923.1110/1923.1110_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1923.1110/1923.1110_web.jpg",
+      "thumb": "/thumbs/cma-104787.jpg",
       "external": true
     }
   },
@@ -5380,7 +5380,7 @@
     "provider_object_id": "155960",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1991.247/1991.247_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1991.247/1991.247_web.jpg",
+      "thumb": "/thumbs/cma-155960.jpg",
       "external": true
     }
   },
@@ -5410,7 +5410,7 @@
     "provider_object_id": "145198",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1970.37/1970.37_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1970.37/1970.37_web.jpg",
+      "thumb": "/thumbs/cma-145198.jpg",
       "external": true
     }
   },
@@ -5440,7 +5440,7 @@
     "provider_object_id": "149935",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1980.17/1980.17_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1980.17/1980.17_web.jpg",
+      "thumb": "/thumbs/cma-149935.jpg",
       "external": true
     }
   },
@@ -5470,7 +5470,7 @@
     "provider_object_id": "145199",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1970.37.a/1970.37.a_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1970.37.a/1970.37.a_web.jpg",
+      "thumb": "/thumbs/cma-145199.jpg",
       "external": true
     }
   },
@@ -5500,7 +5500,7 @@
     "provider_object_id": "145200",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1970.37.b/1970.37.b_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1970.37.b/1970.37.b_web.jpg",
+      "thumb": "/thumbs/cma-145200.jpg",
       "external": true
     }
   },
@@ -5530,7 +5530,7 @@
     "provider_object_id": "437532",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14286-003.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14286-003.jpg",
+      "thumb": "/thumbs/met-437532.jpg",
       "external": true
     }
   },
@@ -5560,7 +5560,7 @@
     "provider_object_id": "771716",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP879919.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP879919.jpg",
+      "thumb": "/thumbs/met-771716.jpg",
       "external": true
     }
   },
@@ -5590,7 +5590,7 @@
     "provider_object_id": "437535",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2737.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2737.jpg",
+      "thumb": "/thumbs/met-437535.jpg",
       "external": true
     }
   },
@@ -5620,7 +5620,7 @@
     "provider_object_id": "347965",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP802378.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP802378.jpg",
+      "thumb": "/thumbs/met-347965.jpg",
       "external": true
     }
   },
@@ -5650,7 +5650,7 @@
     "provider_object_id": "347982",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP802239.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP802239.jpg",
+      "thumb": "/thumbs/met-347982.jpg",
       "external": true
     }
   },
@@ -5680,7 +5680,7 @@
     "provider_object_id": "342377",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP802241.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP802241.jpg",
+      "thumb": "/thumbs/met-342377.jpg",
       "external": true
     }
   },
@@ -5710,7 +5710,7 @@
     "provider_object_id": "437524",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DT7932.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT7932.jpg",
+      "thumb": "/thumbs/met-437524.jpg",
       "external": true
     }
   },
@@ -5740,7 +5740,7 @@
     "provider_object_id": "437529",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-37758-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-37758-001.jpg",
+      "thumb": "/thumbs/met-437529.jpg",
       "external": true
     }
   },
@@ -5770,7 +5770,7 @@
     "provider_object_id": "437531",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20395-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20395-001.jpg",
+      "thumb": "/thumbs/met-437531.jpg",
       "external": true
     }
   },
@@ -5800,7 +5800,7 @@
     "provider_object_id": "348090",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DT3931.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DT3931.jpg",
+      "thumb": "/thumbs/met-348090.jpg",
       "external": true
     }
   },
@@ -5830,7 +5830,7 @@
     "provider_object_id": "437536",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-27136-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-27136-001.jpg",
+      "thumb": "/thumbs/met-437536.jpg",
       "external": true
     }
   },
@@ -5860,7 +5860,7 @@
     "provider_object_id": "437534",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DT5154.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT5154.jpg",
+      "thumb": "/thumbs/met-437534.jpg",
       "external": true
     }
   },
@@ -5919,7 +5919,7 @@
     "provider_object_id": "125249",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_web.jpg",
+      "thumb": "/thumbs/cma-125249.jpg",
       "external": true
     }
   },
@@ -5949,7 +5949,7 @@
     "provider_object_id": "135310",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1958.32/1958.32_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1958.32/1958.32_web.jpg",
+      "thumb": "/thumbs/cma-135310.jpg",
       "external": true
     }
   },
@@ -5979,7 +5979,7 @@
     "provider_object_id": "849056",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-22761-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-22761-001.jpg",
+      "thumb": "/thumbs/met-849056.jpg",
       "external": true
     }
   },
@@ -6009,7 +6009,7 @@
     "provider_object_id": "135299",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_web.jpg",
+      "thumb": "/thumbs/cma-135299.jpg",
       "external": true
     }
   },
@@ -6039,7 +6039,7 @@
     "provider_object_id": "135286",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1958.30/1958.30_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1958.30/1958.30_web.jpg",
+      "thumb": "/thumbs/cma-135286.jpg",
       "external": true
     }
   },
@@ -6069,7 +6069,7 @@
     "provider_object_id": "126085",
     "image": {
       "src": "https://openaccess-cdn.clevelandart.org/1948.303/1948.303_web.jpg",
-      "thumb": "https://openaccess-cdn.clevelandart.org/1948.303/1948.303_web.jpg",
+      "thumb": "/thumbs/cma-126085.jpg",
       "external": true
     }
   },
@@ -6099,7 +6099,7 @@
     "provider_object_id": "335538",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP108508.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP108508.jpg",
+      "thumb": "/thumbs/met-335538.jpg",
       "external": true
     }
   },
@@ -6129,7 +6129,7 @@
     "provider_object_id": "436531",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2163.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2163.jpg",
+      "thumb": "/thumbs/met-436531.jpg",
       "external": true
     }
   },
@@ -6159,7 +6159,7 @@
     "provider_object_id": "459123",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/rl/web-large/DT3154.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/rl/web-large/DT3154.jpg",
+      "thumb": "/thumbs/met-459123.jpg",
       "external": true
     }
   },
@@ -6189,7 +6189,7 @@
     "provider_object_id": "436533",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1947.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1947.jpg",
+      "thumb": "/thumbs/met-436533.jpg",
       "external": true
     }
   },
@@ -6219,7 +6219,7 @@
     "provider_object_id": "336318",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP108504.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP108504.jpg",
+      "thumb": "/thumbs/met-336318.jpg",
       "external": true
     }
   },
@@ -6249,7 +6249,7 @@
     "provider_object_id": "437998",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1946.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1946.jpg",
+      "thumb": "/thumbs/met-437998.jpg",
       "external": true
     }
   },
@@ -6279,7 +6279,7 @@
     "provider_object_id": "436530",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1494.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1494.jpg",
+      "thumb": "/thumbs/met-436530.jpg",
       "external": true
     }
   },
@@ -6309,7 +6309,7 @@
     "provider_object_id": "436536",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17161-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17161-001.jpg",
+      "thumb": "/thumbs/met-436536.jpg",
       "external": true
     }
   },
@@ -6339,7 +6339,7 @@
     "provider_object_id": "436526",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP124808.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP124808.jpg",
+      "thumb": "/thumbs/met-436526.jpg",
       "external": true
     }
   },
@@ -6369,7 +6369,7 @@
     "provider_object_id": "436524",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-41223-001.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-41223-001.jpg",
+      "thumb": "/thumbs/met-436524.jpg",
       "external": true
     }
   },
@@ -6428,7 +6428,7 @@
     "provider_object_id": "437878",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP355525.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP355525.jpg",
+      "thumb": "/thumbs/met-437878.jpg",
       "external": true
     }
   },
@@ -6458,7 +6458,7 @@
     "provider_object_id": "437877",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145924.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145924.jpg",
+      "thumb": "/thumbs/met-437877.jpg",
       "external": true
     }
   },
@@ -6488,7 +6488,7 @@
     "provider_object_id": "437881",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP353257.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP353257.jpg",
+      "thumb": "/thumbs/met-437881.jpg",
       "external": true
     }
   },
@@ -6518,7 +6518,7 @@
     "provider_object_id": "437879",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP353256.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP353256.jpg",
+      "thumb": "/thumbs/met-437879.jpg",
       "external": true
     }
   },
@@ -6548,7 +6548,7 @@
     "provider_object_id": "437880",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/ep/web-large/DP354965.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP354965.jpg",
+      "thumb": "/thumbs/met-437880.jpg",
       "external": true
     }
   },
@@ -6578,7 +6578,7 @@
     "provider_object_id": "828464",
     "image": {
       "src": "https://images.metmuseum.org/CRDImages/dp/web-large/DP886855.jpg",
-      "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP886855.jpg",
+      "thumb": "/thumbs/met-828464.jpg",
       "external": true
     }
   }

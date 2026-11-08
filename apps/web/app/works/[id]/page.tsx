@@ -96,7 +96,7 @@ export default async function WorkPage({ params }: { params: Promise<{ id: strin
                   <dd>{w.holding}</dd>
                 </div>
               ) : null}
-              {w.attribution ? (
+              {attr ? (
                 <div>
                   <dt>归属</dt>
                   <dd>{attr}</dd>

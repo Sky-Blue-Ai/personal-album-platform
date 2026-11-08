@@ -24,6 +24,7 @@ import psycopg
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "apps" / "web" / "data" / "works.json"
 ART_DIR = ROOT / "apps" / "web" / "public" / "art"
+THUMB_DIR = ROOT / "apps" / "web" / "public" / "thumbs"
 DEFAULT_DSN = os.environ.get("DATABASE_URL", "postgresql://album:album@127.0.0.1:5433/album")
 
 # 一件作品可能有多份已核验副本，前端只要一条：取分辨率最高的那份
@@ -65,6 +66,14 @@ def remote_thumb(provider: str, image_thumb: str | None, image_url: str | None) 
     if provider == "met" and "/original/" in url:
         return url.replace("/original/", "/web-large/")
     return url
+
+
+def cached_thumb(provider: str, object_id: str) -> str | None:
+    """tools/fetch_thumbs.py 落到本地的缩略图；没有就退回机构 CDN"""
+    safe = "".join(c if c.isalnum() or c in "-_" else "_" for c in str(object_id))
+    if (THUMB_DIR / f"{provider}-{safe}.jpg").exists():
+        return f"/thumbs/{provider}-{safe}.jpg"
+    return None
 
 
 def local_image(artist_id: str) -> dict | None:
@@ -131,7 +140,8 @@ def main() -> int:
                 "image": img
         or {
             "src": remote_thumb(r["provider"], r["image_thumb"], r["image_url"]),
-            "thumb": remote_thumb(r["provider"], r["image_thumb"], r["image_url"]),
+            "thumb": cached_thumb(r["provider"], r["provider_object_id"])
+            or remote_thumb(r["provider"], r["image_thumb"], r["image_url"]),
             "external": True,
         },
             }
